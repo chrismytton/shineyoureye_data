@@ -40,7 +40,6 @@ person_id,person_name,subtitle,role,organisation_name,organisation_kind,area,sta
 284,LINUS OKORIE,WASC.,Student,FED.GOVT. COLLEGE MINNA,Political Institution,,"",""
 421,TOBY OKECHUKWU TOBY,"",Student,Community Primary School Ngene-Ugbo,Political Institution,,"",1976
 131,CHANCHANGI RUFAI AHMED,Flight Operations Management Certificate,Student,,,,"",2006
-787, ARC GIDEON LUCAS GWANI,"",Member,Peoples Democratic Party,Political Party,Kaduna,"",
 32,ADAMU OCHEPO ENTONU,ND (LAW) ,Student,University of Jos,Political Institution,,2000,2002
 32,ADAMU OCHEPO ENTONU,BSC (BUILDING),Student,,,,1984,1990
 32,ADAMU OCHEPO ENTONU,G.C.E ,Student,GOVT.SEC.SCH.OTUKPO,Political Institution,,1977,1982
@@ -48,6 +47,7 @@ person_id,person_name,subtitle,role,organisation_name,organisation_kind,area,sta
 340,NNENNA IJEOMA ELENDU-UKEJE,"",Student,University of Lagos,Political Institution,,1992,1993
 340,NNENNA IJEOMA ELENDU-UKEJE,Bachelor's Degree in Education (B.Ed English),Student,University of Benin,Political Institution,,1984,1988
 391,SAMSON OKWU,Ordinary National Diploma In Accounting (HND),Student,,,,"",""
+130,BWACHA EMMANUEL,"",Student,,,,"",""
 391,SAMSON OKWU,Certified Public Accountant (CPA),Student,,,,"",""
 391,SAMSON OKWU,Association Of National Accountants Of Nigeria (ANAN),Student,,,,"",""
 391,SAMSON OKWU,First School Leaving Certificate (FSLC),Student,,,,"",""
@@ -66,7 +66,6 @@ person_id,person_name,subtitle,role,organisation_name,organisation_kind,area,sta
 369,PALLY ISUMAFE OBOKHUAIME IRIASE,B.Sc (Hons) Accountancy,Student,,,,"",1982
 369,PALLY ISUMAFE OBOKHUAIME IRIASE,WASC,Student,,,,"",1973
 123,BINTA MAIGARI BELLO,GRADE II,Student,W.T.C BAJOGA,Political Institution,,1983,1988
-130,BWACHA EMMANUEL,"",Student,,,,"",""
 76,ALKALI SAIDU AHMED,Bachelor of Science Degree(Economics),Student,,,,"",""
 85,SANI AHMAD RUFAI,Bachelor's And Master's Degree's In Economics.,Student,,,,"",""
 86,SANKARA DANLADI ABDULLAHI,Diploma (computer data processing),Student,,,,"",""
