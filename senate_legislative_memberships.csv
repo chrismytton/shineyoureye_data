@@ -1,0 +1,228 @@
+person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_subtitle,party_role,organisation_name,organisation_subtitle,organisation_role,area
+2,ABATEMI USMAN NURUDEEN,2011-05-29,2015-05-29,3534,3102,Peoples Democratic Party,"",Member,Senate,"",Senator,Kogi Central
+46,AGBOOLA AYOOLA HOSEA,2011-05-29,2015-05-29,3544,3108,Peoples Democratic Party,"",Member,Senate,"",Senator,OYO NORTH
+37,ADESEUN AYOADE ADEMOLA,2011-05-29,2013-07-30,3538,2778,Action Congress of Nigeria,"",Member,Senate,"",Senator,OYO CENTRAL
+37,ADESEUN AYOADE ADEMOLA,2013-07-31,2015-05-29,3538,5634,All Progressives Congress (APC),"",Member,Senate,"",Senator,OYO CENTRAL
+537,Abdul Nyako,2015-05-29,2019-05-29,5805,5804,All Progressives Congress (APC),"",Member,Senate,"",Senator,ADAMAWA CENTRAL
+563,Shehu Sani,,2019-05-29,5880,5879,All Progressives Congress (APC),"",Member,Senate,"",Senator,KADUNA CENTRAL
+76,ALKALI SAIDU AHMED,2011-05-29,2015-05-29,3550,3112,Peoples Democratic Party,"",Member,Senate,"",Senator,Gombe NORTH
+68,ALHASSAN AISHA JUMMAI,2011-05-29,2014-01-29,3549,3111,Peoples Democratic Party,"",Member,Senate,"",Senator,TARABA NORTH
+68,ALHASSAN AISHA JUMMAI,2014-01-29,2015-05-29,3549,5841,All Progressives Congress (APC),"",Member,Senate,"",Senator,TARABA NORTH
+267,SEKIBO GEORGE THOMPSON,2011-05-29,2019-05,3594,3140,Peoples Democratic Party,"",Member,Senate,"",Senator,RIVERS EAST
+536, BINTA MASI GARBA,2015-05-29,2019-05-29,5803,5802,All Progressives Congress (APC),"",Member,Senate,"",Senator,ADAMAWA NORTH
+99,AYO AKINYELURE PATRICK,2011-05-29,2015-07-29,3559,2885,Labour Party,"",Member,Senate,"",Senator,ONDO CENTRAL
+126,BOLUWAJI KUNLE,2011-05-29,2015-05-29,3562,2886,Labour Party,"",Member,Senate,"",Senator,ONDO SOUTH
+602,Ibrahim Danbaba Abdullahi,2015-05-29,2019-05-29,5981,5980,All Progressives Congress (APC),"",Member,Senate,"",Senator,Sokoto South
+538,Ahmadu Moallahyidi Abubakar,2015-06,2019-06,5807,5806,All Progressives Congress (APC),"",Member,Senate,"",Senator,ADAMAWA SOUTH
+184,GALAUDU ISAH MOHAMMED,2011-05-29,2015-05-29,3574,3127,Peoples Democratic Party,"",Member,Senate,"",Senator,KEBBI NORTH
+201,GWARZO BELLO HAYATU,2011-05-29,2015-05-29,3583,3134,Peoples Democratic Party,"",Member,Senate,"",Senator,KANO NORTH
+209,HASSAN ABDULMUMINI MUHAMMAD,2011-05-29,2015-05-29,3584,3135,Peoples Democratic Party,"",Member,Senate,"",Senator,JIGAWA SOUTH – WEST
+276,LAR VICTOR RAMPYAL,2011-05-29,2015-05-29,3600,3145,Peoples Democratic Party,"",Member,Senate,"",Senator,PLATEAU SOUTH
+236,IRIKA HADI A,2011-05-29,2013-07-30,3591,2878,Congress for Progressive Change,"",Member,Senate,"",Senator,Katsina (K) NORTH
+236,IRIKA HADI A,2013-07-31,2015-05-29,3591,5725,All Progressives Congress (APC),"",Member,Senate,"",Senator,Katsina (K) NORTH
+248,JAFERE ALKALI ABDULKADIR,2011-05-29,2013-07-30,3592,2828,All Nigeria Peoples Party,"",Member,Senate,"",Senator,Yobe South
+248,JAFERE ALKALI ABDULKADIR,2013-07-31,2015-05-29,3592,5683,All Progressives Congress (APC),"",Member,Senate,"",Senator,Yobe South
+539,Bassey Akpan,2015-06,2019-06,5810,5809,Peoples Democratic Party,"",Member,Senate,"",Senator,AKWA IBOM NORTH EAST
+283,JOSHUA LIDANi MOLTOBOK,2011-05-29,2019-05-29,3603,3146,Peoples Democratic Party,"",Member,Senate,"",Senator,Gombe SOUTH
+274,LAFIAGI MOHAMMED SHAABA,2011-05-29,2014-01-29,3598,3144,Peoples Democratic Party,"",Member,Senate,"",Senator,KWARA NORTH
+274,LAFIAGI MOHAMMED SHAABA,2014-01-29,2019-05-29,3598,5832,All Progressives Congress (APC),"",Member,Senate,"",Senator,KWARA NORTH
+299,M. KABIR GARBA,2011-05-29,2013-07-30,3604,2831,All Nigeria Peoples Party,"",Member,Senate,"",Senator,Zamfara Central
+299,M. KABIR GARBA,2013-07-31,2015-05-29,3604,5686,All Progressives Congress (APC),"",Member,Senate,"",Senator,Zamfara Central
+324,MUSA IBRAHIM,2011-05-29,2013-07-30,3612,2879,Congress for Progressive Change,"",Member,Senate,"",Senator,NIGER NORTH
+324,MUSA IBRAHIM,2013-07-31,2015-05-29,3612,5726,All Progressives Congress (APC),"",Member,Senate,"",Senator,NIGER NORTH
+365,ONAOLAPO OLUGBENGA OBADARA,2011-05-29,2015-05-29,3618,5798,Social Democratic Party,"",Member,Senate,"",Senator,OGUN CENTRAL
+365,ONAOLAPO OLUGBENGA OBADARA,2011-05-29,2013-07-30,3618,2792,Action Congress of Nigeria,"",Member,Senate,"",Senator,OGUN CENTRAL
+365,ONAOLAPO OLUGBENGA OBADARA,2013-07-31,2014-10,3618,5647,All Progressives Congress (APC),"",Member,Senate,"",Senator,OGUN CENTRAL
+600,Muhammad Aliero,2015-05-29,2019-05-29,5974,5973,All Progressives Congress (APC),"",Member,Senate,"",Senator,KEBBI CENTRAL
+540,Nelson Effiong,2015-06,2019-06,5812,5811,Peoples Democratic Party,"",Member,Senate,"",Senator,AKWA IBOM SOUTH
+344,OBENDE DOMINGO ALABA,2011-05-29,2013-07-30,3613,2788,Action Congress of Nigeria,"",Member,Senate,"",Senator,EDO NORTH
+344,OBENDE DOMINGO ALABA,2013-07-31,2015-05-29,3613,5643,All Progressives Congress (APC),"",Member,Senate,"",Senator,EDO NORTH
+279,LAWAN AHMAD IBRAHIM,2011-05-29,2013-07-30,3601,2829,All Nigeria Peoples Party,"",Member,Senate,"",Senator,YOBE NORTH
+279,LAWAN AHMAD IBRAHIM,2013-07-31,2019-05-29,3601,5684,All Progressives Congress (APC),"",Member,Senate,"",Senator,YOBE NORTH
+384,ROSE OKOJI OKO,2015-05-29,2019-05-29,5842,3061,Peoples Democratic Party,"",Member,Senate,"",Senator,CROSS RIVER NORTH
+425,TUTARE ABUBAKAR UMAR,2011-05-29,2015-05-29,3624,3158,Peoples Democratic Party,"",Member,Senate,"",Senator,TARABA CENTRAL
+450,WANKWO CHRIS CHUKWUMA,2011-05-29,2015-05-29,3635,3168,Peoples Democratic Party,"",Member,Senate,"",Senator,Ebonyi SOUTH
+558,Dino Melaye,2015-05-29,2019-05-29,5864,5863,All Progressives Congress (APC),"",Member,Senate,"",Senator,Kogi WEST
+426,UBA ANDY EMMANUEL NNAMDI,2011-05-29,2019-05-29,3625,3159,Peoples Democratic Party,"",Member,Senate,"",Senator,ANAMBRA SOUTH
+419,TINUBU OLUREMI,2011-05-29,2013-07-30,3622,2793,Action Congress of Nigeria,"",Member,Senate,"",Senator,LAGOS CENTRAL
+419,TINUBU OLUREMI,2013-07-31,2019-05-29,3622,5648,All Progressives Congress (APC),"",Member,Senate,"",Senator,LAGOS CENTRAL
+130,BWACHA EMMANUEL,2011-05-29,2019-05-29,3564,3120,Peoples Democratic Party,"",Member,Senate,"",Senator,TARABA SOUTH
+130,BWACHA EMMANUEL,2015-06,2019-06,7082,3120,Peoples Democratic Party,"",Member,Senate,"",Deputy Minority Leader,
+408,SOLOMON OLAMILEKAN ADEOLA,2015-05-29,2019-05-29,5862,5626,All Progressives Congress (APC),"",Member,Senate,"",Senator,LAGOS WEST
+541,Stella Oduah,2015-06,2019-06,5814,5813,Peoples Democratic Party,"",Member,Senate,"",Senator,ANAMBRA NORTH
+543,Suleiman Nazif,2015-05-29,2019-05-29,5820,5819,All Progressives Congress (APC),"",Member,Senate,"",Senator,Bauchi NORTH
+547,Ben Murray Bruce,2015-06,2019-06,5828,5827,Peoples Democratic Party,"",Member,Senate,"",Senator,BAYELSA EAST
+459,YARADUA ABUBAKAR SADIK,2011-05-29,2013-07-30,3638,2881,Congress for Progressive Change,"",Member,Senate,"",Senator,Katsina (K) CENTRAL
+459,YARADUA ABUBAKAR SADIK,2013-07-31,2015-05-29,3638,5728,All Progressives Congress (APC),"",Member,Senate,"",Senator,Katsina (K) CENTRAL
+559,Abdulrahman Abubakar,,2019-05-29,5866,5865,All Progressives Congress (APC),"",Member,Senate,"",Senator,Kogi EAST
+544,Isah Misau,2015-06,2019-06,5822,5821,All Progressives Congress (APC),"",Member,Senate,"",Senator,Bauchi CENTRAL
+582,Donald Alasoadura,2015-05-29,2019-05-29,5935,5934,All Progressives Congress (APC),"",Member,Senate,"",Senator,ONDO CENTRAL
+561,Ahmed Sani Yerima,2007-05-29,2019-05-29,5873,5872,All Progressives Congress (APC),"",Member,Senate,"",Senator,Zamfara West
+607,Bayero Nafada,2015-05-29,2019-05-29,5991,5990,All Progressives Congress (APC),"",Member,Senate,"",Senator,Gombe NORTH
+34,ADENIYI ANTHONY ADEMUYIWA ,2011-05-29,2013-07-30,3537,2777,Action Congress of Nigeria,"",Member,Senate,"",Senator,Ekiti SOUTH
+34,ADENIYI ANTHONY ADEMUYIWA ,2013-07-31,2015-05-29,3537,5633,All Progressives Congress (APC),"",Member,Senate,"",Senator,Ekiti SOUTH
+40,ADEYEMI SMART,2011-05-29,2015-05-29,3540,3105,Peoples Democratic Party,"",Member,Senate,"",Senator,Kogi WEST
+43,ADOKWE SULEIMAN ASONYA,2011-05-29,2015-05-29,3542,3106,Peoples Democratic Party,"",Member,Senate,"",Senator,Nasarawa SOUTH
+594,Suleiman Hunkuyi,2015-05-29,2019-05-29,5962,5961,All Progressives Congress (APC),"",Member,Senate,"",Senator,KADUNA NORTH
+84,ENANG ITA SOLOMON,2011-05-29,2015-05-29,3551,3113,Peoples Democratic Party,"",Member,Senate,"",Senator,AKWA IBOM NORTH EAST
+88,ANYANWU CHRIS N. D,2011-05-29,2015-05-29,3554,2840,All Progressives Grand Alliance,"",Member,Senate,"",Senator,IMO EAST
+589,Salihu Egye,2015-05-29,2019-05-29,5950,5949,All Progressives Congress (APC),"",Member,Senate,"",Senator,Nasarawa SOUTH
+545,Ali Malam Wakili,2015-05-29,2019-05-29,5824,5823,All Progressives Congress (APC),"",Member,Senate,"",Senator,Bauchi SOUTH
+560,Mohammed Ohiare,,2019-05-29,5868,5867,All Progressives Congress (APC),"",Member,Senate,"",Senator,Kogi Central
+588,Philip Gyunka,2015-05-29,2019-05-29,5948,5947,Peoples Democratic Party,"",Member,Senate,"",Senator,Nasarawa NORTH
+583,Yele Omogunwa,2015-05-29,2019-05-29,5937,5936,Peoples Democratic Party,"",Member,Senate,"",Senator,ONDO SOUTH
+585,Abdulfatai Buhari,2015-05-29,2019-05-29,5942,5941,All Progressives Congress (APC),"",Member,Senate,"",Senator,OYO NORTH
+586,Monsurat Sunmonu,2015-05-29,2019-05-29,5944,5943,All Progressives Congress (APC),"",Member,Senate,"",Senator,OYO CENTRAL
+592,Abdullahi Gumel,2015-05-29,2019-05-29,5956,5955,All Progressives Congress (APC),"",Member,Senate,"",Senator,JIGAWA NORTH - WEST
+577,Achonu Nneji,2015-05-29,2019-05-29,5925,5924,Peoples Democratic Party,"",Member,Senate,"",Senator,IMO NORTH
+593, Muhammad Shittu,2015-05-29,2019-05-29,5958,5957,All Progressives Congress (APC),"",Member,Senate,"",Senator,JIGAWA NORTH – EAST
+598, Umaru Kurfi,2015-05-29,2019-05-29,5970,5969,All Progressives Congress (APC),"",Member,Senate,"",Senator,Katsina (K) CENTRAL
+93,ASHAFA GBENGA,2011-05-29,2013-07-30,3557,2782,Action Congress of Nigeria,"",Member,Senate,"",Senator,LAGOS EAST
+93,ASHAFA GBENGA,2013-07-31,2019-05-29,3557,5638,All Progressives Congress (APC),"",Member,Senate,"",Senator,LAGOS EAST
+595,Danjuma La’ah,2015-05-29,2019-05-29,5964,5963,Peoples Democratic Party,"",Member,Senate,"",Senator,kADUNA SOUTH
+110,BARATA AHMED HASSAN,2011-05-29,2015-05-29,3561,3119,Peoples Democratic Party,"",Member,Senate,"",Senator,ADAMAWA SOUTH
+140,CHUBA-OKADIGBO MARGERY,2012-07-19,2015-05-29,3566,3121,Peoples Democratic Party,"",Member,Senate,"",Senator,ANAMBRA NORTH
+280,LAWAN MAINA MA'AJI,2011-05-29,2013-07-30,3602,2830,All Nigeria Peoples Party,"",Member,Senate,"",Senator,BORNO NORTH
+280,LAWAN MAINA MA'AJI,2013-07-31,2015-05-29,3602,5685,All Progressives Congress (APC),"",Member,Senate,"",Senator,BORNO NORTH
+108,Bagudu Abubakar Atiku,2011-05-29,2013,3560,3118,Peoples Democratic Party,"",Member,Senate,"",Senator,KEBBI CENTRAL
+596,Jibrin Barau,2015-05-29,2019-05-29,5966,5965,All Progressives Congress (APC),"",Member,Senate,"",Senator,KANO NORTH
+587,Rilwan Adesoji Akanbi,2015-05-29,2019-05-29,5946,5945,All Progressives Congress (APC),"",Member,Senate,"",Senator,OYO SOUTH
+147,DAHIRU UMARU,2011-05-29,2015-05-29,3568,3123,Peoples Democratic Party,"",Member,Senate,"",Senator,Sokoto South
+154,DANTONG GYANG DALYOP,2011-05-29,2012-07-12,3569,3124,Peoples Democratic Party,"",Member,Senate,"",Senator,PLATEAU NORTH
+429,ESUENE HELEN UDOAKAHA,2011-05-29,2015-05-29,3626,3160,Peoples Democratic Party,"",Member,Senate,"",Senator,AKWA IBOM SOUTH
+171,ETOK ALOYSIUS AKPAN,2011-05-29,2015-05-29,3572,3126,Peoples Democratic Party,"",Member,Senate,"",Senator,AKWA IBOM NORTH WEST
+454,EWUGA SOLOMON,2012-07-10,2013-07-30,3637,2880,Congress for Progressive Change,"",Member,Senate,"",Senator,Nasarawa NORTH
+454,EWUGA SOLOMON,2013-07-31,2015-05-29,3637,5727,All Progressives Congress (APC),"",Member,Senate,"",Senator,Nasarawa NORTH
+469,EZE AYOGU,2011-05-29,2015-05-29,3641,3172,Peoples Democratic Party,"",Member,Senate,"",Senator,Enugu North
+155,DARIYE JOSHUA CHIBI,2011-05-29,2014,3570,2888,Labour Party,"",Member,Senate,"",Senator,PLATEAU CENTRAL
+155,DARIYE JOSHUA CHIBI,2014,2019-05-29,3570,5881,Peoples Democratic Party,"",Member,Senate,"",Senator,PLATEAU CENTRAL
+191,NDOMA-EGBA VICTOR ,2011-05-29,2015-05-29,3577,3129,Peoples Democratic Party,"",Member,Senate,"",Senator,CROSS RIVER CENTRAL
+194,NGIGE CHRIS NWABUEZE,2011-05-29,2013-07-30,3579,2785,Action Congress of Nigeria,"",Member,Senate,"",Senator,ANAMBRA CENTRAL
+194,NGIGE CHRIS NWABUEZE,2013-07-31,2015-07-29,3579,5640,All Progressives Congress (APC),"",Member,Senate,"",Senator,ANAMBRA CENTRAL
+199,GUMBA ADAMU IBRAHIM,2011-05-29,2015-05-29,3582,3133,Peoples Democratic Party,"",Member,Senate,"",Senator,Bauchi SOUTH
+213,HEINEKEN LOKPOBIRI,2011-05-29,2015-05-29,3585,3136,Peoples Democratic Party,"",Member,Senate,"",Senator,BAYELSA WEST
+216,HUSSEIN MUDASIRU OYETUNDE,2011-05-29,2013-07-30,3586,2786,Action Congress of Nigeria,"",Member,Senate,"",Senator,OSUN WEST
+216,HUSSEIN MUDASIRU OYETUNDE,2013-07-31,2015-05-29,3586,5641,All Progressives Congress (APC),"",Member,Senate,"",Senator,OSUN WEST
+601, Bala Na’Allah,2015,2019-06,7081,5975,All Progressives Congress (APC),"",Member,Senate,"",Deputy Majority Leader,
+601, Bala Na’Allah,2015-05-29,2019-05-29,5976,5975,All Progressives Congress (APC),"",Member,Senate,"",Senator,KEBBI SOUTH
+590,Aliyu ABdullahi,2015-05-29,2019-05-29,5952,5951,All Progressives Congress (APC),"",Member,Senate,"",Senator,NIGER NORTH
+599,Yahaya Abdullahi,2015-05-29,2019-05-29,5972,5971,All Progressives Congress (APC),"",Member,Senate,"",Senator,KEBBI NORTH
+546,Foster Ogola,2015-06,2019-06,5826,5825,Peoples Democratic Party,"",Member,Senate,"",Senator,BAYELSA WEST
+597,Mustapha Bukar,2015-05-29,2019-05-29,5968,5967,All Progressives Congress (APC),"",Member,Senate,"",Senator,Katsina (K) NORTH
+232,IKISIKPO CLEVER MARCUS,2011-05-29,2015-05-29,3589,3137,Peoples Democratic Party,"",Member,Senate,"",Senator,BAYELSA EAST
+271,KURE ZAYNAB ABDULKADIR,2011-05-29,2015-05-29,3595,3141,Peoples Democratic Party,"",Member,Senate,"",Senator,NIGER SOUTH
+448,NWAGU IGWE PAULINUS,2011-05-29,2015-05-29,3633,3166,Peoples Democratic Party,"",Member,Senate,"",Senator,Ebonyi CENTRAL
+275,LANLEHIN OLUFEMI AKINOLA,2011-05-29,2013-07-30,3599,2787,Action Congress of Nigeria,"",Member,Senate,"",Senator,OYO SOUTH
+275,LANLEHIN OLUFEMI AKINOLA,2013-07-31,2015-05-29,3599,5642,All Progressives Congress (APC),"",Member,Senate,"",Senator,OYO SOUTH
+605, Marafa Bashir Abba,2015-05-29,2019-05-29,5987,5986,Peoples Democratic Party,"",Member,Senate,"",Senator,TARABA CENTRAL
+285,MACCIDO AHMAD MUHAMMAD,2011-05-29,2015-05-29,3605,3147,Peoples Democratic Party,"",Member,Senate,"",Senator,Sokoto North
+287,MAGORO MOHAMMED,2011-05-29,2015-05-29,3606,3148,Peoples Democratic Party,"",Member,Senate,"",Senator,KEBBI SOUTH
+289,MAKARFI AHMED M,2012-01-31,2015-05-29,3607,3149,Peoples Democratic Party,"",Member,Senate,"",Senator,Kaduna North
+303,MOHAMMED BASHIR GARBA,2011-05-29,2015-05-29,3611,3153,Peoples Democratic Party,"",Member,Senate,"",Senator,KANO CENTRAL
+233,NINGI AHMED ABDUL,2011-05-29,2015-05-29,3590,3138,Peoples Democratic Party,"",Member,Senate,"",Senator,Bauchi CENTRAL
+354,OJUDU BABAFEMI,2011-05-29,2013-07-30,3616,2790,Action Congress of Nigeria,"",Member,Senate,"",Senator,Ekiti CENTRAL
+354,OJUDU BABAFEMI,2013-07-31,2015-05-29,3616,5645,All Progressives Congress (APC),"",Member,Senate,"",Senator,Ekiti CENTRAL
+367,OTU PRINCE BASSEY,2011-05-29,2015-05-29,3619,3155,Peoples Democratic Party,"",Member,Senate,"",Senator,CROSS RIVER SOUTH
+376,PIUS EWHERIDO AKPOR,2011-05-29,2013-06-30,3620,2884,Democratic Peoples Party,"",Member,Senate,"",Senator,DELTA CENTRAL
+66,SALEH MOHAMMED SANI,2011-05-29,2013-07-30,3548,2876,Congress for Progressive Change,"",Member,Senate,"",Senator,KADUNA CENTRAL
+66,SALEH MOHAMMED SANI,2013-07-31,2015-05-29,3548,5723,All Progressives Congress (APC),"",Member,Senate,"",Senator,KADUNA CENTRAL
+85,SANI AHMAD RUFAI,2011-05-29,2013-07-30,3552,2825,All Nigeria Peoples Party,"",Member,Senate,"",Senator,Zamfara West
+85,SANI AHMAD RUFAI,2013-07-31,2015-05-28,3552,5680,All Progressives Congress (APC),"",Member,Senate,"",Senator,Zamfara West
+86,SANKARA DANLADI ABDULLAHI,2011-05-29,2015-05-29,3553,3114,Peoples Democratic Party,"",Member,Senate,"",Senator,JIGAWA NORTH - WEST
+472,PWAJOK GYANG NYAM SHOM,2011,2015-05-29,5488,5477,PDP ,"",Member,Senate,"",Senator,PLATEAU NORTH
+404,SIMEON AJIBOLA SIMON,2011-05-29,2015-05-29,3621,3156,Peoples Democratic Party,"",Member,Senate,"",Senator,KWARA SOUTH
+359,SOLOMON GANIYU OLANREWAJU,2011-05-29,2013-07-30,3617,2791,Action Congress of Nigeria,"",Member,Senate,"",Senator,LAGOS WEST
+359,SOLOMON GANIYU OLANREWAJU,2013-07-31,2015-05-29,3617,5646,All Progressives Congress (APC),"",Member,Senate,"",Senator,LAGOS WEST
+430,UGBESIA ODION MAGNUS,2011-05-29,2015-05-29,3627,3161,Peoples Democratic Party,"",Member,Senate,"",Senator,EDO CENTRAL
+437,USMAN ABDULAZIZ,2011-05-29,2015-05-29,3628,3162,Peoples Democratic Party,"",Member,Senate,"",Senator,JIGAWA NORTH – EAST
+439,USMAN ATTAI AIDOKO ALI,2011-12-15,2013-07-30,3629,2832,All Nigeria Peoples Party,"",Member,Senate,"",Senator,Kogi EAST
+439,USMAN ATTAI AIDOKO ALI,2013-07-31,2015-05-29,3629,5687,All Progressives Congress (APC),"",Member,Senate,"",Senator,Kogi EAST
+441,USMAN NENADI ESTHER,2011-05-29,2015-05-29,3630,3163,Peoples Democratic Party,"",Member,Senate,"",Senator,Kaduna South
+442,UZAMERE EHIGIE EDOBOR,2011-05-29,2015-05-29,3631,3164,Peoples Democratic Party,"",Member,Senate,"",Senator,EDO SOUTH
+29,ADAMU ABDULLAHI,2011-05-29,2014-01-29,3536,3104,Peoples Democratic Party,"",Member,Senate,"",Senator,Nasarawa WEST
+449,NWAGWU MATHEW IFEANYI,2011-05-29,2015-05-29,3634,3167,Peoples Democratic Party,"",Member,Senate,"",Senator,IMO NORTH
+19,ABE MAGNUS NGEI,2011-05-29,2014-01-29,3535,3103,Peoples Democratic Party,"",Member,Senate,"",Senator,RIVERS SOUTH EAST
+19,ABE MAGNUS NGEI,2014-01-29,2015-05-29,3535,5836,All Progressives Congress (APC),"",Member,Senate,"",Senator,RIVERS SOUTH EAST
+606,Mohammed Hasan ,2015-05-29,2019-05-29,5989,5988,Peoples Democratic Party,"",Member,Senate,"",Senator,Yobe South
+591,Mustapha Mohammed,2015-05-29,2019-05-29,5954,5953,All Progressives Congress (APC),"",Member,Senate,"",Senator,NIGER SOUTH
+604, Abubakar Danladi,2015-05-29,2019-05-29,5985,5984,Peoples Democratic Party,"",Member,Senate,"",Senator,TARABA NORTH
+460,YAU SAHABI ALHAJI,2011-05-29,2015-05-29,3639,3170,Peoples Democratic Party,"",Member,Senate,"",Senator,Zamfara North
+38,ADETUNBI OLUBUNMI,2011-05-29,2013-07-30,3539,2779,Action Congress of Nigeria,"",Member,Senate,"",Senator,EKITI NORTH
+38,ADETUNBI OLUBUNMI,2013-07-31,2015-05-29,3539,5635,All Progressives Congress (APC),"",Member,Senate,"",Senator,EKITI NORTH
+159,NDUME MOHAMMED ALI,2011-05-29,2014-01-29,3571,3125,Peoples Democratic Party,"",Member,Senate,"",Senator,BORNO SOUTH
+159,NDUME MOHAMMED ALI,2014-01-29,2019-05-29,3571,5833,All Progressives Congress (APC),"",Member,Senate,"",Senator,BORNO SOUTH
+159,NDUME MOHAMMED ALI,2015,2019-06,7078,5833,All Progressives Congress (APC),"",Member,Senate,"",Majority Leader,
+603,Tijjani Kaura,2015-05-29,2019-05-29,5983,5982,All Progressives Congress (APC),"",Member,Senate,"",Senator,Zamfara North
+272,KUTA DAHIRU AWAISU,2011-05-29,2014-06-12,3596,3142,Peoples Democratic Party,"",Member,Senate,"",Senator,NIGER EAST
+57,AKE WILSON ASINOBI,2011-05-29,2014-01-29,3546,3110,Peoples Democratic Party,"",Member,Senate,"",Senator,RIVERS WEST
+467,ZANNA AHMED KHALIFA,2011-05-29,2014-01-29,3640,3171,Peoples Democratic Party,"",Member,Senate,"",Senator,BORNO CENTRAL
+578,Samuel Anyanwu,2015-05-29,2019-05-29,5927,5926,Peoples Democratic Party,"",Member,Senate,"",Senator,IMO EAST
+351,SUNDAY OGBUOJI OJI,2011-05-29,2019-05-29,3615,3154,Peoples Democratic Party,"",Member,Senate,"",Senator,Ebonyi SOUTH
+346,ODUNSI AKIN KAMAR BABALOLA,2011-05-29,2013-07-30,3614,2789,Action Congress of Nigeria,"",Member,Senate,"",Senator,OGUN WEST
+346,ODUNSI AKIN KAMAR BABALOLA,2011-05-29,2015-05-29,3614,5797,Social Democratic Party,"",Member,Senate,"",Senator,OGUN WEST
+346,ODUNSI AKIN KAMAR BABALOLA,2013-07-31,2014-10,3614,5644,All Progressives Congress (APC),"",Member,Senate,"",Senator,OGUN WEST
+550,Peter Nwaboshi,2015-06,2019-06,5847,5846,Peoples Democratic Party,"",Member,Senate,"",Senator,DELTA NORTH
+195,GOBIR IBRAHIM ABDULLAHI,2011-05-29,2014-01-29,3580,3131,Peoples Democratic Party,"",Member,Senate,"",Senator,SOKOTO EAST
+195,GOBIR IBRAHIM ABDULLAHI,2014-01-29,2019-05-29,3580,5840,All Progressives Congress (APC),"",Member,Senate,"",Senator,SOKOTO EAST
+555,Clifford Ordia ,2015-06,2019-06,5857,5856,Peoples Democratic Party,"",Member,Senate,"",Senator,EDO CENTRAL
+451,WAOGU NKECHI JUSTINA,2011-05-29,2015-05-29,3636,3169,Peoples Democratic Party,"",Member,Senate,"",Senator,ABIA CENTRAL
+551,Ighoyota Amori,2015-05-29,2019-05-29,5849,5848,Peoples Democratic Party,"",Member,Senate,"",Senator,DELTA CENTRAL
+556,Mathew A. Urhoghide,2015-06,2019-06,5859,5858,Peoples Democratic Party,"",Member,Senate,"",Senator,EDO SOUTH
+579,Fatimat Raji-Rasaki ,2015-05-29,2019-05-29,5929,5928,Peoples Democratic Party,"",Member,Senate,"",Senator,Ekiti CENTRAL
+424,TUKUR BELLO MOHAMMED,2011-05-29,2015-05-29,3623,3157,Peoples Democratic Party,"",Member,Senate,"",Senator,ADAMAWA CENTRAL
+145,CHUKWUMERIJE UCHE,2011-05-29,2015-05-29,3567,3122,Peoples Democratic Party,"",Member,Senate,"",Senator,ABIA NORTH
+252,Jibrilla Bindow,2011-05-29,2014-01-29,3593,3139,Peoples Democratic Party,"",Member,Senate,"",Senator,ADAMAWA NORTH
+252,Jibrilla Bindow,2014-01-29,2015-05-29,3593,5838,All Progressives Congress (APC),"",Member,Senate,"",Senator,ADAMAWA NORTH
+218,IBRAHIM ABU,2011-05-29,2013-07-30,3587,2877,Congress for Progressive Change,"",Member,Senate,"",Senator,Katsina (K) SOUTH
+218,IBRAHIM ABU,2013-07-31,2019-05-29,3587,5724,All Progressives Congress (APC),"",Member,Senate,"",Senator,Katsina (K) SOUTH
+300,EMMANUEL PAULKER IZIBEFIEN,2011-05-29,2019-05-29,3610,3152,Peoples Democratic Party,"",Member,Senate,"",Senator,BAYELSA CENTRAL
+553,Ogba Obinna,2015-06,2019-06,5853,5852,Peoples Democratic Party,"",Member,Senate,"",Senator,Ebonyi CENTRAL
+138,CHRISTOPHER OMOWORARE BABAJIDE,2011-05-29,2013-07-30,3565,2783,Action Congress of Nigeria,"",Member,Senate,"",Senator,OSUN EAST
+138,CHRISTOPHER OMOWORARE BABAJIDE,2013-07-31,2019-05-29,3565,5639,All Progressives Congress (APC),"",Member,Senate,"",Senator,OSUN EAST
+223,IBRAHIM BUKAR ABBA,2011-05-29,2013-07-30,3588,2827,All Nigeria Peoples Party,"",Member,Senate,"",Senator,YOBE EAST
+223,IBRAHIM BUKAR ABBA,2013-07-31,2019-05-29,3588,5682,All Progressives Congress (APC),"",Member,Senate,"",Senator,YOBE EAST
+192,GEMADE BARNABAS ANDYAR IYORHER,2011-05-29,2014,3578,3130,Peoples Democratic Party,"",Member,Senate,"",Senator,BENUE NORTH EAST
+565,David Umaru,2015-04-14,2019-05-29,5886,5885,All Progressives Congress (APC),"",Member,Senate,"",Senator,NIGER EAST
+557, Duro Faseyi,2015-05-29,2019-05-29,5861,5860,Peoples Democratic Party,"",Member,Senate,"",Senator,EKITI NORTH
+127,BOROFFICE ROBERT AJAYI,2011-05-29,2013,3563,2887,Labour Party,"",Member,Senate,"",Senator,ONDO NORTH
+127,BOROFFICE ROBERT AJAYI,2013,2019-05-29,3563,5887,All Progressives Congress (APC),"",Member,Senate,"",Senator,ONDO NORTH
+256,JOHN ENOH OWAN ENOH,2015-05-29,2019-05-29,5843,3008,Peoples Democratic Party,"",Member,Senate,"",Senator,CROSS RIVER CENTRAL
+292,MANAGER JAMES EBIOWOU,2011-05-29,2019-05-29,3608,3150,Peoples Democratic Party,"",Member,Senate,"",Senator,DELTA SOUTH
+566,Biodun Christine Olujimi,,2019-05-29,5889,5888,Peoples Democratic Party,"",Member,Senate,"",Senator,Ekiti SOUTH
+566,Biodun Christine Olujimi,2015-06,2019-06,7080,5888,Peoples Democratic Party,"",Member,Senate,"",Minority Whip,
+197,GOJE MOHAMMED DANJUMA,2011-05-29,2014-01-29,3581,3132,Peoples Democratic Party,"",Member,Senate,"",Senator,Gombe CENTRAL
+562,Kabir Garba Marafa,2011-05-29,2019-05-29,5877,5876,All Progressives Congress (APC),"",Member,Senate,"",Senator,Zamfara Central
+554,Francis Alimikhena,2015-06,2019-06,5855,5854,All Progressives Congress (APC),"",Member,Senate,"",Senator,EDO NORTH
+554,Francis Alimikhena,2015-06,2019-06,7079,5854,All Progressives Congress (APC),"",Member,Senate,"",Deputy Chief Whip,
+273,EKWEREMADU IKE,2011-05-29,2019-05-29,3597,3143,Peoples Democratic Party,"",Member,Senate,"",Senator,ENUGU WEST
+294,MARK DAVID A.B,1999-05-29,2019-05-29,3609,3151,Peoples Democratic Party,"",Member,Senate,"",Senator,BENUE SOUTH
+294,MARK DAVID A.B,2007,2015,7077,3151,Peoples Democratic Party,"",Member,Senate,"",Senate President,
+548,Abubakar Kyari,2015-06,2019-06,5830,5829,All Progressives Congress (APC),"",Member,Senate,"",Senator,BORNO NORTH
+64,AKUME GEORGE ORPEL,2011-05-29,2013-07-30,3547,2781,Action Congress of Nigeria,"",Member,Senate,"",Senator,BENUE NORTH WEST
+64,AKUME GEORGE ORPEL,2013-07-31,2019-05-29,3547,5637,All Progressives Congress (APC),"",Member,Senate,"",Senator,BENUE NORTH WEST
+44,ADUDA PHILIP TANIMU,2011-05-29,2019-05-29,3543,3107,Peoples Democratic Party,"",Member,Senate,"",Senator,FCT
+41,ADEYEYE OLUSOLA,2011-05-29,2013-07-30,3541,2780,Action Congress of Nigeria,"",Member,Senate,"",Senator,OSUN CENTRAL
+41,ADEYEYE OLUSOLA,2013-07-31,2019-05-29,3541,5636,All Progressives Congress (APC),"",Member,Senate,"",Senator,OSUN CENTRAL
+549,Gershom Bassey,2015-05-29,2019-05-29,5845,5844,Peoples Democratic Party,"",Member,Senate,"",Senator,CROSS RIVER SOUTH
+573,Buruji Kashamu,2015-05-29,2019-05-29,5914,5913,Peoples Democratic Party,"",Member,Senate,"",Senator,OGUN EAST
+581,Lanre Tejuosho,2015-05-29,2019-05-29,5933,5932,All Progressives Congress (APC),"",Member,Senate,"",Senator,OGUN CENTRAL
+90,Arthur Okowa Ifeanyi,2011-05-29,2015-05-29,3556,3116,Peoples Democratic Party,"",Member,Senate,"",Senator,DELTA SOUTH
+427,UCHE LILIAN EKWUNIFE,2015-05-29,2019-05-29,5816,5815,Peoples Democratic Party,"",Member,Senate,"",Senator,ANAMBRA CENTRAL
+98,Benedict Ayade,2011-05-29,2015-05-29,3558,3117,Peoples Democratic Party,"",Member,Senate,"",Senator,CROSS RIVER NORTH
+89,SARAKI ABUBAKAR BUKOLA,2011-05-29,2014-01-29,3555,5476,PDP ,"",Member,Senate,"",Senator,KWARA CENTRAL
+89,SARAKI ABUBAKAR BUKOLA,2014-01-29,2019-05-29,3555,5831,All Progressives Congress (APC),"",Member,Senate,"",Senator,KWARA CENTRAL
+580,Gbolahan Dada,2015-05-29,2019-05-29,5931,5930,All Progressives Congress (APC),"",Member,Senate,"",Senator,OGUN WEST
+187,GARBA BABAYO GAMAWA,2011-05-29,2015-05-29,3575,3128,Peoples Democratic Party,"",Member,Senate,"",Senator,Bauchi NORTH
+56,NNAJI GILBERT EMEKA,2011-05-29,2019-05-29,3545,3109,Peoples Democratic Party,"",Member,Senate,"",Senator,Enugu East
+444,UZODINMA GOODHOPE ODIDIKA,2011-05-29,2019-05-29,3632,3165,Peoples Democratic Party,"",Member,Senate,"",Senator,IMO WEST
+190,GAYA KABIRU IBRAHIM,2007,2011,3811,2826,All Nigeria Peoples Party,"",Member,Senate,"",Deputy Minority Whip,
+190,GAYA KABIRU IBRAHIM,2011-05-29,2013-07-30,3576,2826,All Nigeria Peoples Party,"",Member,Senate,"",Senator,KANO SOUTH
+190,GAYA KABIRU IBRAHIM,2013-07-31,2019-05-29,3576,5681,All Progressives Congress (APC),"",Member,Senate,"",Senator,KANO SOUTH
+474,Theodore Ahamefule Orji ,2015-05-29,2019-05-29,5800,5492,Peoples Democratic Party,"",Member,Senate,"",Senator,ABIA CENTRAL
+1,ABARIBE ENYINNAYA HARCOURT,2011-05-29,,3533,3101,Peoples Democratic Party,"",Member,Senate,"",Senator,ABIA SOUTH
+476,Godswill Obot Akpabio,2015-06,2019-06,5808,5496,Peoples Democratic Party,"",Member,Senate,"",Senator,AKWA IBOM NORTH WEST
+476,Godswill Obot Akpabio,2015-06,2019-06,7076,5496,Peoples Democratic Party,"",Member,Senate,"",Minority leader,
+574,Osinakachukwu Ideozu,2015-05-29,2019-05-29,5916,5915,Peoples Democratic Party,"",Member,Senate,"",Senator,RIVERS WEST
+518,Mohammed Rabiu Musa Kwankwaso,2015-05-29,2019-05-29,5878,5757,All Progressives Congress (APC),"",Member,Senate,"",Senator,KANO CENTRAL
+564,Jeremiah Useni ,,2019-05-29,5884,5883,Peoples Democratic Party,"",Member,Senate,"",Senator,PLATEAU SOUTH
+528,Aliyu Magatakarda Wamakko,2013,,5978,5979,All Progressives Congress (APC),"",Member,Senate,"",Senator,Sokoto North
