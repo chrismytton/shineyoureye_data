@@ -1,13 +1,13 @@
-person_id,person_name,subtitle,role,organisation_name,organisation_kind,area,start_date,end_date
-84,ENANG ITA SOLOMON,"",Student,"Presbyterian Teachers Training College, Ididep",Educational Institution,,1974,1979
-145,CHUKWUMERIJE UCHE,"",,"Faith Bible College, Otta",Educational Institution,,1991,1992
-195,GOBIR IBRAHIM ABDULLAHI,Masters degree in Electrical Engineering,Student,University of Detroit,Educational Institution,,"",""
-429,ESUENE HELEN UDOAKAHA,Confidential Secretaryship and Office Management,Student,"Federal Training Centre, Kaduna",Educational Institution,,"",""
-429,ESUENE HELEN UDOAKAHA,MSc Finance,Student,University of Leicester,Educational Institution,United Kingdom,"",""
-470,MUTU NICHOLAS EBOMO,"",Student,"Rivers State School of Basic Studies, Port Harcourt",Educational Institution,,1985,1986
-470,MUTU NICHOLAS EBOMO,BA (Business Organisation),Student,"Saint Clements University Caicos/Island,British West Indies",Educational Institution,,"",""
-472,PWAJOK GYANG NYAM SHOM,"",Student, Ahmadu Bello University,Educational Institution,,1984,1987
-472,PWAJOK GYANG NYAM SHOM,"",Student, Jos Township Primary School,Educational Institution,,1972,1977
-472,PWAJOK GYANG NYAM SHOM,"",Student, School of Preliminary Studies,Educational Institution,,1982,1984
-472,PWAJOK GYANG NYAM SHOM,  M.Sc. Political Economy and Development Studies,Student,Post Graduate School of the University of Jos,Educational Institution,,"",1991
-472,PWAJOK GYANG NYAM SHOM,"",Student,Saint Murumba College,Educational Institution,,1977,1982
+person_id,person_name,subtitle,role,organisation_name,organisation_kind,start_date,end_date
+84,ENANG ITA SOLOMON,"",Student,"Presbyterian Teachers Training College, Ididep",Educational Institution,1974,1979
+145,CHUKWUMERIJE UCHE,"",,"Faith Bible College, Otta",Educational Institution,1991,1992
+195,GOBIR IBRAHIM ABDULLAHI,Masters degree in Electrical Engineering,Student,University of Detroit,Educational Institution,"",""
+429,ESUENE HELEN UDOAKAHA,Confidential Secretaryship and Office Management,Student,"Federal Training Centre, Kaduna",Educational Institution,"",""
+429,ESUENE HELEN UDOAKAHA,MSc Finance,Student,University of Leicester,Educational Institution,"",""
+470,MUTU NICHOLAS EBOMO,"",Student,"Rivers State School of Basic Studies, Port Harcourt",Educational Institution,1985,1986
+470,MUTU NICHOLAS EBOMO,BA (Business Organisation),Student,"Saint Clements University Caicos/Island,British West Indies",Educational Institution,"",""
+472,PWAJOK GYANG NYAM SHOM,"",Student, Ahmadu Bello University,Educational Institution,1984,1987
+472,PWAJOK GYANG NYAM SHOM,"",Student, Jos Township Primary School,Educational Institution,1972,1977
+472,PWAJOK GYANG NYAM SHOM,"",Student, School of Preliminary Studies,Educational Institution,1982,1984
+472,PWAJOK GYANG NYAM SHOM,  M.Sc. Political Economy and Development Studies,Student,Post Graduate School of the University of Jos,Educational Institution,"",1991
+472,PWAJOK GYANG NYAM SHOM,"",Student,Saint Murumba College,Educational Institution,1977,1982
