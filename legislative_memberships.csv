@@ -408,8 +408,8 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 299,M. KABIR GARBA,2013-07-31,2015-05-29,3604,5686,All Progressives Congress (APC),"",Member,Senate,"",Senator,Zamfara Central
 324,MUSA IBRAHIM,2011-05-29,2013-07-30,3612,2879,Congress for Progressive Change,"",Member,Senate,"",Senator,NIGER NORTH
 324,MUSA IBRAHIM,2013-07-31,2015-05-29,3612,5726,All Progressives Congress (APC),"",Member,Senate,"",Senator,NIGER NORTH
-365,ONAOLAPO OLUGBENGA OBADARA,2011-05-29,2013-07-30,3618,2792,Action Congress of Nigeria,"",Member,Senate,"",Senator,OGUN CENTRAL
 365,ONAOLAPO OLUGBENGA OBADARA,2011-05-29,2015-05-29,3618,5798,Social Democratic Party,"",Member,Senate,"",Senator,OGUN CENTRAL
+365,ONAOLAPO OLUGBENGA OBADARA,2011-05-29,2013-07-30,3618,2792,Action Congress of Nigeria,"",Member,Senate,"",Senator,OGUN CENTRAL
 365,ONAOLAPO OLUGBENGA OBADARA,2013-07-31,2014-10,3618,5647,All Progressives Congress (APC),"",Member,Senate,"",Senator,OGUN CENTRAL
 328,MUSTAPHA KHABEEB,2011-05-29,2015-05-29,3420,3036,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Jahun/Miga
 331,NADU SOALABOYE KARIB,2011-05-29,2015-05-29,3423,3039,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ogbia
@@ -1486,6 +1486,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 325,MUSA SARKIN-ADAR KAFFE,2014,2019-05-29,3417,6609,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Goronyo/Gada
 735, CHUKWUKA ONYEMA WILFRED,,2019-05,6353,6352,Peoples Democratic Party,"",Member,Federal House of Representatives,"",Federal Representative,Ogbaru
 690,Simon Lalong,2015-05-29,2019-05-29,6239,6238,All Progressives Congress (APC),"",Member,"Plateau State, Nigeria","",Executive Governor,Plateau
+787, ARC GIDEON LUCAS GWANI,,2019-05,6480,6479,Peoples Democratic Party,"",Member,Federal House of Representatives,"",Federal Representative,Kaura
 90,Arthur Okowa Ifeanyi,2011-05-29,2015-05-29,3556,3116,Peoples Democratic Party,"",Member,Senate,"",Senator,DELTA SOUTH
 90,Arthur Okowa Ifeanyi,2015-05-29,2019-05-29,6222,3116,Peoples Democratic Party,"",Member,"Delta State, Nigeria","",Executive Governor,Delta
 687,Nasir El-Rufai,2015-05-29,2019-05-29,6231,6230,All Progressives Congress (APC),"",Member,"Kaduna State, Nigeria","",Executive Governor,Kaduna
