@@ -220,7 +220,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 311,MOHAMMED ZAKARI,2011-05-29,2014,3404,3026,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Baruten/Kaiama,2011
 311,MOHAMMED ZAKARI,2014,2019-05-29,3404,7074,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Baruten/Kaiama,""
 384,ROSE OKOJI OKO,2011-05-29,2015-05-29,3468,3061,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ogoja/Yala,2011
-357,OLAJUMOKE OKOYA-THOMAS,2003,2011,5113,2758,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,,2007
+357,OLAJUMOKE OKOYA-THOMAS,2003,2011,5113,2758,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,,2003
 357,OLAJUMOKE OKOYA-THOMAS,2011-05-29,2013-07-30,3445,2758,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Lagos Island I,2011
 357,OLAJUMOKE OKOYA-THOMAS,2013-07-31,2015-05-29,3445,5614,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Lagos Island I,2011
 795,DANBURAM ABUBAKAR NUHU,,2019-05,6496,6495,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Kano Municipal,""
@@ -301,7 +301,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 26,ABUBAKAR ESHIOKPEK MOMOH,2005,2007,4123,2718,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
 26,ABUBAKAR ESHIOKPEK MOMOH,2011-05-29,2013-07-30,3196,2718,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Etsako East/Etsako West/ Etsako Central,2011
 26,ABUBAKAR ESHIOKPEK MOMOH,2013-07-31,2015-05-29,3196,5575,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Etsako East/Etsako West/ Etsako Central,2011
-84,ENANG ITA SOLOMON,1999,2011,3712,3113,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+84,ENANG ITA SOLOMON,1999,2011,3712,3113,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,1999
 63,AKPAN MICAH UMOH,2011-05-29,2015-05-29,3222,2915,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ikot Abasi/Mkpat Enin/Eastern Obolo,2011
 280,LAWAN MAINA MA'AJI,,2011,3824,2830,All Nigeria Peoples Party,"",Member,House of Representatives,"",Federal Representative,Abuja,""
 111,BARINADA MPIGI,2011-05-29,2015-05-29,3254,2937,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Eleme/Tai/Oyigbo,2011
@@ -336,9 +336,9 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 601,Bala Na’Allah,2007,2011,5977,5975,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Fakai/Sakaba/Wasagu/Danko/Zuru,2007
 714,ABDULRAZAK SAÁD NAMDAS,,2019-05,6299,6298,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Mayo Belwa/Ganye/Jada /Toungo,""
 767,STELLA UCHENA OBIAGELI NGWU,,2019-06,6431,6430,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Igbo-Etiti/Uzo-Uwani,""
-216,HUSSEIN MUDASIRU OYETUNDE,1999,2007,3819,2786,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,,2003
+216,HUSSEIN MUDASIRU OYETUNDE,1999,2007,3819,2786,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,,1999
 715,FRANCIS CHARLES UDUYORK,2015-05,2019-05,6302,6301,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ikot Abasi/Mkpat Enin/Eastern Obolo,""
-232,IKISIKPO CLEVER MARCUS,2003,2011,3820,3137,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+232,IKISIKPO CLEVER MARCUS,2003,2011,3820,3137,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
 801,MUNTARI DANDUTSE,,2019-05,6514,6513,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Funtua/Dandume,""
 820,AJANAH MUHAMMED KABIR,,2019-05,6563,6562,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Adavi/Okehi,""
 875,EMMANUEL DAVID OMBUGADU,,2019-06,6714,6713,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Akwanga/Nassarawa Eggon/Wamba,""
@@ -355,7 +355,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 821,YUSUF AYO TAJUDEEN,,2019-05,6566,6565,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ijumu/Kabba-Bunu,""
 925,MURTALA ISAH,2011,2019-05,6886,6885,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Faskari/Kankara/Sabuwa,2011
 233,NINGI AHMED ABDUL,,,3830,3138,Peoples Democratic Party,"",Member,House of Representatives,"",House Leader,,""
-233,NINGI AHMED ABDUL,1999,2011,3880,3138,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+233,NINGI AHMED ABDUL,1999,2011,3880,3138,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,1999
 336,NATHANIEL IGE AGUNBIADE,2011-05-29,2013-07-30,3428,2753,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Obokun/Oriade,2011
 336,NATHANIEL IGE AGUNBIADE,2013-07-31,2015-05-29,3428,5609,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Obokun/Oriade,2011
 310,MOHAMMED UMARU BAGO,2011-05-29,2013-07-30,3403,2866,Congress for Progressive Change,"",Member,House of Representatives,"",Federal Representative,Chanchaga,2011
@@ -363,7 +363,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 377,RAFEEQUAT ARINOLA ONABAMIRO,2011-05-29,2013-07-30,3461,2764,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Badagry,2011
 377,RAFEEQUAT ARINOLA ONABAMIRO,2013-07-31,2015-05-29,3461,5620,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Badagry,2011
 306,MOHAMMED OGOSHI ONAWO,2011-05-29,2019-05-29,3399,3024,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Awe/Doma/Keana,""
-312,MONSURU ALAO OWOLABI,1999,2011,4932,2751,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,,2007
+312,MONSURU ALAO OWOLABI,1999,2011,4932,2751,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,,1999
 312,MONSURU ALAO OWOLABI,2011-05-29,2013-07-30,3405,2751,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,LAGOS MAINLAND,2011
 312,MONSURU ALAO OWOLABI,2013-07-31,2015-05-29,3405,5607,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,LAGOS MAINLAND,2011
 448,NWAGU IGWE PAULINUS,,2011,3828,3166,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,,""
@@ -395,13 +395,13 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 438,USMAN ADAMU MOHAMMED,2003,2007-05-29,2575,2824,All Nigeria Peoples Party,"",Member,House of Representatives,"",Federal Representative,,2003
 438,USMAN ADAMU MOHAMMED,2011-05-29,2013-07-30,3514,2824,All Nigeria Peoples Party,"",Member,House of Representatives,"",Federal Representative,Alabasu/Gaya/Ajingi,2011
 438,USMAN ADAMU MOHAMMED,2013-07-31,2015-05-29,3514,5679,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Alabasu/Gaya/Ajingi,2011
-607,Bayero Nafada,2003,2011,5992,5990,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Dukku/Nafada,2007
+607,Bayero Nafada,2003,2011,5992,5990,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Dukku/Nafada,2003
 447,WADA GARKI USMAN,2011-05-29,2015-05-29,3519,3091,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Babura/Garki,2011
 881,Mukaila Olayiwola Kazzim,,2019-06,6728,6727,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Abeokuta North/ Obafemi- Owode/Odeda,""
 886,OLABODE O AYORINDE,,2019-06,6742,6741,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Owo/Ose,""
 805,KABIR SHAAIBU,,2019-05,6525,6524,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Batagarawa/Charanchi/Rimi,""
 824,RAZAQ OLATUNDE ATUNWA,,2019-05,6573,6572,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Ilorin West/Asa,""
-159,NDUME MOHAMMED ALI,2003,2011,3777,3125,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+159,NDUME MOHAMMED ALI,2003,2011,3777,3125,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
 291,MALLE IBRAHIM AMINU,2011-05-29,2013-07-30,3389,2863,Congress for Progressive Change,"",Member,House of Representatives,"",Federal Representative,Jalingo/Yorro/Zing,2011
 291,MALLE IBRAHIM AMINU,2013-07-31,2019-05-29,3389,5710,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Jalingo/Yorro/Zing,""
 379,RAPHAEL OLOYE NOMIYE,2011-05-29,2013-11,3463,2895,Labour Party,"",Member,House of Representatives,"",Federal Representative,Eseodo/Ilaje,2011
@@ -517,7 +517,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 937,CHIME OJI AGU,2011,2019-05,7069,7068,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Enugu North/Enugu South,2011
 718,HENRY OKON ARCHIBONG,2015-05,2019-05,6309,6308,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Itu/Ibiono Ibom,""
 41,ADEYEYE OLUSOLA,2003,2007,3680,2780,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
-44,ADUDA PHILIP TANIMU,2003,2011,3689,3107,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+44,ADUDA PHILIP TANIMU,2003,2011,3689,3107,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
 258,KABIRU MARAFA ACHIDA,2011-05-29,2014,3369,3009,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Wurno / Rabah,2011
 258,KABIRU MARAFA ACHIDA,2011-05-29,2019-05-29,3369,5875,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Wurno / Rabah,""
 733,OBINNA CHIDOKA,2015-05,2019-05,6347,6346,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Idemili North/Idemili South,""
@@ -562,7 +562,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 815,Abubakar Hassan Fulata,,2019-06,6549,6548,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Birniwa/Guri/Kirikasamma,""
 935,AKINJO KOLADE VICTOR,2015-05,2019-05,6927,6925,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Eseodo/Ilaje,""
 782,MUHAMMAD MUSA SOBA,,2019-05,6466,6465,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Soba,""
-20,ABIKE DABIRI-EREWA,2003,2011,4085,2713,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+20,ABIKE DABIRI-EREWA,2003,2011,4085,2713,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
 20,ABIKE DABIRI-EREWA,2011-05-29,2013-07-30,3190,2713,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Ikorodu,2011
 20,ABIKE DABIRI-EREWA,2013-07-31,2015-05-29,3190,5732,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Ikorodu,2011
 804,AMINU ASHIRU MANI,,2019-05,6522,6521,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Mani/Bindawa,""
@@ -617,7 +617,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 808,CHUKWUKERE AUSTINE IKECHUKWU O.,,2019-06,6532,6531,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Ideato North/Ideato South,""
 173,EZENWA FRANCIS ONYEWUCHI,2011-05-29,2019-05-29,3305,2837,All Progressives Grand Alliance,"",Member,House of Representatives,"",Federal Representative,Owerri Municipal/Owerri North/Owerri West,""
 115,BELLO KAOJE A,2011-05-29,2015-05-29,3258,2940,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Bagudo/Suru,2011
-437,USMAN ABDULAZIZ,1999,2007,3826,3162,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,,2003
+437,USMAN ABDULAZIZ,1999,2007,3826,3162,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,,1999
 307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,2011-05-29,2013-07-30,3400,2865,Congress for Progressive Change,"",Member,House of Representatives,"",Federal Representative,Birnin Gwari/Giwa,2011
 307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,2013-07-31,2015-05-29,3400,5712,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Birnin Gwari/Giwa,2011
 342,NUHU ZAKI ABDULRAZAK,2011-05-29,2015-05-29,3434,3046,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ningi/Warji,2011
@@ -734,7 +734,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 427,UCHE LILIAN EKWUNIFE,2014-08-03,2015-05-29,3506,5815,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Njikoka/Dunukofia/Anaocha,2011
 128,BRIGHT TAMUNO GOGO,2011-05-29,2019-05-29,3269,2949,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Okrika/Ogu-Bolo,""
 337,NDUDI GODWIN ELUMELU,2011-05-29,2015-05-29,3429,3042,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Aniocha North/Aniocha South/Oshimili North/Oshimili South,2011
-56,NNAJI GILBERT EMEKA,2003,2011,3696,3109,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2007
+56,NNAJI GILBERT EMEKA,2003,2011,3696,3109,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
 760,KEHINDE AGBOOLA EMMANUEL,,2019-06,6415,6414,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ikole/Oye,""
 156,DAVID DAVEMATICS OMBUGADU EMMANUEL,2011-05-29,2013-07-30,3290,2852,Congress for Progressive Change,"",Member,House of Representatives,"",Federal Representative,Akwanga/Nassarawa Eggon/Wamba,2011
 156,DAVID DAVEMATICS OMBUGADU EMMANUEL,2013-07-31,2015-05-29,3290,5699,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Akwanga/Nassarawa Eggon/Wamba,2011
@@ -780,7 +780,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 50,AHMED IDRIS MAJE,2011-05-29,2013-07-30,3211,2722,Action Congress of Nigeria,"",Member,House of Representatives,"",Federal Representative,Wase,2011
 50,AHMED IDRIS MAJE,2013-07-31,2019-05-29,3211,5579,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Wase,""
 153,DANLAMI GARBA,2011-05-29,2015-05-29,3289,2962,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Matazu/Musawa,2011
-536,BINTA MASI GARBA,1999,2007,5893,5802,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Kaduna South,2003
+536,BINTA MASI GARBA,1999,2007,5893,5802,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Kaduna South,1999
 536,BINTA MASI GARBA,2007,2011,5894,5802,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Madagali/Michika,2007
 157,DAWARI IBIETELA GEORGE,2011-05-29,2015-05-29,3291,2963,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Akuku-Toru/Asari-Toru,2011
 166,EMMANUEL LOKJI LUKA GOAR,2011-05-29,2015-05-29,3299,2968,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Kanke/Pankshin/Kanam,2011
@@ -803,7 +803,7 @@ person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_sub
 277,LAWALI ANKA HASSAN,2011-05-29,2013-07-30,3382,2810,All Nigeria Peoples Party,"",Member,House of Representatives,"",Federal Representative,Anka/Talata Mafara,2011
 277,LAWALI ANKA HASSAN,2013-07-31,2019-05-29,3382,5665,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Anka/Talata Mafara,""
 428,UDO OLUCHI IBEJI,2011-05-29,2015-05-29,3507,3081,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Umuahia North/ Umuahia South/ Ikwuano,2011
-279,LAWAN AHMAD IBRAHIM,1999,2007,3823,2829,All Nigeria Peoples Party,"",Member,House of Representatives,"",Federal Representative,Abuja,2003
+279,LAWAN AHMAD IBRAHIM,1999,2007,3823,2829,All Nigeria Peoples Party,"",Member,House of Representatives,"",Federal Representative,Abuja,1999
 378,RAFIU ADEBAYO IBRAHIM,2011-05-29,2014-01,3462,3058,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ifelodun/Offa/Oyun,2011
 304,MOHAMMED IBRAHIM IDRIS,2011-05-29,2015-05-29,3397,3022,Peoples Democratic Party,"",Member,House of Representatives,"",Federal Representative,Ankpa/Omala/Olamaboro,2011
 710,SADIQ IBRAHIM,2015-05,2019-05,6290,6289,All Progressives Congress (APC),"",Member,House of Representatives,"",Federal Representative,Furore/Song,""
