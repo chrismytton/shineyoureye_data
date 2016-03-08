@@ -1,13 +1,790 @@
 person_id,person_name,subtitle,role,organisation_name,organisation_kind,start_date,end_date
+1,ABARIBE ENYINNAYA HARCOURT,WASC(Distinction) ,Student,"Government College, Umuahia",Educational Institution,"",1974
+1,ABARIBE ENYINNAYA HARCOURT,Msc Economics,Student,University of Benin,Educational Institution,"",1982
+1,ABARIBE ENYINNAYA HARCOURT,Bsc (Hons) Economics,Student,University of Benin,Educational Institution,"",1979
+2,ABATEMI USMAN NURUDEEN,Masters Degree (Thesis Stage) ,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",2001
+2,ABATEMI USMAN NURUDEEN,"",Student,"Government Secondary School, Ilorin",Educational Institution,1975,1982
+2,ABATEMI USMAN NURUDEEN,B.Eng Agricultural Engineering,Student,Obafemi Awolowo University,Educational Institution,1992,1998
+2,ABATEMI USMAN NURUDEEN,"",Student,St. Louis Nursery & Primary School,Educational Institution,1975,1982
+3,ABAYOMI DAUDA KAKO ARE,BSc. (Hons.) Accounting,Student,University of Lagos,Educational Institution,"",""
+6,ABDUL EBBO IBRAHIM,PGD - Management,Student,Abubakar Tafawa Balewa University,Educational Institution,"",2000
+6,ABDUL EBBO IBRAHIM,PGD - Public Admin,Student,Administrative Staff College of Nigeria(ASCON),Educational Institution,"",2002
+6,ABDUL EBBO IBRAHIM,TCII Cert,Student,Govt. Teacher's Coll Dako,Educational Institution,"",1984
+6,ABDUL EBBO IBRAHIM,Leaving sch. Cert,Student,LEA Pri Sch Ebbo,Educational Institution,"",1979
+6,ABDUL EBBO IBRAHIM,Cert In Public Health,Student,Sch of Health Tech Minna,Educational Institution,"",1984
+6,ABDUL EBBO IBRAHIM,BSc Social Work,Student,University of Jos,Educational Institution,"",2008
+6,ABDUL EBBO IBRAHIM,Advanced Diploma,Student,University of Jos,Educational Institution,"",1995
+8,ABDULLAHI IDRIS GARBA,Diploma in Public Administration,Student,University of Abuja,Educational Institution,"",2011
+10,ABDULLAHI MUHAMMED WAMAKKO,OND ACCOUNTANCY,Student,KEBBI STATE POLYTECHNIC,Educational Institution,1997,1999
+10,ABDULLAHI MUHAMMED WAMAKKO,HND ACCOUNTANCY ,Student,KEBBI STATE POLYTECHNIC,Educational Institution,2000,2002
+10,ABDULLAHI MUHAMMED WAMAKKO,FSLC ,Student,WAMMAKO PRI.SCH,Educational Institution,1973,1979
+11,ABDULLAHI RICCO MOHAMMED,FSLC ,Student,CEN.PRI.SCH.GUNI,Educational Institution,"",1978
+11,ABDULLAHI RICCO MOHAMMED,GCE ,Student,FED GOVT.COLL. AZARE,Educational Institution,"",1983
+11,ABDULLAHI RICCO MOHAMMED,B.SC (ECONS) ,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",1991
+12,ABDULLAHI SALAME BALARABE,Higher Islamic Studies Certificate,Student,"College of Arts and Islamic Studies, Sokoto.",Educational Institution,1974,1977
+12,ABDULLAHI SALAME BALARABE,Arabic Teachers' Grade 3 certificate.,Student,"Giginya Memorial College, Sokoto.",Educational Institution,1969,1975
+12,ABDULLAHI SALAME BALARABE,"",Student,"L. E. A. Primary School Certificate, Salame, Gwadabawa Local Gov't.",Educational Institution,"",""
+12,ABDULLAHI SALAME BALARABE,"",Student,"National service, National Youth Service corps. (NYSC) Akwa Ibom.",Educational Institution,1987,1990
+12,ABDULLAHI SALAME BALARABE,N. C. E. Arabic/Islam (Arabic Medium),Student,"Shehu Shagari College of Education, Sokoto.",Educational Institution,2002,2003
+12,ABDULLAHI SALAME BALARABE,Graduate Diploma in Education (G.D.E.),Student,"Shehu Shagari College of Education, Sokoto.",Educational Institution,1977,1981
+12,ABDULLAHI SALAME BALARABE,Diploma in Computer Studies.,Student,The Polytechnic of Sokoto State.,Educational Institution,2004,2005
+12,ABDULLAHI SALAME BALARABE,B. A. Arabic.,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,1982,1985
+12,ABDULLAHI SALAME BALARABE,Ph.D. Islamic studies.,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,1997,2002
+12,ABDULLAHI SALAME BALARABE,M. A. Islamic studies.,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,1990,1991
+14,ABDULMUMIN JIBRIN,"MSc, MIAD",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",2003
+14,ABDULMUMIN JIBRIN,"",Student,"Bwari Secondary School, Abuja",Educational Institution,"",1994
+14,ABDULMUMIN JIBRIN,"",Student,Command Children's School Jaji,Educational Institution,"",1988
+14,ABDULMUMIN JIBRIN,PLD,Student,"Harvard Business School, US",Educational Institution,"",2010
+14,ABDULMUMIN JIBRIN,"",Student,London Business School,Educational Institution,"",2009
+14,ABDULMUMIN JIBRIN,BSc,Student,University of Abuja,Educational Institution,"",1999
+14,ABDULMUMIN JIBRIN,PhD,Student,University of Abuja,Educational Institution,"",2009
+16,ABDULRAHAMAN BADAMASUIY,WASC ,Student,AAAMC OKENE,Educational Institution,"",1981
+16,ABDULRAHAMAN BADAMASUIY,ND,Student,KWARA COLL.OF TECH ILORIN,Educational Institution,"",1984
+16,ABDULRAHAMAN BADAMASUIY,HND,Student,Kaduna Polytechnic,Educational Institution,"",1988
+16,ABDULRAHAMAN BADAMASUIY,FSLC ,Student,LSMB CENTRAL SCH OKENE,Educational Institution,"",1976
+18,ABDURAHMAN ABBA TERAB,"",Student,Federal Government College Maiduguri,Educational Institution,"",""
+18,ABDURAHMAN ABBA TERAB,"",Student,Government College Keffi,Educational Institution,"",""
+18,ABDURAHMAN ABBA TERAB,"",Student,Shehu Garbai School Maiduguri,Educational Institution,"",""
+18,ABDURAHMAN ABBA TERAB,"",Student,University of Abuja,Educational Institution,"",""
+19,ABE MAGNUS NGEI,WASC,Student,Akpor Grammar School Ozuoba,Educational Institution,1979,1981
+19,ABE MAGNUS NGEI,"",Student,Nigerian Law School,Educational Institution,1986,1987
+19,ABE MAGNUS NGEI,FSLC,Student,Primary school Bedwell street,Educational Institution,1975,1976
+19,ABE MAGNUS NGEI,LLB,Student,Rivers State University of Science and Technology,Educational Institution,1982,1986
+19,ABE MAGNUS NGEI,"",Student,"St Patrick college, Ikot Ansar, Calabar",Educational Institution,1975,1976
+20,ABIKE DABIRI-EREWA,"",Student,Harvard University Kennedy School of Govt,Educational Institution,"",""
+20,ABIKE DABIRI-EREWA,B.A English,Student,"Obafemi Awolowo University, Ile Ife",Educational Institution,"",""
+20,ABIKE DABIRI-EREWA,Msc Mass comm,Student,University of Lagos,Educational Institution,"",""
+21,ABIMBOLA OLUWAFEMI DARAMOLA,"",Student,ADO GRAMMER SCH,Educational Institution,"",1984
+21,ABIMBOLA OLUWAFEMI DARAMOLA,"",Student,CHRIST SCH ADO EKITI,Educational Institution,"",1983
+21,ABIMBOLA OLUWAFEMI DARAMOLA,MBA ,Student,UNI.OF ILORIN,Educational Institution,"",""
+22,ABIODUN ABUDU-BALOGUN,WASC,Student,Ilusin Grammar School,Educational Institution,"",""
+22,ABIODUN ABUDU-BALOGUN,OND,Student,Kaduna Polytechnic,Educational Institution,"",""
+22,ABIODUN ABUDU-BALOGUN,Sch Leaving Cert.,Student,LG Pry Sch Ita-Otu,Educational Institution,"",""
+22,ABIODUN ABUDU-BALOGUN,MBA,Student,Lagos State University,Educational Institution,"",""
+23,ABIODUN DADA AWOLEYE,WASC,Student,Oba Akinyele Memorial High School,Educational Institution,1983,1988
+23,ABIODUN DADA AWOLEYE,HND,Student,"The Polytechnic, Ibadan",Educational Institution,1997,1999
+23,ABIODUN DADA AWOLEYE,OND,Student,"The Polytechnic, Ibadan",Educational Institution,1991,1994
+25,ABIOSE IFEOLUWA AROWOSOGE,"",Associate,CHARTED INSTITUTE OF ARBITRATORS,Educational Institution,"",""
+26,ABUBAKAR ESHIOKPEK MOMOH,"",Student,Ambrose Ali University Ekpoma,Educational Institution,"",2002
+26,ABUBAKAR ESHIOKPEK MOMOH,"",Student,"St Columbanus Roman Catholic Sch., Imiegba",Educational Institution,"",1969
+26,ABUBAKAR ESHIOKPEK MOMOH,"",Student,St Thomas's College Ibusa,Educational Institution,"",1981
+27,ABUBAKAR MAHMUD WAMBAI,B A. ED,Student,"Bayero University, Kano",Educational Institution,"",""
+27,ABUBAKAR MAHMUD WAMBAI,N. C. E,Student,College Of Education Jalingo,Educational Institution,"",""
+27,ABUBAKAR MAHMUD WAMBAI,School Leaving Cert.,Student,Mubi 1 Primary School,Educational Institution,"",""
+27,ABUBAKAR MAHMUD WAMBAI,Grade II Cert.,Student,Teachers College Numan,Educational Institution,"",""
+32,ADAMU OCHEPO ENTONU,G.C.E ,Student,GOVT.SEC.SCH.OTUKPO,Educational Institution,1977,1982
+32,ADAMU OCHEPO ENTONU,ND (LAW) ,Student,University of Jos,Educational Institution,2000,2002
+33,ADEKUNLE ADEYEMI,"",Student,All Saint Primary School Agbado,Educational Institution,"",""
+33,ADEKUNLE ADEYEMI,"",Student,Anglican Primary School Okenla Ifo,Educational Institution,"",""
+33,ADEKUNLE ADEYEMI,"",Student,Methodist High School,Educational Institution,"",1985
+33,ADEKUNLE ADEYEMI,"",Student,School Of Basic Studies Ogun State College Of Education,Educational Institution,"",1989
+40,ADEYEMI SMART,MSc In Public Administration,Student,"Federal University of Technology, Owerri",Educational Institution,"",""
+41,ADEYEYE OLUSOLA,MSC,Student,University of Florida,Educational Institution,"",""
+41,ADEYEYE OLUSOLA,PHD,Student,University of Georgia,Educational Institution,"",""
+41,ADEYEYE OLUSOLA,"",Student,University of Ibadan,Educational Institution,"",""
+42,ADEYINKA AYANTUNJI AJAYI,Diploma In Business Administration (DBA) ,Student,"University of Wales, Cardiff",Educational Institution,"",""
+42,ADEYINKA AYANTUNJI AJAYI,Bachelor Of Laws (LL.B) ,Student,"University of Wales, Cardiff",Educational Institution,"",1989
+45,AFEES ADELOWO JIMOH,PGD Computer Engineering,Student,"Federal University of Technology, Owerri",Educational Institution,2001,2002
+45,AFEES ADELOWO JIMOH,WASC,Student,Kisi Comm Grammar School,Educational Institution,1988,1991
+45,AFEES ADELOWO JIMOH,NCE (Tech) Electrical Electronics,Student,"Kwara State University, Ilorin",Educational Institution,1993,1995
+45,AFEES ADELOWO JIMOH,MSc. Electronics and Computer Engineering,Student,Lagos State University,Educational Institution,2004,2006
+45,AFEES ADELOWO JIMOH,Diploma in Physics/ Electronics (HND),Student,University of Lagos,Educational Institution,1997,1999
+47,AHMAD AUDI ZAREWA,"",Student,Teacher College Rumbotso,Educational Institution,1978,1983
+47,AHMAD AUDI ZAREWA,"",Student,Zarewa Central Primary school,Educational Institution,1972,1978
+52,AHMED YUSUF TIJANI,BSC (PUB.ADMIN) ,Student,KOGI STATE UNIVERSITY,Educational Institution,2004,2009
+52,AHMED YUSUF TIJANI,G.C.E. ,Student,LOCAL GOVT.SEC SCH,Educational Institution,1984,1990
+52,AHMED YUSUF TIJANI,FSLC ,Student,NURU/ISLAMIC SCH OKENE,Educational Institution,1978,1984
+53,AISHA AHMED DAHIRU,Computer Certificate,Student,"University of Southampton, UK",Educational Institution,"",""
+55,AJAGBE ADETUNJI TAJUDEE,"",Student,Ede Muslim Grammar School,Educational Institution,1977,1982
+55,AJAGBE ADETUNJI TAJUDEE,LLB Hons,Student,Nigerian Law School,Educational Institution,1989,1990
+55,AJAGBE ADETUNJI TAJUDEE,BL,Student,"Obafemi Awolowo University, Ile Ife",Educational Institution,1986,1989
+55,AJAGBE ADETUNJI TAJUDEE,"",Student,"Oyo State College of Arts, Oyo State",Educational Institution,1983,1985
+56,NNAJI GILBERT EMEKA,WASC/GCE,Student,Boys’ High School Awkunanaw,Educational Institution,"",""
+56,NNAJI GILBERT EMEKA,FSLC,Student,Community Primary School Amoji Nike,Educational Institution,"",""
+56,NNAJI GILBERT EMEKA,Bachelor's Degree in Banking and Finance,Student,University of Nigeria Nsukka,Educational Institution,"",""
+57,AKE WILSON ASINOBI,Bachelor's Degree,Student,"University Of Science And Technology, Portharcourt",Educational Institution,"",""
+58,AKINADE- FIJABI SAHEED,SSCE,Student,"Mayflower School, Ikenne, Ogun State",Educational Institution,"",""
+58,AKINADE- FIJABI SAHEED,Professional Diploma in Urban & Regional Planning,Student,"The Polytechnic, Ibadan",Educational Institution,"",""
+58,AKINADE- FIJABI SAHEED,MSc Facilities Management,Student,"University of Greenwich, UK",Educational Institution,"",""
+58,AKINADE- FIJABI SAHEED,"Master in Business Administration, Construction and Real Estate",Student,"University of Reading, UK",Educational Institution,"",""
+60,AKINLAJA IRANOLA JOSEPH,WASC,Student,ONDO ANGLICAN GRANMMAR SCH,Educational Institution,1966,1970
+60,AKINLAJA IRANOLA JOSEPH,NATIONAL DIPLOMA ELEC.ENGR.,Student,YABA COLL.OF TECH.,Educational Institution,1977,1979
+61,AKINTAYO AMERE GAFARU,"Professional Examinations (Foundation, PE!,PE2)",Student,Institute of Chartered Accountants of Nigeria ICAN,Educational Institution,"",""
+65,ALBERT TAMINU SAM-TSOKWA,LLB(Hons),Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1981
+65,ALBERT TAMINU SAM-TSOKWA,"IJMB, SBS,",Student,"Ahmadu Bello University, Zaria",Educational Institution,1977,1978
+65,ALBERT TAMINU SAM-TSOKWA,"",Student,"Government TIC, Keffi",Educational Institution,1965,1971
+65,ALBERT TAMINU SAM-TSOKWA,"",Student,"Government TIC, Keffi",Educational Institution,1972,1976
+65,ALBERT TAMINU SAM-TSOKWA,BL(Hons),Student,Nigerian Law School,Educational Institution,1981,1982
+67,ALHASSAN ADO GARBA,Bsc Mass Communication,Student,"Bayero University, Kano",Educational Institution,"",1990
+69,ALI AHMAD,LLB; MBA,Student,"Bayero University, Kano",Educational Institution,"",""
+69,ALI AHMAD,PhD,Student,George Washington Law School (USA),Educational Institution,"",""
+69,ALI AHMAD,LLM,Student,Harvard University Law School (USA),Educational Institution,"",""
+69,ALI AHMAD,Primary School,Student,LEA School Kaduna,Educational Institution,"",""
+69,ALI AHMAD,"Called to Bar in New York, (USA)",Student,New York Bar,Educational Institution,"",""
+69,ALI AHMAD,BL,Student,Nigerian Law School,Educational Institution,"",""
+72,ALIYU BAHAGO AHMAN PATEGI,BSc INTERNATIONAL STUDIES,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+72,ALIYU BAHAGO AHMAN PATEGI,MASTER'S DEGREE IN POLITICAL ECONOMY AND DEVELOPMENT STUDIES,Student,University of Abuja,Educational Institution,"",""
+74,ALIYU IBRAHIM GEBI,SSCE,Student,GOVT COLLEGE BAUCHI,Educational Institution,"",1991
+74,ALIYU IBRAHIM GEBI,FSLC ,Student,KOBI PRI.SCH,Educational Institution,"",1986
+77,ALLIU BABATUNDE KAZEEM,"",Student,Ansar-Ud-Deen Pry School Alakoro Lagos,Educational Institution,1964,1970
+77,ALLIU BABATUNDE KAZEEM,"",Student,Gaskiya College Lagos,Educational Institution,1972,1976
+77,ALLIU BABATUNDE KAZEEM,"",Student,Hunter College Of The City University Of Newyork,Educational Institution,1980,1985
+77,ALLIU BABATUNDE KAZEEM,"",Student,Oriwu College Ikorodu Lagos,Educational Institution,1976,1978
+78,AMINU KOKO MUSA,WAEC Cert. ,Student,Gvt. Sec. Schl. D/Gori,Educational Institution,"",""
+78,AMINU KOKO MUSA,Pri. School Cert ,Student,M/Gandu Pri. School,Educational Institution,"",""
+78,AMINU KOKO MUSA,Pre-Degree Cert.,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",""
+79,AMINU PUNWET JONATHAN,NCE ,Student,COLL.OF EDU GINDIRI,Educational Institution,"",""
+79,AMINU PUNWET JONATHAN,BL  ,Student,NIG.LAW SCH. ABUJA,Educational Institution,"",2007
+79,AMINU PUNWET JONATHAN,LLB  ,Student,University of Jos,Educational Institution,"",2004
+80,AMINU RIBADU HAMMAN-TUKUR,Inst. Adm.,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+80,AMINU RIBADU HAMMAN-TUKUR,WASCE,Student,G.S.S Yola,Educational Institution,"",""
+80,AMINU RIBADU HAMMAN-TUKUR,(GR II Cert),Student,T.C Bauchi,Educational Institution,"",""
+82,AMINU SULEIMAN,PGDM,Student,"Bayero University, Kano",Educational Institution,"",""
+82,AMINU SULEIMAN,MPPA,Student,"Bayero University, Kano",Educational Institution,"",""
+84,ENANG ITA SOLOMON,"",Student,Nigerian Law School,Educational Institution,1985,1985
 84,ENANG ITA SOLOMON,"",Student,"Presbyterian Teachers Training College, Ididep",Educational Institution,1974,1979
+84,ENANG ITA SOLOMON,"LLB (Hons), BL",Student,University of Calabar,Educational Institution,1980,1984
+86,SANKARA DANLADI ABDULLAHI,PH.D public administration,Student,All Saints University of the USA,Educational Institution,"",""
+88,ANYANWU CHRIS N. D,MSc Mass Communication,Student,Florida State University,Educational Institution,"",1978
+88,ANYANWU CHRIS N. D,BSc Journalism,Student,University of Missouri,Educational Institution,1973,1977
+89,SARAKI ABUBAKAR BUKOLA,"",Student,Cheltenham College,Educational Institution,1979,1981
+89,SARAKI ABUBAKAR BUKOLA, ,Student,"Corona School, Victoria Island, Lagos",Educational Institution,1966,1972
+89,SARAKI ABUBAKAR BUKOLA,"",Student,"King College, Lagos",Educational Institution,1973,1978
+89,SARAKI ABUBAKAR BUKOLA,"",Student,"London Hospital Medical College, London (University of London)",Educational Institution,1982,1987
+95,ATIKU SHAMAKI,SSCE  ,Student,GOVT SEC. SCH. RIJAU,Educational Institution,"",1989
+95,ATIKU SHAMAKI,FSLC ,Student,KETARE PRI.SCH,Educational Institution,"",1981
+95,ATIKU SHAMAKI,OND ,Student,THE POLY.BIRNIN KEBBI,Educational Institution,"",1993
+96,AUWALU DAHIRU SALE,GCE ,Student,Barewa College Zaria,Educational Institution,"",1982
+96,AUWALU DAHIRU SALE,OND (CIVIL ENG)  ,Student,Kaduna Polytechnic,Educational Institution,"",1989
+97,AWULU EZEKIEL ADAJI,ADVANCE DIPLOMA (PUBLIC ADMIN) ,Student,BENUE POLYTECNIC,Educational Institution,"",""
+97,AWULU EZEKIEL ADAJI,FSLC ,Student,LGEA OKETE OKPIKWU OGIEWU,Educational Institution,"",""
+97,AWULU EZEKIEL ADAJI,"",Student,ST. PAUL SEC. SCH. OTUKPO,Educational Institution,"",""
+97,AWULU EZEKIEL ADAJI,PGDM ,Student,UNI.OG AGRIC.MARKUDI,Educational Institution,"",""
+98,Benedict Ayade,MBA,Student,Ambrose Ali Uni. Ekpoma,Educational Institution,2000,2002
+98,Benedict Ayade,LL.B,Student,Delta State Uni. Abraka,Educational Institution,2006,2010
+98,Benedict Ayade,PH.D ENVIRONMENTAL MICROBIOLOGY,Student,University of Ibadan,Educational Institution,1990,1994
+101,AYO HULAYAT OMIDIRAN,B.Sc (Hons) Biochem,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1985
+101,AYO HULAYAT OMIDIRAN,WASC,Student,"Ayedaade Grammar School, Ikire",Educational Institution,"",1980
+102,AYO TAJUDEEN YUSUF,O'LEVELS ,Student,ST. AUGUSTINE'S COLLEGE KABBA,Educational Institution,1982,1987
+102,AYO TAJUDEEN YUSUF,BSC (ECONS),Student,University of Jos,Educational Institution,1992,1997
+104,BABA BUKAR MACHINAMA,"",Student,"Central Primary School School,",Educational Institution,"",1973
+104,BABA BUKAR MACHINAMA,N.C.E.,Student,"College of Education, Maiduguri",Educational Institution,"",1985
+104,BABA BUKAR MACHINAMA,"",Student,"General Certificate in Education, Government Secondary School, Maiduguri",Educational Institution,"",1978
+104,BABA BUKAR MACHINAMA,B.Sc Education (Biology),Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",1990
+109,BAMIDELE AYODELE FAPARUSI,B.ENG (ELEC/ELECTRONICS) ,Student,FED.UNI. OF TECH. AKURE,Educational Institution,"",2001
+109,BAMIDELE AYODELE FAPARUSI,SSCE ,Student,LAGOS BAPTIST SEC. SCHOOL,Educational Institution,"",1993
+109,BAMIDELE AYODELE FAPARUSI,MBA (PROJECT MANAGEMENT),Student,"Obafemi Awolowo University, Ile Ife",Educational Institution,"",2008
+109,BAMIDELE AYODELE FAPARUSI,FSLC ,Student,ST MARY'S PRI SCH.ADO EKITI,Educational Institution,"",1984
+111,BARINADA MPIGI,"",Student,GSCS Ibaa,Educational Institution,1974,1979
+111,BARINADA MPIGI,"",Student,Primary School Koroma,Educational Institution,1969,1974
+111,BARINADA MPIGI,"",Student,Rivers State University Of Science & Technology,Educational Institution,1980,1984
+111,BARINADA MPIGI,"",Student,Rivers State University Of Science & Technology,Educational Institution,2001,2008
+111,BARINADA MPIGI,"",Student,University of Port Harcourt,Educational Institution,1990,1992
+118,BENJAMIN ITYOKUMBA ABOHO,B.Sc. Degree ,Student,East Tennessee State Univ. USA,Educational Institution,"",""
+118,BENJAMIN ITYOKUMBA ABOHO,M.A Degree,Student,East Tennessee State Univ. USA,Educational Institution,"",""
+118,BENJAMIN ITYOKUMBA ABOHO,WASCE,Student,W.M Bristow Sec. School Gboko,Educational Institution,"",""
+119,BEN NNEBEDUMCHUKWU NWANKWO,"",Student,"Community School, Akpu",Educational Institution,1972,1977
+119,BEN NNEBEDUMCHUKWU NWANKWO,"",Student,Federal Polytechnic Oko,Educational Institution,1983,1988
+119,BEN NNEBEDUMCHUKWU NWANKWO,"",Student,"St Micheal's College, Nimo",Educational Institution,1977,1982
+119,BEN NNEBEDUMCHUKWU NWANKWO,"",Student,University of Nigeria,Educational Institution,1999,2003
+119,BEN NNEBEDUMCHUKWU NWANKWO,"",Student,University of Nigeria,Educational Institution,2005,""
+121,BETTY JOCELYNE OKAGUA-APIAFI,MBA ,Student,Rivers State University Of Science & Technology,Educational Institution,"",""
+121,BETTY JOCELYNE OKAGUA-APIAFI,BSc Economics,Student,University of Port Harcourt,Educational Institution,"",""
+122,BILIYAMINU SHINKAFI YUSUF,ND BUSINESS ADMIN,Student,Kaduna Polytechnic,Educational Institution,"",""
+122,BILIYAMINU SHINKAFI YUSUF,S.S.C.E ,Student,Rumfa College,Educational Institution,"",""
+122,BILIYAMINU SHINKAFI YUSUF,BSC BUSINESS MANAGEMENT  ,Student,University of Maiduguri,Educational Institution,"",""
+123,BINTA MAIGARI BELLO,"",Student,COSTAIN PRIMARY SCH. ONDO STATE,Educational Institution,1978,1983
+123,BINTA MAIGARI BELLO,DIPLOMA IN PUBLIC ADMINISTRATION,Student,SCH.OF MGT AND ACCT. STUDIES JOS,Educational Institution,1993,1995
+123,BINTA MAIGARI BELLO,B.SC PUBLIC ADMINISTRATION (IN VIEW),Student,University of Maiduguri,Educational Institution,"",""
+123,BINTA MAIGARI BELLO,GRADE II,Student,W.T.C BAJOGA,Educational Institution,1983,1988
+125,BLESSING IBIBA NSIEGBE,"",Student,G. s. s Opobo Town,Educational Institution,1981,1985
+125,BLESSING IBIBA NSIEGBE,"",Student,Rivers College Of Education Port Harcourt,Educational Institution,1987,1991
+125,BLESSING IBIBA NSIEGBE,University Of Technology ,Student,Rivers UOE Port Harcourt,Educational Institution,2004,2009
+125,BLESSING IBIBA NSIEGBE,"",Student,School Of Basic Studies Port Harcourt,Educational Institution,1985,1986
+125,BLESSING IBIBA NSIEGBE,"",Student,St. Andrew's State School Idiobv,Educational Institution,1974,1980
+127,BOROFFICE ROBERT AJAYI,BSc Honours Zoology,Student,University of Ibadan,Educational Institution,"",1971
+127,BOROFFICE ROBERT AJAYI,Ph.D Genetics,Student,University of Ibadan,Educational Institution,"",1975
+128,BRIGHT TAMUNO GOGO,"",Student,Baptist High School Port Harcourt,Educational Institution,1979,1984
+128,BRIGHT TAMUNO GOGO,"",Student,"Boys State School Okrika, Rivers State",Educational Institution,1973,1979
+128,BRIGHT TAMUNO GOGO,"",Student,"College Of Education, Port Harcourt",Educational Institution,1987,1990
+128,BRIGHT TAMUNO GOGO,"",Student,Rivers State University Of Science & Technology,Educational Institution,1992,1997
+128,BRIGHT TAMUNO GOGO,"",Student,University of Port Harcourt,Educational Institution,2004,2007
+133,CHINENYE FERDINARD IKE,Phd.In View,Student,Abia State University,Educational Institution,"",""
+133,CHINENYE FERDINARD IKE,Msc International Relations,Student,University of Benin,Educational Institution,"",""
+133,CHINENYE FERDINARD IKE,Bsc Pol. Science,Student,University of Port Harcourt,Educational Institution,"",""
+134,CHIZOR LAMBERT OBIDIGWE,"",Student,"Dennis Mem. Grammar Sch. Onitsha, Anambra",Educational Institution,"",""
+134,CHIZOR LAMBERT OBIDIGWE,"",Student,Obi-Okosi Mem. Pri. Sch. Onitsha Anambra.,Educational Institution,"",""
+134,CHIZOR LAMBERT OBIDIGWE,"",Student,University of Port Harcourt,Educational Institution,"",""
+135,CHRISCATO IKECHUKWU AMEKE,BSc Accounting,Student,Ambros Alli University Ekpoma,Educational Institution,"",""
+135,CHRISCATO IKECHUKWU AMEKE,SSCE,Student,"Magbon - Alade Mem.School, Ibeju, Lagos",Educational Institution,"",""
+135,CHRISCATO IKECHUKWU AMEKE,FSLC,Student,"Obi Anazonwu Primary School, Onitsha",Educational Institution,"",""
+136,CHRIS EMEKA IFEANYI AZUBOGU,WASC,Student,Okongwu Mem. Grammar Sch. Nnewi,Educational Institution,1980,1985
+136,CHRIS EMEKA IFEANYI AZUBOGU,FSLC,Student,Umunnealam Pri. Sch. Umudun Nnewi,Educational Institution,1974,1980
+136,CHRIS EMEKA IFEANYI AZUBOGU,B. Eng,Student,University of Nigeria,Educational Institution,1985,1990
+141,CHUDI PATRICK UWAZURIKE,"",President,"Student Union, University of Nigeria, Nsukka",Educational Institution,"",""
+141,CHUDI PATRICK UWAZURIKE,Ph.D,Student,"Harvard University, USA",Educational Institution,"",""
+141,CHUDI PATRICK UWAZURIKE,M.Sc,Student,Lagos State University,Educational Institution,"",""
+141,CHUDI PATRICK UWAZURIKE,W.A.S.C,Student,Madonna High School,Educational Institution,"",""
+141,CHUDI PATRICK UWAZURIKE,B.Sc,Student,University of Nigeria,Educational Institution,"",""
+142,CHUKWUDI JONES VICTOR ONYERERI,"BSc (HONS.) BIOCHEMISTRY/MICROBIOLOGY,",Student,FED.GOVT.COLLEGE PORT-HARCOURT,Educational Institution,"",""
+142,CHUKWUDI JONES VICTOR ONYERERI,PGD. POST GRADUATE DIPLOMA IN BUSINESS ADMINISTRATION,Student,University of Nigeria,Educational Institution,"",""
+142,CHUKWUDI JONES VICTOR ONYERERI,MSc MARKETING/PUBLIC RELATIONS,Student,University of Nigeria,Educational Institution,"",""
+143,CHUKWUEMEKA EMMANUEL NWOGBO,"",Student,Abubakar Tafawa Balewa University,Educational Institution,"",2000
+143,CHUKWUEMEKA EMMANUEL NWOGBO,"",Student,Federal Polytecnic Bauchi,Educational Institution,"",1988
+143,CHUKWUEMEKA EMMANUEL NWOGBO,"",Student,ST Annes Primary Boarding Sch. Kaduna,Educational Institution,"",1976
+143,CHUKWUEMEKA EMMANUEL NWOGBO,"",Student,ST. Peters Sec. Sch. Achina,Educational Institution,"",1983
+144,CHUKWUEMEKA NKEM IHEDIOHA,"",Student,Seventh Day Adventist School,Educational Institution,"",1976
+144,CHUKWUEMEKA NKEM IHEDIOHA,"",Student,"Town School, Mbutu",Educational Institution,"",1974
+144,CHUKWUEMEKA NKEM IHEDIOHA,WASC,Student,"Uboma Secondary School, Ikperejere",Educational Institution,"",1983
+144,CHUKWUEMEKA NKEM IHEDIOHA,B.SC in Food Science and Technology,Student,University of Lagos,Educational Institution,"",1990
+145,CHUKWUMERIJE UCHE,B.Sc in Economics,Student,University of Ibadan,Educational Institution,"",""
 145,CHUKWUMERIJE UCHE,"",,"Faith Bible College, Otta",Educational Institution,1991,1992
+147,DAHIRU UMARU,B.Sc in Law and Barrister at Law,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+148,DAKUKU ADOL PETERSIDE,"B. MLS, MBA & Certificates In Project Management & Leadership",Student,"Georgia State University, Atlanta, USA",Educational Institution,"",""
+148,DAKUKU ADOL PETERSIDE,"",Student,Okrika Grammer School,Educational Institution,"",""
+148,DAKUKU ADOL PETERSIDE,"University Of Sciences & Tech. PH, ",Student,Rivers State University Of Science & Technology,Educational Institution,"",""
+148,DAKUKU ADOL PETERSIDE,Doctorate Candidate,Student,University of Port Harcourt,Educational Institution,"",""
+151,DANIEL EFFIONG ASUQUO,NCE,Student,COLL.OF EDU AKAMKPA,Educational Institution,"",1997
+151,DANIEL EFFIONG ASUQUO,FLSC ,Student,ST LOUIS PRI.SCH,Educational Institution,"",1976
+151,DANIEL EFFIONG ASUQUO,BSC,Student,University of Calabar,Educational Institution,"",2001
+152,DANIEL ORITSEGBUBEMI REYEMEJU,Bachelor's Degree in Philosophy,Student,University of Uyo,Educational Institution,"",""
+154,DANTONG GYANG DALYOP,MPH ,Student,University of Ghana Legon,Educational Institution,"",""
+155,DARIYE JOSHUA CHIBI,FCA Fellow,Student,Institute of Chartered Accountants of Nigeria ICAN,Educational Institution,"",""
+156,DAVID DAVEMATICS OMBUGADU EMMANUEL,"",Student,GOVT.COLLEGE KEFFI,Educational Institution,"",""
+156,DAVID DAVEMATICS OMBUGADU EMMANUEL,MSC (INTERNATIONAL ECONS AND FINANCE),Student,Rivers State University Of Science & Technology,Educational Institution,"",2004
+156,DAVID DAVEMATICS OMBUGADU EMMANUEL,BSC (ECONS) ,Student,University of Jos,Educational Institution,"",2001
+157,DAWARI IBIETELA GEORGE,"",Student,Gvt. Comprehensive School PH,Educational Institution,"",""
+157,DAWARI IBIETELA GEORGE,"",Student,UPE Model Pri. School PH,Educational Institution,"",""
+157,DAWARI IBIETELA GEORGE,"",Student,University of Port Harcourt,Educational Institution,"",""
+158,DEBO JEROME OLOGUNAGBA,LL.B BL,Student,"Obafemi Awolowo University, Ile Ife",Educational Institution,"",""
+158,DEBO JEROME OLOGUNAGBA,LL.M,Student,University of Lagos,Educational Institution,"",""
+160,EDDIE MBADIWE IFEANYICHUKWU,"",Student,UNIVERSITY OF EAST ANGLIA,Educational Institution,"",""
+160,EDDIE MBADIWE IFEANYICHUKWU,"",Student,University of Ibadan,Educational Institution,"",""
+162,EMMANUEL BARTHOLOMEW EKON,SSCE,Student,"Regina Coeli Secondary School, Essene Ik Abasi",Educational Institution,1984,1990
+162,EMMANUEL BARTHOLOMEW EKON,FSLC,Student,"St. Joseph Catholic Primary School, Lwukem, Etm Ekpo LGA",Educational Institution,1977,1982
+162,EMMANUEL BARTHOLOMEW EKON,BSc Hons,Student,University of Uyo,Educational Institution,"",2000
+163,EMMANUEL ETIM EKPENYONG,"OND Accounting,",Student,"Akwa Ibom Uyo State Polytechnic, Ikot Osurua",Educational Institution,"",""
+163,EMMANUEL ETIM EKPENYONG,G.C.E.,Student,Cross River State School Of Basic Studies,Educational Institution,"",""
+163,EMMANUEL ETIM EKPENYONG,F.S.L.C.,Student,St. Plus Primary School Ikot Itle Udung,Educational Institution,"",""
+163,EMMANUEL ETIM EKPENYONG,BSc. (HON) Economics,Student,University of Uyo,Educational Institution,"",""
+164,EMMANUEL ISSAC UKOETE,First School Leaving Certificate,Student,Bishop Clerk's Primary School,Educational Institution,1977,1982
+164,EMMANUEL ISSAC UKOETE,Diploma in Journalism,Student,International Institute of Journalism,Educational Institution,2007,2009
+164,EMMANUEL ISSAC UKOETE,General Certificate of Education,Student,Queen of Apostle,Educational Institution,1983,1988
+165,EMMANUEL JIME,LLB,Student,"Ahmadu Bello University, Zaria",Educational Institution,1980,1983
+165,EMMANUEL JIME,WASC  ,Student,COMM.SEC.SCH MARKURDI,Educational Institution,1974,1979
+165,EMMANUEL JIME,BL ,Student,Nigerian Law School,Educational Institution,1983,1984
+165,EMMANUEL JIME,FSLC,Student,ST WILLIAMS PRI. SCH. KEFFI,Educational Institution,1968,1974
+167,EMMANUEL YISA ORKER-JEV,"",Student,Bristow Secondary School,Educational Institution,1976,1981
+167,EMMANUEL YISA ORKER-JEV,"",Student,NKST Primary School,Educational Institution,1970,1976
+167,EMMANUEL YISA ORKER-JEV,"",Student,Nigerian Law School,Educational Institution,1988,1989
+167,EMMANUEL YISA ORKER-JEV,"",Student,"School Of Basic Studies, Makurdi",Educational Institution,1981,1983
+167,EMMANUEL YISA ORKER-JEV,"",Student,University of Jos,Educational Institution,1985,1988
+168,EMMANUEL MEMGA UDENDE,"",Student,Marmara Government Secondary School Wukari,Educational Institution,"",""
+168,EMMANUEL MEMGA UDENDE,"",Student,N.K.ST. Primary School Pevikaa Benue State,Educational Institution,"",""
+168,EMMANUEL MEMGA UDENDE,"",Student,Nigerian Law School,Educational Institution,"",""
+168,EMMANUEL MEMGA UDENDE,"",Student,University of Maiduguri,Educational Institution,"",""
+171,ETOK ALOYSIUS AKPAN,Doctorate Degree,Student,Caroline Christian University,Educational Institution,"",""
+171,ETOK ALOYSIUS AKPAN,B.Sc.(Hons),Student,University of Calabar,Educational Institution,"",""
+173,EZENWA FRANCIS ONYEWUCHI,B.SC (SOCIOLOGY),Student,University of Nigeria,Educational Institution,"",""
+174,EZIUCHE CHINWE UBANI,Msc Mass Com,Student,University of Lagos,Educational Institution,"",1994
+174,EZIUCHE CHINWE UBANI,PGD Mass Com,Student,University of Lagos,Educational Institution,"",1991
+174,EZIUCHE CHINWE UBANI,Bsc Sociology,Student,University of Lagos,Educational Institution,"",1987
+175,JAMES ABIODUN FALEKE,FINAL CERT. ,Student,CHARTERED INST. OF PUR. & SUPP. LONDON,Educational Institution,"",""
+177,FAROUK MOHAMMED LAWAN,"BA English, Bayero University",Student,"Bayero University, Kano",Educational Institution,1980,1983
+177,FAROUK MOHAMMED LAWAN,"MA English, Bayero University",Student,"Bayero University, Kano",Educational Institution,1984,1985
+177,FAROUK MOHAMMED LAWAN,PGDM ,Student,"Bayero University, Kano",Educational Institution,1991,1992
+178,FEMI GBAJABIAMILA,Bachelor's Degree,Student,"Marshall Law School, USA",Educational Institution,"",""
+178,FEMI GBAJABIAMILA,Bachelor's Degree,Student,University of Lagos,Educational Institution,"",""
+180,FOINGHA JEPHTHA,WAEC ,Student,Nembe National Grammar School,Educational Institution,1970,1976
+180,FOINGHA JEPHTHA,NCE ,Student,Rivers State College Of Education,Educational Institution,1985,1988
+180,FOINGHA JEPHTHA,"",Student,"State School, Nembe",Educational Institution,1964,1969
+180,FOINGHA JEPHTHA,B Sc. Ed ,Student,University of Port Harcourt,Educational Institution,1990,1995
+180,FOINGHA JEPHTHA,Master Of Science,Student,University of Port Harcourt,Educational Institution,2003,2003
+182,FRANCIS BUSAM ADA,WASC ,Student,GOVT.SEC SCH.OBUDU,Educational Institution,"",1980
+182,FRANCIS BUSAM ADA,FSLC ,Student,ST COLMANS PRI.SCH. UJUGWANG OBUDU,Educational Institution,"",1974
+182,FRANCIS BUSAM ADA,N.C.E  ,Student,UNI. OF CROSS RIVERS STATE UYO,Educational Institution,"",1984
+182,FRANCIS BUSAM ADA,B.ED (ADULT EDU/HISTORY)UNI.OF CAL ,Student,University of Calabar,Educational Institution,"",1996
+184,GALAUDU ISAH MOHAMMED,"",Student,Associate Chartered Institute of Bankers (London) ACIB,Educational Institution,"",""
+184,GALAUDU ISAH MOHAMMED,Fellow chartered institute of bankers of Nigeria (FCIB),Student,Chartered Institute of Bankers of Nigeria,Educational Institution,"",""
+184,GALAUDU ISAH MOHAMMED,MBA,Student,Manchester business school,Educational Institution,"",""
+185,GAMBO MUSA DAN-MUSA,LLB ,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+185,GAMBO MUSA DAN-MUSA,IJMB ,Student,C.A.S.T ZARIA,Educational Institution,"",""
+185,GAMBO MUSA DAN-MUSA,WASC ,Student,GOVT.SEC. SCH DAURA,Educational Institution,"",""
+185,GAMBO MUSA DAN-MUSA,BL,Student,Nigerian Law School,Educational Institution,"",""
+185,GAMBO MUSA DAN-MUSA,MBA,Student,University of Lagos,Educational Institution,"",""
+186,GANNY OLUWADARE DAUDA,"",Student,Ajuwa Grammar School Okeagbe,Educational Institution,1972,1977
+186,GANNY OLUWADARE DAUDA,"",Student,LA Primary School Surulere Irun,Educational Institution,1964,1969
+186,GANNY OLUWADARE DAUDA,"",Student,Ondo State Polytechnic,Educational Institution,2002,2002
+186,GANNY OLUWADARE DAUDA,"",Student,Ondo State Polytechnic,Educational Institution,1998,1999
+188,GARBA DATTI MUHAMMAD,"",Student,Abdul Aziz Atta Memorial College Okene,Educational Institution,"",1980
+188,GARBA DATTI MUHAMMAD,"",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",2003
+188,GARBA DATTI MUHAMMAD,"",Student,"Bayero University, Kano",Educational Institution,1987,1993
+188,GARBA DATTI MUHAMMAD,"",Student,Marmara Primary LEA School Sabon Gari,Educational Institution,"",1974
+190,GAYA KABIRU IBRAHIM,B. Sc Arc.,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+190,GAYA KABIRU IBRAHIM,M. Sc. Arc.,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+190,GAYA KABIRU IBRAHIM,IJMB,Student,"College of Advance Studies, Kano",Educational Institution,"",""
+190,GAYA KABIRU IBRAHIM,Primary Cert.,Student,Gaya Central Primary School,Educational Institution,"",""
+190,GAYA KABIRU IBRAHIM,WASC,Student,"Govt. College, Birnin-Kudu",Educational Institution,"",""
+191,NDOMA-EGBA VICTOR,"",Student,University of Calabar,Educational Institution,"",""
+191,NDOMA-EGBA VICTOR,"",Student,University of Lagos,Educational Institution,"",""
+192,GEMADE BARNABAS ANDYAR IYORHER,B.Sc civil engineering,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1974
+192,GEMADE BARNABAS ANDYAR IYORHER,WASC ,Student,Bristow Secondary School Gboko,Educational Institution,"",1963
+192,GEMADE BARNABAS ANDYAR IYORHER,M.Sc engineering ,Student,City University London,Educational Institution,"",1978
+192,GEMADE BARNABAS ANDYAR IYORHER,HSC,Student,Govt college Keffi,Educational Institution,"",1970
+194,NGIGE CHRIS NWABUEZE,Bachelor of Medicine and surgery (BM. BCH),Student,"Student Union, University of Nigeria, Nsukka",Educational Institution,"",1979
+195,GOBIR IBRAHIM ABDULLAHI,PhD Electrical Engineering and Energy,Student,Abubakar Tafawa Balewa University,Educational Institution,"",""
 195,GOBIR IBRAHIM ABDULLAHI,Masters degree in Electrical Engineering,Student,University of Detroit,Educational Institution,"",""
+196,GODFREY ALI GAIYA,BACHELOR'S DEGREE IN GEOLOGY,Student,University of Ibadan,Educational Institution,"",1985
+196,GODFREY ALI GAIYA,MASTER'S DEGREE IN HYDROLOGY,Student,University of Lagos,Educational Institution,"",""
+197,GOJE MOHAMMED DANJUMA,B. Sc (Political Science),Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1978
+199,GUMBA ADAMU IBRAHIM,B.SC Government,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1976
+200,GWANI LUCAS GIDE,"",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+200,GWANI LUCAS GIDE,"",Student,Kaduna Captial School,Educational Institution,"",""
+200,GWANI LUCAS GIDE,"",Student,Kaduna Polytechnic,Educational Institution,"",""
+200,GWANI LUCAS GIDE,"",Student,Kaduna Polytechnic Barewa College,Educational Institution,"",""
+200,GWANI LUCAS GIDE,"",Student,University of Jos,Educational Institution,"",""
+202,HAKEEM ABIODUN MUNIRU,"",Student,"Matori Grammar School Okoto, Isolo",Educational Institution,"",""
+202,HAKEEM ABIODUN MUNIRU,"",Student,"St Pauls Anglican School, Isaga Isolo",Educational Institution,"",""
+202,HAKEEM ABIODUN MUNIRU,"",Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",""
+204,HAMZA DALHAT,MASTERS IN PUBLIC ADMIN. ,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1987
+204,HAMZA DALHAT,B.A MASS COMM./POL.SCI.,Student,"Bayero University, Kano",Educational Institution,"",1982
+206,HARUNA FATAHI MUSA,BA (Hons),Student,"Bayero University, Kano",Educational Institution,"",1981
+206,HARUNA FATAHI MUSA,"",Student,"Government Secondary School, Kano State",Educational Institution,"",""
+206,HARUNA FATAHI MUSA,"",Student,"Yakasai Primary School, Kano State",Educational Institution,"",""
+207,HARUNA MANU,BSc Finance (Business Administration),Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+207,HARUNA MANU,MSc Electronic Commerce,Student,Carnegie Mellon Univ. USA,Educational Institution,"",""
+207,HARUNA MANU,"",Student,"Central Primary School, Mutun-Biyu",Educational Institution,"",""
+207,HARUNA MANU,"",Student,"Government Secondary School, M/Biu",Educational Institution,"",""
+208,HASKE FRANCIS HANANIYA,"",Student,"AFM Univ, Huntsville, Alabama, USA",Educational Institution,"",""
+208,HASKE FRANCIS HANANIYA,"",Student,"Command Sec. School, Kaduna",Educational Institution,"",""
+208,HASKE FRANCIS HANANIYA,"",Student,"Kufena College, Wusasa, Zaria",Educational Institution,"",""
+208,HASKE FRANCIS HANANIYA,"",Student,"Memphis State Univ. Memphis, Tenn, USA",Educational Institution,"",""
+209,HASSAN ABDULMUMINI MUHAMMAD,Masters degree in banking and finance,Student,Bayero University,Educational Institution,"",2003
+209,HASSAN ABDULMUMINI MUHAMMAD,BA economics ,Student,Bayero University,Educational Institution,"",1996
+210,HASSAN ANTHONY SALE,FSLC ,Student,ARMY CHIL.SCH KANO,Educational Institution,1974,1979
+210,HASSAN ANTHONY SALE,G.C.E A/LEVEL ,Student,FED.SCH OF ART &SCI.SULEJA,Educational Institution,1985,1987
+210,HASSAN ANTHONY SALE,G.C.E O/LEVEL ,Student,GOVT.COMP.SEC.SCH. OTUKPO,Educational Institution,1979,1984
+210,HASSAN ANTHONY SALE,BSC (POL.SCI.),Student,University of Jos,Educational Institution,1987,1990
+211,HASSAN KAKU EL-BADAWY,"",Student,NIPPS KURU JOS,Educational Institution,"",1983
+211,HASSAN KAKU EL-BADAWY,B.Ed Hons,Student,University of Ibadan,Educational Institution,"",1970
+211,HASSAN KAKU EL-BADAWY,M.Ed Administration,Student,"University of New England, Australia",Educational Institution,"",1972
+212,HAZEEZ BABAJIDE AKINLOYE,"",Student,Air-Force Military School Jos,Educational Institution,1980,1986
+212,HAZEEZ BABAJIDE AKINLOYE,"",Student,Lagos State University,Educational Institution,1987,1991
+212,HAZEEZ BABAJIDE AKINLOYE,"",Student,Lagos State University,Educational Institution,1993,1999
+212,HAZEEZ BABAJIDE AKINLOYE,"",Student,Nig. Law School Bwari,Educational Institution,"",2003
+213,HEINEKEN LOKPOBIRI,LL.B (Hons),Student,Rivers State University of Science and Technology,Educational Institution,"",1994
+215,HENRY ALADEINYEFA DANIEL-OFONGO,"",Student,"Community Secondary School Igbomotoru Town, Southern Ijaw",Educational Institution,1983,1988
+215,HENRY ALADEINYEFA DANIEL-OFONGO,"",Student,Rivers State College Of Education Port Harcourt,Educational Institution,1990,1994
+215,HENRY ALADEINYEFA DANIEL-OFONGO,"",Student,State Primary School I Ibadan St. Port Harcourt,Educational Institution,1976,""
+221,IBRAHIM BAWA KAMBA,PGDM IN MANAGEMENT,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",""
+222,IBRAHIM BELLO,"Diploma in law, LL. B(HON)",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+222,IBRAHIM BELLO,BL,Student,Nigerian Law School,Educational Institution,"",""
+223,IBRAHIM BUKAR ABBA,B Sc (Quantity Surveying),Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1975
+223,IBRAHIM BUKAR ABBA,Training in the U.K (1980-1981) Fellow Institute of Quantity Surveyors (Nigeria),Student,Institute of Quantity Surveyors,Educational Institution,1980,1981
+226,IBRAHIM MOHAMMED GARBA,LL.B (HON),Student,"Bayero University, Kano",Educational Institution,"",""
+227,IBRAHIM NUHU KAYARDA LAWAL,"",Student,Abubakar Tafawa Balewa University,Educational Institution,"",1999
+227,IBRAHIM NUHU KAYARDA LAWAL,"",Student,Govt. Sec. Tech. School Soba,Educational Institution,"",1986
+227,IBRAHIM NUHU KAYARDA LAWAL,"",Student,Kaduna Polytechnic,Educational Institution,"",2010
+227,IBRAHIM NUHU KAYARDA LAWAL,"",Student,Kaduna Polytechnic,Educational Institution,"",1991
+227,IBRAHIM NUHU KAYARDA LAWAL,"",Student,Kaduna Polytechnic,Educational Institution,"",2001
+228,IBRAHIM SHEHU GUSAU,"",Student,UNIVERSITY OF LANCASTER (UK),Educational Institution,"",""
+228,IBRAHIM SHEHU GUSAU,MBA  ,Student,WASHINGTON INTERNATIONAL UNIVERSITY(USA),Educational Institution,2004,2005
+228,IBRAHIM SHEHU GUSAU,PHD,Student,WASHINGTON INTERNATIONAL UNIVERSITY(USA),Educational Institution,2005,2010
+229,IBRAHIM TUKUR EL-SUDI,Bachelor of Laws (LL.B) Hons,Student,"Bayero University, Kano",Educational Institution,1984,1988
+229,IBRAHIM TUKUR EL-SUDI,"",Student,"Central Primary school, Serti",Educational Institution,1971,1977
+229,IBRAHIM TUKUR EL-SUDI,"",Student,"College of Preliminary Studies, Yola, Adamawa State",Educational Institution,1982,1983
+229,IBRAHIM TUKUR EL-SUDI,"",Student,"Government Secondary School, Gembu",Educational Institution,1977,1982
+229,IBRAHIM TUKUR EL-SUDI,B.L. ,Student,Nigerian Law School,Educational Institution,1988,1989
+229,IBRAHIM TUKUR EL-SUDI,General Certificate of Education,Student,"School of General Studies, BUK, Kano State",Educational Institution,1983,1984
+230,IDRIS SANI MOHAMMED,SSCE School Cert.,Student,"Federal Government College Kwali, Abuja",Educational Institution,"",""
+230,IDRIS SANI MOHAMMED,B.Tech (HND) Estate management ,Student,Federal University Of Technology Minna,Educational Institution,"",""
+230,IDRIS SANI MOHAMMED,Primary Sch Cert.,Student,Zarumai Primary School Minna,Educational Institution,"",""
+231,IFEDAYO SUNDAY ABEGUNDE,"",Student,Florida University,Educational Institution,1980,1984
+231,IFEDAYO SUNDAY ABEGUNDE,"",Student,Morgan State University,Educational Institution,1985,1987
+234,INI AKPAN UDOKA,"",Student,"Clan School, Itu Mbonuso",Educational Institution,1973,1975
+234,INI AKPAN UDOKA,"",Student,"GRS School of Basic Studies, Akamkpa",Educational Institution,1981,1982
+234,INI AKPAN UDOKA,"",Student,"Government Secondary School, Ntonesk",Educational Institution,1975,1980
+234,INI AKPAN UDOKA,"",Student,"Presbyterian School, Ibiono Emero",Educational Institution,1970,1972
+238,ISA HASSAN MOHAMMED,DAC (ACCOUNTANCY),Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1987
+238,ISA HASSAN MOHAMMED,G.C.E ,Student,Barewa College Zaria,Educational Institution,"",1983
+238,ISA HASSAN MOHAMMED,BSC (ECONS),Student,University of Jos,Educational Institution,"",1992
+240,ISA LAWAN,"",Student,GSS Kukawa/ GSSSS Mowguwo,Educational Institution,1986,1992
+240,ISA LAWAN,"",Student,Kingarwa Primary School,Educational Institution,1980,1986
+240,ISA LAWAN,"",Student,Ramat polytechnic Maiduguri,Educational Institution,1998,2000
+240,ISA LAWAN,"",Student,University of Maiduguri,Educational Institution,2007,2008
+247,ISMAIL INAH HUSSAIN,PGD ,Student,ENUGU STATE UNI. OF SCI. AND TECH,Educational Institution,"",2002
+247,ISMAIL INAH HUSSAIN,HND,Student,FED.POLY IDAH,Educational Institution,"",1989
+247,ISMAIL INAH HUSSAIN,MPA (UNDER REVIEW) ,Student,NATIONAL OPEN UNIVERSITY LOKOJA,Educational Institution,2009,""
+247,ISMAIL INAH HUSSAIN,WASC,Student,ST. PETER'S COLLEGE IDAH,Educational Institution,"",1979
+248,JAFERE ALKALI ABDULKADIR,"",Student,Nigeria institute of journalism Jos,Educational Institution,"",""
+248,JAFERE ALKALI ABDULKADIR,Ramat polytechnic Maiduguri,Student,Ramat polytechnic Maiduguri,Educational Institution,"",""
+249,JAGABA ADAMS JAGABA,Masters International Relation and Diplomacy,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+249,JAGABA ADAMS JAGABA,grade II Cert. ,Student,Basawa Teachers College Zaria,Educational Institution,"",""
+249,JAGABA ADAMS JAGABA,B. A Mass-Comm ,Student,Jos ECWA Seminary,Educational Institution,"",""
+249,JAGABA ADAMS JAGABA,Primary School Cert,Student,Kubacha,Educational Institution,"",""
+250,JERIMON SAMUEL MANWE,Certificate on Accounting,Student,"Federal Polytechnic, Mubi, Adamawa State",Educational Institution,"",""
+250,JERIMON SAMUEL MANWE,"",Student,"Federal University of Technology, Yola, Adamawa State",Educational Institution,"",""
+250,JERIMON SAMUEL MANWE,School Certificate,Student,"GSS Jalingo, Taraba State",Educational Institution,"",""
+251,JERRY ALAGBASO,W.A.S.C,Student,HOLY GHOST COLLEGE,Educational Institution,"",1974
+251,JERRY ALAGBASO,M.ED (INDUSTRIAL RELATIONS) ,Student,University of Ibadan,Educational Institution,"",1980
+251,JERRY ALAGBASO,B.ED ,Student,University of Ibadan,Educational Institution,"",1978
+253,JIM AIKU ADUN,Retired Group Captain (NAF),Student,Nigerian Air Force,Educational Institution,"",""
+254,JIMOH ADEWALE BABATUNDE,OND Business Administration,Student,Lagos State Polytechnic,Educational Institution,2005,2009
+254,JIMOH ADEWALE BABATUNDE,Secondary School Certificate,Student,"Oba Seku High School, Eruwa.",Educational Institution,1977,1982
+255,JOHN DYEGH,"MBA,MA (INT.RELATIONS) ",Student,BENUE STATE UNIVERSITY,Educational Institution,"",""
+255,JOHN DYEGH,FSLC ,Student,LGEAGBOKO SOUTH,Educational Institution,"",""
+255,JOHN DYEGH,WASC ,Student,MBAWAWUAR SEC.SCH.,Educational Institution,"",""
+257,JULIUS OLUFEMI FAKEYE,Certificate Executive Management,Student,Carnegie Mellon Univ. USA,Educational Institution,"",""
+257,JULIUS OLUFEMI FAKEYE,Certificate In Executive Management,Student,Northwestern Univ.,Educational Institution,"",""
+259,KAKA KYARI GUJBAWU,"",Student,Govt College M/guri,Educational Institution,1980,1985
+259,KAKA KYARI GUJBAWU,"",Student,University of Calabar,Educational Institution,1998,1999
+259,KAKA KYARI GUJBAWU,"",Student,University of Lagos,Educational Institution,1999,2000
+259,KAKA KYARI GUJBAWU,"",Student,University of Maiduguri,Educational Institution,1985,1991
+260,KALGO SANI UMAR MOHAMMED,"",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+260,KALGO SANI UMAR MOHAMMED,"",Student,Gvt. College Bida,Educational Institution,"",""
+260,KALGO SANI UMAR MOHAMMED,"",Student,Gvt. College Kaduna,Educational Institution,"",""
+260,KALGO SANI UMAR MOHAMMED,"",Student,Polytechnic of central London,Educational Institution,"",""
+261,KAREEM TAJUDEEN ABISODUN,"",Student,"Ajegunle Baptist Day School, Saki, Oyo State",Educational Institution,"",1980
+261,KAREEM TAJUDEEN ABISODUN,"",Student,"Ansar-Ur-Deen High School, Saki, Oyo State",Educational Institution,"",1987
+261,KAREEM TAJUDEEN ABISODUN,H.N.D. Estate Management,Student,"The Polytechnic, Ibadan",Educational Institution,1989,1992
+261,KAREEM TAJUDEEN ABISODUN,OND,Student,"The Polytechnic, Ibadan",Educational Institution,1989,1989
+263,KENNETH ANAYO CHIKERE,"",Student,"County Grammar School, Ikwerre-Etche",Educational Institution,"",""
+263,KENNETH ANAYO CHIKERE,"",Student,London School Of Economics (University Of London),Educational Institution,"",""
+263,KENNETH ANAYO CHIKERE,"",Student,Nigerian Law School,Educational Institution,"",""
+263,KENNETH ANAYO CHIKERE,"",Student,"St. Paul's Anglican School, Diobu, Port Harcourt",Educational Institution,"",""
+263,KENNETH ANAYO CHIKERE,"",Student,University of Lagos,Educational Institution,"",""
+264,KENNETH EDET ACHIBONG,"",Student,"Lutheran High School, Uyo, Akwa Ibom State",Educational Institution,"",""
+264,KENNETH EDET ACHIBONG,"",Student,"Tinu School, Surelere, Lagos State",Educational Institution,"",""
+264,KENNETH EDET ACHIBONG,BSc Physics,Student,University of Calabar,Educational Institution,1980,1984
+265,KHADIJA BUKAR IBRAHIM,O' Levels,Student,"Headington School, Oxford, UK",Educational Institution,"",1985
+265,KHADIJA BUKAR IBRAHIM,National Diploma,Student,"Padworth College, Reading, UK",Educational Institution,"",1986
+265,KHADIJA BUKAR IBRAHIM,BSc Business Studies and Sociology,Student,University of Surrey UK,Educational Institution,"",1989
+266,KHAMISU MAILANTARKI AHMED,PGD EPP - Post Graduate Diploma Environmental Protection & Planning,Student,University of Abuja,Educational Institution,1997,2004
+267,SEKIBO GEORGE THOMPSON,"",Student,"Govt. Secondary School, Ogu",Educational Institution,1975,1980
+267,SEKIBO GEORGE THOMPSON,B. Tech (Honours) Architecture,Student,Rivers State University of Science and Technology,Educational Institution,1981,1985
+267,SEKIBO GEORGE THOMPSON,"",Student,"St. Martins State School, Ogu",Educational Institution,1970,1975
+267,SEKIBO GEORGE THOMPSON,M. Eng. Masters in Environmental Engineering,Student,"University of Port Harcourt, Choba",Educational Institution,2002,2008
+268,KIGBU JOSEPH HARUNA,MBBS ,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1990
+269,KINGSLEY SUNDAY EBENYI,"",Student,University of Nigeria,Educational Institution,"",""
+270,KINGSLEY OGUNDU CHINDA,"",Student,Nigerian Law School,Educational Institution,1994,1995
+270,KINGSLEY OGUNDU CHINDA,"",Student,Rivers State University Of Science & Technology,Educational Institution,1987,1994
+270,KINGSLEY OGUNDU CHINDA,"",Student,State SchooI Oruebum Port Harcourt,Educational Institution,1972,1978
+270,KINGSLEY OGUNDU CHINDA,"",Student,Stella Maris College Port Harcourt,Educational Institution,1978,1983
+271,KURE ZAYNAB ABDULKADIR,BSc Political Science ,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1984
+277,LAWALI ANKA HASSAN,"HND, Public Administration",Student,"Abdu Gusau Polytechnic, Talata Mafara, Kano State",Educational Institution,2000,2002
+277,LAWALI ANKA HASSAN,"",Student,"Anka Township Primary School, Anka",Educational Institution,1975,1980
+277,LAWALI ANKA HASSAN,"",Student,Government Secondary School,Educational Institution,1980,1985
+277,LAWALI ANKA HASSAN,"",Student,Government Secondary School,Educational Institution,"",2000
+277,LAWALI ANKA HASSAN,Diploma in Accounting,Student,"Kaduna State Polytechnic, Zaria",Educational Institution,1995,1997
+277,LAWALI ANKA HASSAN,"HND, Banking and Finance",Student,Kano State Polytechnic,Educational Institution,2008,2009
+281,LAWAN SHEHU,"",Student,"Chiranci Primary School, Bichi",Educational Institution,1975,1981
+281,LAWAN SHEHU,"Certificate in Diploma, Public Administration",Student,"Federal College of Education, Kano State",Educational Institution,2007,2009
+281,LAWAN SHEHU,"",Student,"Government Secondary School, Karaye, Kano State",Educational Institution,1984,1986
+281,LAWAN SHEHU,G.C.E. ,Student,"Government Secondary School, Tofa",Educational Institution,1981,1983
+282,LEONARD OKUWEH OGOR,AIBI QUALIFICATION,Student,THE EMILE WOLF COLLEGE OF ACCOUNTANCY LONDON,Educational Institution,"",""
+284,LINUS OKORIE,WASC.,Student,FED.GOVT. COLLEGE MINNA,Educational Institution,"",""
+284,LINUS OKORIE,"",Student,MAYO SCH. OF CHARTERERD ACCOUNTANCY YABA LAGOS,Educational Institution,1990,1992
+284,LINUS OKORIE,HND. ,Student,NIG.ARMY SCHOOL OF FINANCE AND ADMINISTRATION,Educational Institution,1988,1990
+287,MAGORO MOHAMMED,"",Student,Command and Staff College Jaji,Educational Institution,"",1977
+287,MAGORO MOHAMMED,"",Student,"Junior Primary School, Mahuta",Educational Institution,1950,1953
+287,MAGORO MOHAMMED,"",Student,Kontagora Senior Primary School,Educational Institution,1954,1956
+287,MAGORO MOHAMMED,"",Student,Niger Provincial Secondary School,Educational Institution,1957,1962
+287,MAGORO MOHAMMED,"",Student,US Army War College,Educational Institution,"",1982
+288,MAHMUD LAWAN MAINA MAINA,"",Student,Borno College of Agriculture,Educational Institution,"",""
+288,MAHMUD LAWAN MAINA MAINA,"",Student,Borno College of Basic Studies Bama,Educational Institution,"",""
+288,MAHMUD LAWAN MAINA MAINA,"",Student,GSS Monguno,Educational Institution,"",""
+288,MAHMUD LAWAN MAINA MAINA,"",Student,Mafa Central Primary School,Educational Institution,"",""
+288,MAHMUD LAWAN MAINA MAINA,"",Student,University of Maiduguri,Educational Institution,"",""
+290,MAKINDE MIKAIL OLAROTIMI,HND Accounts,Student,"Kwara State University, Kwara State",Educational Institution,"",""
+290,MAKINDE MIKAIL OLAROTIMI,Masters in Finance,Student,Ladoke Akintola University,Educational Institution,"",""
+290,MAKINDE MIKAIL OLAROTIMI,"",Student,"Okun Omoni Grammar School, Ife, Osun State",Educational Institution,"",""
+290,MAKINDE MIKAIL OLAROTIMI,GCE,Student,"School of Basic Studies, Birnin Kebbi, Kebbi State",Educational Institution,"",""
+290,MAKINDE MIKAIL OLAROTIMI,OND Accounts,Student,"The Polytechnic, Birnin Kebbi",Educational Institution,"",""
+291,MALLE IBRAHIM AMINU,Diploma Animal Health & Husbandry,Student,"College Of Agriculture, Jalingo, Taraba State",Educational Institution,1987,1989
+291,MALLE IBRAHIM AMINU,M.Tech Animal Production & Management,Student,"Federal University of Technology, Yola",Educational Institution,2003,2006
+291,MALLE IBRAHIM AMINU,PhD Animal Production (In View),Student,"Federal University of Technology, Yola",Educational Institution,2007,""
+291,MALLE IBRAHIM AMINU,G.C.E,Student,"Government Secondary School, Bali,",Educational Institution,1984,1986
+291,MALLE IBRAHIM AMINU,"",Student,Marmara Government Secondary School Wukari,Educational Institution,1982,1984
+291,MALLE IBRAHIM AMINU,B. Sc. Animal Science,Student,University of Maiduguri,Educational Institution,1990,1995
+292,MANAGER JAMES EBIOWOU,B.Sc,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+292,MANAGER JAMES EBIOWOU,"B.Sc, M.Sc Law",Student,University of Lagos,Educational Institution,"",""
+294,MARK DAVID A.B,"",Student,"Military College of Telecommunication, Molow and Poona.",Educational Institution,"",""
+296,MATTHEW M. OMEGARA,BSc Hons. Business Administration,Student,University of Lagos,Educational Institution,"",1988
+298,MICHAEL OPEYEMI BAMIDELE,W.A.S.C ,Student,BAPTIST ACADEMY OBANIKORO LAGOS,Educational Institution,1981,1982
+298,MICHAEL OPEYEMI BAMIDELE,LLM. ,Student,"FRANKLIN PIERCE LAW CENTER,USA",Educational Institution,1995,1996
+298,MICHAEL OPEYEMI BAMIDELE,BL  (1990-91 ),Student,NIG.LAW SCH. LAGOS,Educational Institution,1990,1991
+298,MICHAEL OPEYEMI BAMIDELE,BA O.A.U ILE IFE 1982-,Student,"Obafemi Awolowo University, Ile Ife",Educational Institution,1982,1986
+298,MICHAEL OPEYEMI BAMIDELE,LLB UNI.OF BENIN (1987-90),Student,University of Benin,Educational Institution,1987,1990
+300,EMMANUEL PAULKER IZIBEFIEN,WASC 1973,Student,Bishop Dimeari Grammar School,Educational Institution,"",1973
+300,EMMANUEL PAULKER IZIBEFIEN,BSc (Hons) Biochemistry,Student,"University of Port Harcourt, Choba",Educational Institution,"",1983
+302,MOHAMMAD ALI WUDIL,"B.ENG Electrical, ",Student,"Bayero University, Kano",Educational Institution,1989,1993
+302,MOHAMMAD ALI WUDIL,WAEC Technology,Student,"GSTS, Kano State",Educational Institution,"",""
+302,MOHAMMAD ALI WUDIL,National Diploma Electrical,Student,GTTS Kano State,Educational Institution,"",""
+302,MOHAMMAD ALI WUDIL,Hogher National Diploma Electrical,Student,Kaduna Polytechnic,Educational Institution,1983,1985
+302,MOHAMMAD ALI WUDIL,Primary School Leaving Certificate,Student,"Wudil Primary School, Kano State",Educational Institution,"",""
+304,MOHAMMED IBRAHIM IDRIS,"GCE O'Level,",Student,Federal Government College Sokoto,Educational Institution,"",1985
+304,MOHAMMED IBRAHIM IDRIS,HND,Student,Kaduna Polytechnic,Educational Institution,"",1994
+304,MOHAMMED IBRAHIM IDRIS,ND,Student,Kaduna Polytechnic,Educational Institution,"",1986
+304,MOHAMMED IBRAHIM IDRIS,FSLC,Student,"Model Primary School, Sokoto",Educational Institution,"",1980
+304,MOHAMMED IBRAHIM IDRIS,"MBA,",Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",1998
+304,MOHAMMED IBRAHIM IDRIS,"PGD,",Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",1996
+306,MOHAMMED OGOSHI ONAWO,"",Student,A.T.C AKWANGA,Educational Institution,"",1980
+306,MOHAMMED OGOSHI ONAWO,"",Student,G.S.S LAFIYA,Educational Institution,"",1973
+306,MOHAMMED OGOSHI ONAWO,"",Student,G.T.C JOS,Educational Institution,"",1975
+306,MOHAMMED OGOSHI ONAWO,"",Student,L.E.A PRI.SCH. DOMA,Educational Institution,"",1968
+306,MOHAMMED OGOSHI ONAWO,HND ,Student,Ramat polytechnic Maiduguri,Educational Institution,"",1995
+307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,"",Student,ABU Staff School Zaria,Educational Institution,1973,1979
+307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,"",Student,Barewa College Zaria,Educational Institution,1979,""
+307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,"",Student,Institude of Admin ABU Zaria,Educational Institution,1986,1988
+307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,"",Student,Institude of Islamic Banking & Insurance London,Educational Institution,2002,2003
+307,MOHAMMED SHAMSIDIN ANGO ABDULLAHI,"",Student,University of Jos,Educational Institution,1989,1992
+308,MOHAMMED TAHIR MONGUNO,BL,Student,Nigerian Law School,Educational Institution,"",""
+308,MOHAMMED TAHIR MONGUNO,LLB (Hons),Student,University of Maiduguri,Educational Institution,"",""
+309,MOHAMMED TUKUR ADAMU,"",Student,"Bayero University, Kano",Educational Institution,"",""
+309,MOHAMMED TUKUR ADAMU,"",Student,FSLC KIRFI/CHELEDI PRI.SCH.,Educational Institution,"",""
+309,MOHAMMED TUKUR ADAMU,"",Student,G.C.E GOVT.SEC.SCH KAFIN-MADAKI,Educational Institution,"",""
+310,MOHAMMED UMARU BAGO,S.S.C.E,Student,"F.G.C.,Jos",Educational Institution,"",""
+310,MOHAMMED UMARU BAGO, F.L.S.C,Student,Marafa Primary School,Educational Institution,"",""
+310,MOHAMMED UMARU BAGO,B Sc Political Science,Student,UDUS,Educational Institution,"",""
+311,MOHAMMED ZAKARI,Diploma in Law,Student,"ABU, Zaria",Educational Institution,"",1991
+311,MOHAMMED ZAKARI,School Cert.,Student,BSS New-Bussa,Educational Institution,"",1988
+311,MOHAMMED ZAKARI,Diploma in Jounalism,Student,"Institute of Journalism, Jos",Educational Institution,"",1999
+311,MOHAMMED ZAKARI,B Sc Sociology,Student,University of Ilorin,Educational Institution,"",2001
+311,MOHAMMED ZAKARI,M Sc Criminology,Student,University of Ilorin,Educational Institution,"",2009
+314,MOSHOOD ABIODUN BAKARE,"",Student,"African Church Comprehensive High School, Ikere Ekiti",Educational Institution,1979,1984
+314,MOSHOOD ABIODUN BAKARE,"",Student,Moremi High School O.A.U Ile-Ife,Educational Institution,1984,1985
+314,MOSHOOD ABIODUN BAKARE,"",Student,National Youth Service Corps,Educational Institution,1990,1991
+314,MOSHOOD ABIODUN BAKARE,"",Student,"Ondo State University, Ado-Ekiti",Educational Institution,1986,1990
+314,MOSHOOD ABIODUN BAKARE,"",Student,"Seventh Day Primary School, Ile-Ife",Educational Institution,"",""
+315,MUAZU B/TUDU LAWAL,NCE ,Student,"ABU, Zaria",Educational Institution,"",1985
+315,MUAZU B/TUDU LAWAL,"",Student,FSLC BRININ TUDU PRI SCH,Educational Institution,"",1975
+315,MUAZU B/TUDU LAWAL,GRADE II ,Student,"GOVT.TEACHERS COLLEGE, GUSAU",Educational Institution,"",1980
+315,MUAZU B/TUDU LAWAL,BSC (POL.SCI.),Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",1990
+317,MUHAMMAD BASHIR GALADANCHI,"",Student,"Government Junior Secondary School, Warure",Educational Institution,1989,1992
+317,MUHAMMAD BASHIR GALADANCHI,"",Student,"Government Secondary School, Panshekara",Educational Institution,1997,2000
+317,MUHAMMAD BASHIR GALADANCHI,"",Student,Gwale Special Primary school,Educational Institution,1983,1989
+317,MUHAMMAD BASHIR GALADANCHI,"",Student,Rumfa College,Educational Institution,1992,1995
+318,MUHTARI MUHAMMAD CHIROMAWA,"",Student,"FSLC, IDI Primary School",Educational Institution,"",""
+318,MUHTARI MUHAMMAD CHIROMAWA,Agriculture Extension Certificate,Student,Farm Training Centre,Educational Institution,"",""
+318,MUHTARI MUHAMMAD CHIROMAWA,"National Diploma, Agriculture",Student,Federal College of Fisheries,Educational Institution,"",""
+318,MUHTARI MUHAMMAD CHIROMAWA,"National Diploma, Public Relations",Student,Northern Business School,Educational Institution,"",""
+318,MUHTARI MUHAMMAD CHIROMAWA,B.A.  ,Student,"University of London, (Thames Valley)",Educational Institution,"",""
+319,MULIKAT O. AKANDE-ADEOLA,B.L ,Student,"Ahmadu Bello University, Zaria",Educational Institution,1979,1982
+319,MULIKAT O. AKANDE-ADEOLA,"",Student,"Katsina College of Arts and Science,Zaira",Educational Institution,1977,1979
+319,MULIKAT O. AKANDE-ADEOLA,LLB,Student,Nigerian Law School,Educational Institution,1982,1983
+319,MULIKAT O. AKANDE-ADEOLA,"",Student,Queen Amina College,Educational Institution,1972,1976
+319,MULIKAT O. AKANDE-ADEOLA,"",Student,St. Anne's Primary School Kaduna,Educational Institution,1966,1971
+319,MULIKAT O. AKANDE-ADEOLA,LLM ,Student,University of Lagos,Educational Institution,1984,1985
+320,MUNIR BABBA DANAGUNDI,"",Student,"Government College, B/Kudu",Educational Institution,"",""
+320,MUNIR BABBA DANAGUNDI,HND Irrigation Engineering,Student,Kaduna Polytechnic,Educational Institution,1988,1990
+320,MUNIR BABBA DANAGUNDI,OND Irrigation Engineering,Student,Kaduna Polytechnic,Educational Institution,1983,1986
+320,MUNIR BABBA DANAGUNDI,"",Student,"PSLC, Kofar Naisa Primary School",Educational Institution,1971,1978
+320,MUNIR BABBA DANAGUNDI,General Certificate of Engineering,Student,"Science Secondary School, B/Kudu",Educational Institution,1980,1983
+323,MUSA BABA ONWANA,B Sc. Business Administration,Student,"ABU, Zaria",Educational Institution,1986,1974
+323,MUSA BABA ONWANA,B Sc. Business Administration,Student,"ABU, Zaria",Educational Institution,1986,1979
+323,MUSA BABA ONWANA,B Sc. Business Administration,Student,"ABU, Zaria",Educational Institution,1986,1984
+323,MUSA BABA ONWANA,B Sc. Business Administration,Student,"ABU, Zaria",Educational Institution,1986,1986
+323,MUSA BABA ONWANA,B Sc. Business Administration,Student,"ABU, Zaria",Educational Institution,1986,1989
+323,MUSA BABA ONWANA,Master of Business Adm (MBA) ,Student,"ABU, Zaria",Educational Institution,"",1994
+332,NASIRU BABALLE ILA,"",Student,Aminu Kano Comm College,Educational Institution,1980,1982
+332,NASIRU BABALLE ILA,"",Student,Gandun Nasarawa Primary School,Educational Institution,1971,1978
+332,NASIRU BABALLE ILA,"Diploma, Business Administration",Student,Hove Davies College,Educational Institution,1984,1985
+332,NASIRU BABALLE ILA,"",Student,"Kanaji Government Secondary School, Kano State",Educational Institution,1978,1979
+332,NASIRU BABALLE ILA,"Diploma, General Studies",Student,"Victory College, Alexandria",Educational Institution,1982,1984
+332,NASIRU BABALLE ILA,"Advanced Diploma, Business Administration",Student,West London College,Educational Institution,1985,1987
+333,NASIRU SULE GARO,Advanced Diploma in Information Management,Student,Bagauda Technical College,Educational Institution,"",""
+333,NASIRU SULE GARO,Bachelor's Degree in Political Science,Student,"Bayero University, Kano",Educational Institution,"",""
+333,NASIRU SULE GARO,Primary School Leaving Certificate,Student,Garo Central Primary School,Educational Institution,"",""
+333,NASIRU SULE GARO,Secondary School Leaving Certificate,Student,Garo Junior Secondary School,Educational Institution,"",""
+334,NASIRU ZANGON DAURA SANI,"",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",""
+334,NASIRU ZANGON DAURA SANI,"",Student,Barewa College Zaria,Educational Institution,"",""
+334,NASIRU ZANGON DAURA SANI,"",Student,CAMBRIDGE CENTRE FOR SIX FORM STUDIES,Educational Institution,"",""
+334,NASIRU ZANGON DAURA SANI,"",Student,CAPITALSCHOOL KADUNA,Educational Institution,"",""
+334,NASIRU ZANGON DAURA SANI,"",Student,LINDISFORNE COLLEGE RUNBON (UK),Educational Institution,"",""
+335,NASSIR ALI AHMED,Diploma in Accounting,Student,"Ahmadu Bello University, Zaria",Educational Institution,1986,1988
+335,NASSIR ALI AHMED,MBA,Student,"Bayero University, Kano",Educational Institution,1992,1993
+335,NASSIR ALI AHMED,Secondary School Certificate,Student,Federal Government College Kano,Educational Institution,1980,1986
+335,NASSIR ALI AHMED,Primary School Certificate,Student,Kano Capital School,Educational Institution,1973,1980
+335,NASSIR ALI AHMED,BSc Accounting,Student,University of Jos,Educational Institution,1988,1992
+336,NATHANIEL IGE AGUNBIADE,LL.B (Hons),Student,University of Ibadan,Educational Institution,"",1984
+337,NDUDI GODWIN ELUMELU,"MASTER'S DEGREE IN BUSINESS ADMINISTRATION, FINANCE",Student,EDO STATE UNIVERSITY,Educational Institution,"",""
+337,NDUDI GODWIN ELUMELU,BACHELOR'S DEGREE IN ACCOUNTING/FINANCE,Student,EDO STATE UNIVERSITY,Educational Institution,"",""
+337,NDUDI GODWIN ELUMELU,ACIB,Student,NCRIB,Educational Institution,"",""
+338,NKIRUKA ONYEJEOCHA,Masters Degree in International Affairs/Diplomacy,Student,"Imo State University, Imo State",Educational Institution,"",""
+338,NKIRUKA ONYEJEOCHA,Diploma in Social and Community Development,Student,University of Nigeria,Educational Institution,"",""
+339,NKOYO ESU TOYO,LLB ,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1979
+339,NKOYO ESU TOYO,BL ,Student,Nigerian Law School,Educational Institution,"",1980
+339,NKOYO ESU TOYO,WASC,Student,UNION Secondary School,Educational Institution,"",1974
+339,NKOYO ESU TOYO,LLM ,Student,University of Lagos,Educational Institution,"",1994
+339,NKOYO ESU TOYO,Institute of Development Studies,Student,University of Sussex,Educational Institution,"",2001
+340,NNENNA IJEOMA ELENDU-UKEJE,"",Student,"Federal Government Girls College, Owerri, Imo State, 1979-",Educational Institution,1979,1984
+340,NNENNA IJEOMA ELENDU-UKEJE,Bachelor's Degree in Education (B.Ed English),Student,University of Benin,Educational Institution,1984,1988
+340,NNENNA IJEOMA ELENDU-UKEJE,"",Student,University of Lagos,Educational Institution,1992,1993
+341,NOSAKHARE ISAAC OSAHON,"",Student,Auchi Polytechnic Auchi,Educational Institution,"",1981
+341,NOSAKHARE ISAAC OSAHON,"",Student,"Eghosa Grammar School, Benin City",Educational Institution,"",1976
+341,NOSAKHARE ISAAC OSAHON,"",Student,St Matthew's Primary School Ekiadolor,Educational Institution,"",1966
+341,NOSAKHARE ISAAC OSAHON,University Of Benin City,Student,University of Benin,Educational Institution,"",1998
+346,ODUNSI AKIN KAMAR BABALOLA,M.S advertising ,Student,University of Illinois,Educational Institution,"",""
+346,ODUNSI AKIN KAMAR BABALOLA,B.A (Hons)mass communication,Student,University of Lagos,Educational Institution,"",""
+349,OGBONNA NWUKE,"",Student,"All Saints Nursery, Enugu",Educational Institution,1963,1965
+349,OGBONNA NWUKE,"",Student,"County Grammar School, Ikwerre-Etche",Educational Institution,1972,1976
+349,OGBONNA NWUKE,"",Student,"The Polytechnic, Calabar",Educational Institution,1985,1987
+349,OGBONNA NWUKE,"",Student,"Township School, Moscow Road, Port Harcourt",Educational Institution,1967,1971
+349,OGBONNA NWUKE,"",Student,University of Lagos,Educational Institution,1981,1982
+351,SUNDAY OGBUOJI OJI,FSCL ,Student,Edda Central School,Educational Institution,"",""
+351,SUNDAY OGBUOJI OJI,WASC ,Student,"Government College, Umuahia",Educational Institution,"",""
+351,SUNDAY OGBUOJI OJI,BSC (AGRIC) ,Student,University of Nigeria Nsukka,Educational Institution,"",""
+352,OGUNNISI MICHAEL ABAYOMI,"",Student,"ICAN , INSTITUTE OF CHARTERED ACCOUNTANTS OF NIGERIA",Educational Institution,"",""
+352,OGUNNISI MICHAEL ABAYOMI,WAEC ,Student,O.G.S ODOGBOLU,Educational Institution,"",""
+352,OGUNNISI MICHAEL ABAYOMI,MBA ,Student,University of Lagos,Educational Institution,"",""
+352,OGUNNISI MICHAEL ABAYOMI,BSC ,Student,University of Lagos,Educational Institution,"",""
+356,OLABIYI JULIUS OYEKOLA,FCTI,Student,Chartered Institute Of Taxation Of Nigeria,Educational Institution,"",""
+356,OLABIYI JULIUS OYEKOLA,FCA,Student,Institute of Chartered Accountants of Nigeria ICAN,Educational Institution,"",1992
+356,OLABIYI JULIUS OYEKOLA,OND (Accountancy),Student,Nig. Army School Of Finance,Educational Institution,"",""
+356,OLABIYI JULIUS OYEKOLA,GCE O/L,Student,"Okaka Admin Grammar School, Okaka",Educational Institution,"",""
+356,OLABIYI JULIUS OYEKOLA,MBA (Banking & Finance) ,Student,Rivers State University Of Science & Technology,Educational Institution,"",2004
+356,OLABIYI JULIUS OYEKOLA,ACIB,Student,hartered Institute Of Bankers Of Nigeria,Educational Institution,"",1984
+357,OLAJUMOKE OKOYA-THOMAS,DIPLOMA SEC. ADMIN ,Student,BURLEIGH COLLEGE,Educational Institution,"",""
+357,OLAJUMOKE OKOYA-THOMAS,"DIPLOMA, SENIOR MANAGERS IN GOVERNMENT",Student,"Harvard University, USA",Educational Institution,"",""
+358,OLAYEMI SIKIRU BUSARI,General Certificate of Education,Student,Anglican Commercial Grammar School,Educational Institution,1981,1987
+358,OLAYEMI SIKIRU BUSARI,"",Student,"I.M.G. Primary School, Ose, Ibadan, Oyo State",Educational Institution,1975,1981
+358,OLAYEMI SIKIRU BUSARI,BSc Public Administration,Student,"Lead City University, Ibadan, Oyo State",Educational Institution,2004,2009
+358,OLAYEMI SIKIRU BUSARI,Grade II Certificate,Student,National Teachers Institute,Educational Institution,1999,2001
+359,SOLOMON GANIYU OLANREWAJU,B. Sc (Political Science),Student,University of Lagos,Educational Institution,"",""
+361,OLUMIDE BABATUNDE OSOBA,"",Student,London School Of Economics,Educational Institution,2001,2002
+361,OLUMIDE BABATUNDE OSOBA,"",Student,University of Lagos,Educational Institution,1995,1999
+368,OYETUNDE OLADIMEJI OJO,"",Student,SENTON SEC.SCH,Educational Institution,1988,1994
+368,OYETUNDE OLADIMEJI OJO,B.A POLITICS,Student,"University of Greenwich, UK",Educational Institution,2002,2005
+368,OYETUNDE OLADIMEJI OJO,M.A PEACE AND CONFLICT,Student,University of Ibadan,Educational Institution,2008,2010
+370,PATRICK A. IKHARIALE,LLM,Student,Lagos State University,Educational Institution,1998,2002
+370,PATRICK A. IKHARIALE,"",Student,Nigerian Law School,Educational Institution,1990,1991
+370,PATRICK A. IKHARIALE,BL,Student,University of Benin,Educational Institution,1987,1990
+370,PATRICK A. IKHARIALE,LLB,Student,University of Benin,Educational Institution,1985,1987
+371,PEACE UZOAMAKA NNAJI,Dip Social Work ,Student,University of Nigeria,Educational Institution,"",""
+372,PETER EDEH OYEMAECHI,Bachelor of Engineering (B.Eng),Student,Anambra State University,Educational Institution,1983,1988
+372,PETER EDEH OYEMAECHI,FSLC,Student,"Community High School, Amagu Agba",Educational Institution,1972,1977
+372,PETER EDEH OYEMAECHI,GCE Certificate,Student,"Izzi High School, Abakaliki",Educational Institution,1977,1982
+375,PETER OHIOZOJE AKPATASON,"",Student,Akoko-Edo Gram. Schl,Educational Institution,"",1982
+375,PETER OHIOZOJE AKPATASON,"",Student,College Of Education Warri,Educational Institution,"",1987
+375,PETER OHIOZOJE AKPATASON,BSc ,Student,Delta State University,Educational Institution,"",2002
+375,PETER OHIOZOJE AKPATASON,"",Student,MCIPS Chetered Inst. Purc. & Supply,Educational Institution,"",2005
+375,PETER OHIOZOJE AKPATASON,"",Student,NIPSS Kuru Jos,Educational Institution,"",2006
+376,PIUS EWHERIDO AKPOR,B. A in Philosophy,Student,Obafemi Awolowo University,Educational Institution,"",""
+376,PIUS EWHERIDO AKPOR,B. L,Student,University of Benin,Educational Institution,"",""
+379,RAPHAEL OLOYE NOMIYE,B Sc. Public Administration,Student,University of Benin,Educational Institution,2005,2006
+380,RAPHEAL UZOCHI NNANNA IGBOKWE,B.SC (ACCOUNTANCY) ,Student,Abia State University,Educational Institution,"",""
+380,RAPHEAL UZOCHI NNANNA IGBOKWE,F.S.L.C,Student,BOLA MEMORIAL PRI.SCH IKEJA,Educational Institution,"",""
+380,RAPHEAL UZOCHI NNANNA IGBOKWE,W.A.S.C,Student,VICTORY HIGH SCH.IKEJA,Educational Institution,"",""
+381,RAZAQ BELLO-OSAGIE,"",Student,Auchi Polytechnic Auchi,Educational Institution,1978,1982
+381,RAZAQ BELLO-OSAGIE,"",Student,Edo College Benin City,Educational Institution,1971,1974
+381,RAZAQ BELLO-OSAGIE,"",Student,Eghosa Grammar School,Educational Institution,1969,1970
+382,ROBINSON EDET UWAK,First School Leaving Certificate,Student,Calabar Preparation School,Educational Institution,1980,1987
+382,ROBINSON EDET UWAK,Senior School Certificate Examination,Student,"Saint Patrick's College, Calabar",Educational Institution,1987,1993
+382,ROBINSON EDET UWAK,Diploma in Computer Science,Student,University of Calabar,Educational Institution,1995,1999
+383,ROBINSON GBADEBO AJIBOYE,PGD (ECONOMIC DEV.) ,Student,NORTH WESTERN POLY.CAMDEN TOWN LONDON,Educational Institution,"",""
+383,ROBINSON GBADEBO AJIBOYE,DIPLOMA (MARKETING),Student,WATFORD COLLEGE OF TECH. WARTFORD HERTS.,Educational Institution,"",""
+384,ROSE OKOJI OKO,"",Student,MT CARMEL SEC. SCH,Educational Institution,1970,1974
+384,ROSE OKOJI OKO,B.A (LINGUISTICS),Student,University of Calabar,Educational Institution,1977,1981
+384,ROSE OKOJI OKO,M.A (LINGUISTICS),Student,University of Calabar,Educational Institution,1981,1984
+384,ROSE OKOJI OKO,PHD (LINGUISTICS) ,Student,University of Port Harcourt,Educational Institution,1986,1990
+392,SAMSON RAPHEAL OSAGIE,LL.M,Student,Ambros Alli University Ekpoma,Educational Institution,"",""
+392,SAMSON RAPHEAL OSAGIE,M.PA,Student,University of Benin,Educational Institution,"",""
+393,SAMUEL BABATUNDE ADEJARE,M.P.H ,Student,Lagos State University,Educational Institution,"",""
+393,SAMUEL BABATUNDE ADEJARE,M.B.B.S ,Student,University of Ilorin,Educational Institution,"",""
+394,SAMUEL OLUSEGUN WILLIAMS,"",Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1984
+394,SAMUEL OLUSEGUN WILLIAMS,"",Student,Federal University Of Technology Akure,Educational Institution,"",2002
+394,SAMUEL OLUSEGUN WILLIAMS,"",Student,Gyel Comm. College,Educational Institution,"",1977
+397,SANI MOHAMMED ALIYU RANO,"",Student,SSRD Polytechnic,Educational Institution,1985,1987
+404,SIMEON AJIBOLA SIMON,BSc. Quantity Surveying,Student,"Ahmadu Bello University, Zaria",Educational Institution,"",1979
+404,SIMEON AJIBOLA SIMON,WASC,Student,GSS Ilorin,Educational Institution,"",1970
+404,SIMEON AJIBOLA SIMON,HSC,Student,GSS Ilorin,Educational Institution,"",1972
+404,SIMEON AJIBOLA SIMON,Primary School Certificate,Student,"St. Paul’s L.E.A School, Isapa,",Educational Institution,"",1966
+406,SIMON YAKUBU ARABO,"",Student,"Ahmadu Bello University, Zaria",Educational Institution,1982,1985
+406,SIMON YAKUBU ARABO,"",Student,G.S.S Fadan Kaje,Educational Institution,1976,1981
+406,SIMON YAKUBU ARABO,"",Student,LEA Primary School,Educational Institution,1930,1936
+406,SIMON YAKUBU ARABO,"",Student,Nigerian Law School,Educational Institution,1985,1986
+406,SIMON YAKUBU ARABO,"",Student,School Of Basic Studies / ABU Zaria,Educational Institution,1981,1982
+408,SOLOMON OLAMILEKAN ADEOLA,"",Student,Institute of Chartered Accountants of Nigeria ICAN,Educational Institution,"",1998
+408,SOLOMON OLAMILEKAN ADEOLA,"",Student,Ondo State Polytechnic,Educational Institution,"",2001
+410,STELLA UCHENWA OBIAGELI NGWU,"",Student,Girls' Secondary School Ngwo Enugu,Educational Institution,1971,1975
+410,STELLA UCHENWA OBIAGELI NGWU,"University Of Ibadan, Ibadan",Student,University of Ibadan,Educational Institution,1975,1979
+410,STELLA UCHENWA OBIAGELI NGWU,"",Student,University of Nigeria,Educational Institution,1985,1986
+413,SUMAILA KAWU ABDURRAHAMAN,Advance Diploma in Educational Management,Student,"Bayero University, Kano",Educational Institution,"",2003
+413,SUMAILA KAWU ABDURRAHAMAN,Diploma,Student,"Bayero University, Kano",Educational Institution,"",2001
+413,SUMAILA KAWU ABDURRAHAMAN,"Secondary School Leaving Certificate, Sumaila, Kano State",Student,Senior Secondary School,Educational Institution,"",1982
+413,SUMAILA KAWU ABDURRAHAMAN,Primary School Leaving Certificate,Student,"Sumaila Gabas Primary School, Kano State",Educational Institution,"",1976
+414,SUNDAY STEVE KARIM,ND/HND(PROD.ENGR)  ,Student,KWARA COLLEGE OF TECH,Educational Institution,1979,1983
+414,SUNDAY STEVE KARIM,FSLC ,Student,LEA PRI.SCH.,Educational Institution,1969,1974
+414,SUNDAY STEVE KARIM,WASC ,Student,TITCOMBE COLLEGE,Educational Institution,1974,1979
+417,TIJJANI JOBE ABDULKADIR,ND Building,Student,Kano State Polytechnic,Educational Institution,1988,1991
+417,TIJJANI JOBE ABDULKADIR,Bsc Building,Student,University of Jos,Educational Institution,1991,2000
+421,TOBY OKECHUKWU TOBY,"",Student,Anambra State University Of Technology,Educational Institution,1988,1991
+421,TOBY OKECHUKWU TOBY,"",Student,Community Primary School Ngene-Ugbo,Educational Institution,"",1976
+421,TOBY OKECHUKWU TOBY,"",Student,Nigerian Law School,Educational Institution,"",2001
+421,TOBY OKECHUKWU TOBY,"",Student,St Vincent's sec. Sch. Agbogugu,Educational Institution,1976,1981
+421,TOBY OKECHUKWU TOBY,"",Student,University of Calabar,Educational Institution,1982,1986
+421,TOBY OKECHUKWU TOBY,"",Student,University of Lagos,Educational Institution,1994,2000
+422,TOM OGIJO ZAKARI,M. Sc Econs - Inview,Student,BENUE STATE UNIVERSITY,Educational Institution,"",""
+422,TOM OGIJO ZAKARI,M. BA - Bus. Adm,Student,Enugu State Univ Of Sci & Tech,Educational Institution,"",""
+422,TOM OGIJO ZAKARI,FSLC,Student,"Lea Primary Schls, Wale",Educational Institution,"",""
+422,TOM OGIJO ZAKARI,WASC ,Student,"Our Lady Of Schls, Anyigba",Educational Institution,"",""
+422,TOM OGIJO ZAKARI,I.J.M.B,Student,Schl Of Basic Std. - Makurdi,Educational Institution,"",""
+422,TOM OGIJO ZAKARI,B.Sc Hons Econs,Student,University of Jos,Educational Institution,"",""
+425,TUTARE ABUBAKAR UMAR,BSc Accounting,Student,"Federal University of Technology, Yola",Educational Institution,"",""
 429,ESUENE HELEN UDOAKAHA,Confidential Secretaryship and Office Management,Student,"Federal Training Centre, Kaduna",Educational Institution,"",""
 429,ESUENE HELEN UDOAKAHA,MSc Finance,Student,University of Leicester,Educational Institution,"",""
+440,USMAN BELLO KUM,PRIMARY SCH. CERT,Student,"AKKOYEL PRIMARY SCHOOL, KUMO",Educational Institution,1985,1981
+440,USMAN BELLO KUM,DIPLOMA IN LAW,Student,"BAUCHI STATE COLLEGE FOR LEGAL STUDIES, BAUCHI STATE",Educational Institution,1987,1990
+440,USMAN BELLO KUM,BACHELOR OF LAW DEGREE,Student,"Bayero University, Kano",Educational Institution,1992,1999
+440,USMAN BELLO KUM,G.C.E/WAEC,Student,G.S.S.S. KUMO,Educational Institution,1981,1986
+443,UZO CHARLES AZUBUIKE,"",Student,"Ihie High School, Ihie",Educational Institution,1978,1984
+443,UZO CHARLES AZUBUIKE,"",Student,"Imo State University, Uturu",Educational Institution,1986,1990
+443,UZO CHARLES AZUBUIKE,"",Student,Nigerian Law School,Educational Institution,1990,1991
+443,UZO CHARLES AZUBUIKE,"",Student,"Umousu Central School, Umuosu Nsulu",Educational Institution,1973,1978
+446,VICTOR AFAMUEFUNA OGENE,"",Student,"Ansar-Ud-Deen College, Isolo, Lagos",Educational Institution,1983,1985
+446,VICTOR AFAMUEFUNA OGENE,"",Student,"County Grammar School, Ikwerre-Etche",Educational Institution,1977,1982
+446,VICTOR AFAMUEFUNA OGENE,"",Student,"Nigerian Institute Of Journalism (NIJ) Ogba, Lagos",Educational Institution,1996,1997
+446,VICTOR AFAMUEFUNA OGENE,"",Student,"Times Journalism Institute (TJI) Iganmu, Lagos",Educational Institution,1987,1988
+446,VICTOR AFAMUEFUNA OGENE,"",Student,"Times Journalism Institute (TJI) Iganmu, Lagos",Educational Institution,1991,1992
+448,NWAGU IGWE PAULINUS,LLB (Hons.) EBSU,Student,Ebonyi State University,Educational Institution,"",2009
+448,NWAGU IGWE PAULINUS,B. Sc (Political Science),Student,Enugu State University of Science and Technology,Educational Institution,"",2002
+451,WAOGU NKECHI JUSTINA,M.Sc Degree in Mnt. (Finance) ,Student,Brunel University,Educational Institution,"",1984
+451,WAOGU NKECHI JUSTINA,"",Student,"College of Printing, Elephant & Castle, London",Educational Institution,"",1979
+451,WAOGU NKECHI JUSTINA,"",Student,"Immaculate Heart Secondary School, Aba",Educational Institution,"",1975
+451,WAOGU NKECHI JUSTINA,"",Student,"Polytechnic of South Bank, London",Educational Institution,"",1981
+453,Waziri Aminu Tambuwal,Teachers Grade II Certificate,Student,"Cont Teachers College, Daji",Educational Institution,"",1984
+453,Waziri Aminu Tambuwal,Barrister at Law,Student,Nigerian Law School,Educational Institution,"",1992
+453,Waziri Aminu Tambuwal,Primary School Certificate,Student,"Town Primary School, Tambuwal,",Educational Institution,"",1979
+453,Waziri Aminu Tambuwal,BL,Student,"Usman Danfodiyo University, Sokoto",Educational Institution,"",1991
+454,EWUGA SOLOMON,"",Student,Nigeria Law School Lagos,Educational Institution,"",1988
+454,EWUGA SOLOMON,Post Graduate Diploma in Mass Communication,Student,"Stockholm University, Sweden",Educational Institution,"",1981
+454,EWUGA SOLOMON,Bachelor s Degree in Political Science,Student,University of Ibadan,Educational Institution,1974,1977
+456,YAKUB ABIOUDUN AKANNI BALOGUN,HSC ,Student,AHMADIYYA COLLEG AGEGE,Educational Institution,"",1972
+456,YAKUB ABIOUDUN AKANNI BALOGUN,WASC ,Student,ANSAR-UD-DEEN GRAMMAR SCH.,Educational Institution,"",1970
+456,YAKUB ABIOUDUN AKANNI BALOGUN,FSLC ,Student,OMAR AHMADIYYA SCH JANKARA LAGOS,Educational Institution,"",""
+456,YAKUB ABIOUDUN AKANNI BALOGUN,MSC (ECONS),Student,University of Ibadan,Educational Institution,"",1983
+456,YAKUB ABIOUDUN AKANNI BALOGUN,BSC(ECONS),Student,University of Ibadan,Educational Institution,"",1976
+460,YAU SAHABI ALHAJI,Masters In Business Administration,Student,Bayero University,Educational Institution,"",""
+460,YAU SAHABI ALHAJI,HND,Student,Kaduna Polytechnic,Educational Institution,"",""
+460,YAU SAHABI ALHAJI,Post Graduate Diploma In Management,Student,Usmanu Dan Fodiyo University,Educational Institution,"",""
+462,YUSUF BALA,"",Student,"Central Primary School, Ikara",Educational Institution,"",""
+462,YUSUF BALA,"",Student,G.S.S Ikara,Educational Institution,"",""
+462,YUSUF BALA,"",Student,"Kaduna State Polytechnic, Zaria",Educational Institution,"",""
+466,ZAKARI JIKANTORO HALIRU,"",Student,Borgu Sec. School N/Bussa.,Educational Institution,"",""
+466,ZAKARI JIKANTORO HALIRU,"",Student,Kaduna Polytechnic,Educational Institution,"",""
+466,ZAKARI JIKANTORO HALIRU,"",Student,"Kwara Tech. Ilorin,",Educational Institution,"",""
+466,ZAKARI JIKANTORO HALIRU,"",Student,L. E. A Pry. Agwara,Educational Institution,"",""
+466,ZAKARI JIKANTORO HALIRU,"",Student,University of Abuja,Educational Institution,"",""
+468,ZAPHANIAH JISALO BITRUS,B.ED GUIDANCE AND COUNSELING,Student,University of Jos,Educational Institution,"",""
 470,MUTU NICHOLAS EBOMO,"",Student,"Rivers State School of Basic Studies, Port Harcourt",Educational Institution,1985,1986
 470,MUTU NICHOLAS EBOMO,BA (Business Organisation),Student,"Saint Clements University Caicos/Island,British West Indies",Educational Institution,"",""
-472,PWAJOK GYANG NYAM SHOM,"",Student, Ahmadu Bello University,Educational Institution,1984,1987
-472,PWAJOK GYANG NYAM SHOM,"",Student, Jos Township Primary School,Educational Institution,1972,1977
-472,PWAJOK GYANG NYAM SHOM,"",Student, School of Preliminary Studies,Educational Institution,1982,1984
+472,PWAJOK GYANG NYAM SHOM,"",Student,Ahmadu Bello University,Educational Institution,1984,1987
+472,PWAJOK GYANG NYAM SHOM,"",Student,Jos Township Primary School,Educational Institution,1972,1977
 472,PWAJOK GYANG NYAM SHOM,  M.Sc. Political Economy and Development Studies,Student,Post Graduate School of the University of Jos,Educational Institution,"",1991
 472,PWAJOK GYANG NYAM SHOM,"",Student,Saint Murumba College,Educational Institution,1977,1982
+472,PWAJOK GYANG NYAM SHOM,"",Student,School of Preliminary Studies,Educational Institution,1982,1984
+474,Theodore Ahamefule Orji,"",Student,University of Ibadan,Educational Institution,"",1977
+480,Gabriel Suswam,"",Student,University of Abuja,Educational Institution,"",
+480,Gabriel Suswam,"",Student,University of Jos,Educational Institution,"",
+480,Gabriel Suswam,"",Student,University of Lagos,Educational Institution,"",
+532,Willie Maduabuchukwu Obiano,"",Student,University of Lagos,Educational Institution,"",1979

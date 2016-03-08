@@ -1,208 +1,208 @@
 person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_subtitle,party_role,organisation_name,organisation_subtitle,organisation_role,area
 23,ABIODUN DADA AWOLEYE,,2013-07-30,4099,2716,Action Congress of Nigeria,"",Member,Oyo State House of Assembly,"",Member,Oyo
 23,ABIODUN DADA AWOLEYE,2013-07-31,,4099,5573,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",Member,Oyo
-652,Aliyu Akuh,2015-05-29,2019-05-29,6127,6126,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",State Legislator,Omala
-652,Aliyu Akuh,2015-05-29,2019-05-29,6128,6126,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Deputy Speaker ,
-663,Fatai Olotu,2015-05-29,2019-05-29,6163,6162,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",State Legislator,Akoko North-East
-663,Fatai Olotu,2015-05-29,2019-05-29,6164,6162,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",Deputy Speaker ,
 301,MOHAMMED ALHAJI SANDA,1992,1993,4886,2813,All Nigeria Peoples Party,"",Member,Borno State House Of Assembly,"",Member,Borno
 301,MOHAMMED ALHAJI SANDA,2003,2011,4887,2813,All Nigeria Peoples Party,"",Member,Borno State House Of Assembly,"",Member,
-198,GONI BUKAR LAWA,1991,1993,4584,2803,All Nigeria Peoples Party,"",Member,Yobe State House of Assembly,"","",Yobe
-198,GONI BUKAR LAWA,1999,2004,4585,2803,All Nigeria Peoples Party,"",Member,Yobe State House of Assembly,"","",Yobe
-69,ALI AHMAD,2015-05-29,2019-05-29,6131,6129,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",Speaker,
-69,ALI AHMAD,2015-05-29,2019-05-29,6130,6129,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",State Legislator,Ilorin South
 91,ARUA ARUNSI,,,4277,2930,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",Honourable Member,
 91,ARUA ARUNSI,,,4278,2930,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",Honourable Speaker,
-104,BABA BUKAR MACHINAMA,1997,1998,4310,2799,All Nigeria Peoples Party,"",Member,Yobe State House of Assembly,"",Member,
+198,GONI BUKAR LAWA,1991,1993,4584,2803,All Nigeria Peoples Party,"",Member,Yobe State House of Assembly,"","",Yobe
+198,GONI BUKAR LAWA,1999,2004,4585,2803,All Nigeria Peoples Party,"",Member,Yobe State House of Assembly,"","",Yobe
 169,ENEKOROGHA PENAWEI FRANCIS,1999,2001,4504,2970,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",Member,Delta
+104,BABA BUKAR MACHINAMA,1997,1998,4310,2799,All Nigeria Peoples Party,"",Member,Yobe State House of Assembly,"",Member,
+166,EMMANUEL LOKJI LUKA GOAR,,,4491,2968,Peoples Democratic Party,"",Member,Plateau State House of Assembly,"",Speaker,Plateau
 160,EDDIE MBADIWE IFEANYICHUKWU,,,4457,2836,All Progressives Grand Alliance,"",Member,Imo State House Of Assembly,"",Member,Imo
-163,EMMANUEL ETIM EKPENYONG,,2013-07-30,4475,2734,Action Congress of Nigeria,"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker ,Akwa Ibom
-163,EMMANUEL ETIM EKPENYONG,2013-07-31,,4475,5591,All Progressives Congress (APC),"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker ,Akwa Ibom
 165,EMMANUEL JIME,,1993,4483,2967,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Speaker,Benue
 165,EMMANUEL JIME,,1993,4484,2967,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Member,Benue
 165,EMMANUEL JIME,2001,2007,4485,2967,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Member,Benue
-166,EMMANUEL LOKJI LUKA GOAR,,,4491,2968,Peoples Democratic Party,"",Member,Plateau State House of Assembly,"",Speaker,Plateau
-244,ISHAKA MOHAMMED BAWA,1999,2007,4720,3003,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",Member,Taraba
 182,FRANCIS BUSAM ADA,2003,2011,4553,2977,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Member,Cross River
-172,EWA-HENSHAW BASSEY EKO,1999,2007,4512,2972,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Majority Leader,
-172,EWA-HENSHAW BASSEY EKO,1999,2007,4513,2972,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Honourable Speaker,
+244,ISHAKA MOHAMMED BAWA,1999,2007,4720,3003,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",Member,Taraba
 172,EWA-HENSHAW BASSEY EKO,1999,2007,4511,2972,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Honourable Member,
-225,IBRAHIM KHALID MUSTAPHA,2003,2007,4659,2991,Peoples Democratic Party,"",Member,Kaduna State House Of Assembly,"",Member,Kaduna
+172,EWA-HENSHAW BASSEY EKO,1999,2007,4513,2972,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Honourable Speaker,
+172,EWA-HENSHAW BASSEY EKO,1999,2007,4512,2972,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Majority Leader,
+358,OLAYEMI SIKIRU BUSARI,2003,2007,5118,2709,ACCORD,"",Member,Oyo State House of Assembly,"",Member,
 237,IRONA GERALD ALPHONSUS,1999,2003,4703,2998,Peoples Democratic Party,"",Member,Imo State House Of Assembly,"",Member,Imo
-242,ISA MOHAMMED ASHIRU,,,4714,3000,Peoples Democratic Party,"",Member,Kaduna State House Of Assembly,"",Member,Kaduna
 254,JIMOH ADEWALE BABATUNDE,2007,2011,4757,2744,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"","",Lagos State
+225,IBRAHIM KHALID MUSTAPHA,2003,2007,4659,2991,Peoples Democratic Party,"",Member,Kaduna State House Of Assembly,"",Member,Kaduna
 284,LINUS OKORIE,,2011,4839,3018,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Member,Ebonyi
 305,MOHAMMED JATAU AUWAL,,,4903,3023,Peoples Democratic Party,"",Member,Bauchi House of Assembly,"",Speaker,Bauchi
+408,SOLOMON OLAMILEKAN ADEOLA,2003,2011,5281,2770,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"",Member,Lagos State
 318,MUHTARI MUHAMMAD CHIROMAWA,,2014,4959,3029,Peoples Democratic Party,"",Member,Kano State House of Assembly,"",Member,
 318,MUHTARI MUHAMMAD CHIROMAWA,2014,,4959,6863,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",Member,
 392,SAMSON RAPHEAL OSAGIE,1999,2007,5228,2767,Action Congress of Nigeria,"",Member,Edo State House Of Assembly,"",Member,Edo
-355,OKWURU CHUKWUEMEKA TOBIAS,1999,2003,5103,3051,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Pioneer Chief Whip,
-355,OKWURU CHUKWUEMEKA TOBIAS,2003,2007,5104,3051,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",pioneer Leader,
-358,OLAYEMI SIKIRU BUSARI,2003,2007,5118,2709,ACCORD,"",Member,Oyo State House of Assembly,"",Member,
-363,OMO CHRISTOPHER ISU,,,5131,3053,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Member,
 363,OMO CHRISTOPHER ISU,,,5132,3053,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Speaker,
-393,SAMUEL BABATUNDE ADEJARE,,2013-07-30,5231,2768,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"",Member,Lagos State
-393,SAMUEL BABATUNDE ADEJARE,2013-07-31,,5231,5624,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",Member,Lagos State
+363,OMO CHRISTOPHER ISU,,,5131,3053,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Member,
 372,PETER EDEH OYEMAECHI,2003,2007,5160,2817,All Nigeria Peoples Party,"",Member,Ebonyi State House Of Assembly,"",Honourable Member,
 380,RAPHEAL UZOCHI NNANNA IGBOKWE,2003,2011,5194,3059,Peoples Democratic Party,"",Member,Imo State House Of Assembly,"",Member,Imo
-397,SANI MOHAMMED ALIYU RANO,2003,2007,5244,2820,All Nigeria Peoples Party,"",Member,Kano State House of Assembly,"",Member,
 443,UZO CHARLES AZUBUIKE,,,5359,3089,Peoples Democratic Party,"",Member,Abia House Of Assembly,"",Member,Abia
-443,UZO CHARLES AZUBUIKE,,,5360,3089,Peoples Democratic Party,"",Member,Abia House Of Assembly,"",Deputy Speaker ,Abia
-408,SOLOMON OLAMILEKAN ADEOLA,2003,2011,5281,2770,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"",Member,Lagos State
+443,UZO CHARLES AZUBUIKE,,,5360,3089,Peoples Democratic Party,"",Member,Abia House Of Assembly,"",Deputy Speaker,Abia
+397,SANI MOHAMMED ALIYU RANO,2003,2007,5244,2820,All Nigeria Peoples Party,"",Member,Kano State House of Assembly,"",Member,
+3,ABAYOMI DAUDA KAKO ARE,1999,2003,4001,2711,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"",Member,
 463,YUSUF SHITU GALAMBI,1991,1993,5402,3096,Peoples Democratic Party,"",Member,Jigawa State House of Assembly,"",Member,Jigawa
 463,YUSUF SHITU GALAMBI,1999,,5403,3096,Peoples Democratic Party,"",Member,Jigawa State House of Assembly,"",Member,Jigawa
-3,ABAYOMI DAUDA KAKO ARE,1999,2003,4001,2711,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"",Member,
 6,ABDUL EBBO IBRAHIM,,,4015,2896,Peoples Democratic Party,"",Member,Niger State House of Assembly,"",Honourable Member,Niger
-625,John Gaul-Lebo,2015-05-29,2019-05-29,6046,6045,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",State Legislator,Abi
-625,John Gaul-Lebo,2015-05-29,2019-05-29,6047,6045,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Speaker,
-636,Donatus Uzogbado,2015-05-29,2019-05-29,6079,6078,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",State Legislator,Oji River
-636,Donatus Uzogbado,2015-05-29,2019-05-29,6080,6078,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",Deputy Speaker ,
-644,Gwarzo John Audu,2015-05-29,2019-05-29,6103,6102,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",State Legislator,Kachia
-644,Gwarzo John Audu,2015-05-29,2019-05-29,6104,6102,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",Deputy Speaker ,
 45,AFEES ADELOWO JIMOH,2007,2011,4166,2907,Peoples Democratic Party,"",Member,Oyo State House of Assembly,"",Member,
-646,Hamisu Ibrahim Chidari ,2015-05-29,2019-05-29,6109,6108,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",State Legislator,Makoda
-646,Hamisu Ibrahim Chidari ,2015-05-29,2019-05-29,6110,6108,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",Deputy Speaker ,
-651,Momoh-Jimoh Lawal,2015-05-29,2019-05-29,6124,6123,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",State Legislator,Okene II
-651,Momoh-Jimoh Lawal,2015-05-29,2019-05-29,6125,6123,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Speaker,
+111,BARINADA MPIGI,1998,1998,4333,2937,Peoples Democratic Party,"",Member,Rivers State House Of Assembly,Was Not Sworn In (Death Of Abacha),Member Elect,Rivers
 84,ENANG ITA SOLOMON,,1992,3713,3113,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",Member,Akwa Ibom
-111,BARINADA MPIGI,1998,1998,4333,2937,Peoples Democratic Party,"",Member,Rivers State House Of Assembly ,Was Not Sworn In (Death Of Abacha),Member Elect,Rivers
-674,Abel Peter Diah,2015-05-29,2019-05-29,6196,6195,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",State Legislator,Mbamga
-674,Abel Peter Diah,2015-05-29,2019-05-29,6197,6195,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",Speaker,
-678,Sanusi Garba Rikiji,2015-05-29,2019-05-29,6208,6207,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",State Legislator,Gusau 1
-678,Sanusi Garba Rikiji,2015-05-29,2019-05-29,6209,6207,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",Speaker,
-626,Joseph Bassey,2015-05-29,2019-05-29,6049,6048,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",State Legislator,Calabar South II
-626,Joseph Bassey,2015-05-29,2019-05-29,6050,6048,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Deputy Speaker ,
-647,Aliyu Sabi’u Muduru Ibrahim,2015-05-29,2019-05-29,6112,6111,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",State Legislator,Mani
-647,Aliyu Sabi’u Muduru Ibrahim,2015-05-29,2019-05-29,6113,6111,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",Speaker,
-653,Matthew Okelari,2015-05-29,2019-05-29,6133,6132,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",State Legislator,Lanwa/Ejidongari
-653,Matthew Okelari,2015-05-29,2019-05-29,6134,6132,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",Deputy Speaker ,
-658,Abdullahi Marafa,,,6148,6147,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",State Legislator,Chanchaga (State)
-658,Abdullahi Marafa,,,6149,6147,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",Speaker,
-664,Najeem Salaam,2015-05-29,2019-05-29,6166,6165,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",State Legislator,Ejigbo
-664,Najeem Salaam,2015-05-29,2019-05-29,6167,6165,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",Speaker,
-668,Peter Ajang Azi,2015-05-29,2019-05-29,6178,6177,All Progressives Congress (APC),"",Member,Plateau State House of Assembly,"",State Legislator,Jos West
-668,Peter Ajang Azi,2015-05-29,2019-05-29,6179,6177,All Progressives Congress (APC),"",Member,Plateau State House of Assembly,"",Speaker,
-672,Salihu Maidaji,2015-05-29,2019-05-29,6190,6189,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",State Legislator,Gada East
-672,Salihu Maidaji,2015-05-29,2019-05-29,6191,6189,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",Speaker,
-676,Adamu Dala Dogo,2015-05-29,2019-05-29,6202,6201,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",State Legislator,Karasuwa
-676,Adamu Dala Dogo,2015-05-29,2019-05-29,6203,6201,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",Speaker,
-638,Kawu Musa,2015-05-29,2019-05-29,6085,6084,Peoples Democratic Party,"",Member,Gombe State House of Assembly,"",State Legislator,Nafada South
-638,Kawu Musa,2015-05-29,2019-05-29,6086,6084,Peoples Democratic Party,"",Member,Gombe State House of Assembly,"",Deputy Speaker ,
-615,Rita Mmaduagwu,2015-05-29,2019-05-29,6016,6015,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",State Legislator,Nnewi South II
-615,Rita Mmaduagwu,2015-05-29,2019-05-29,6017,6015,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",Speaker,
-619,Kombowei Benson,2015-05-29,2019-05-29,6028,6027,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",State Legislator,Southern Ijaw IV
-619,Kombowei Benson,2015-05-29,2019-05-29,6029,6027,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Speaker,
-627,Monday Igbuya,2015-05-29,2019-05-29,6052,6051,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",State Legislator,Sapele
-627,Monday Igbuya,2015-05-29,2019-05-29,6053,6051,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",Speaker,
-630,Odefa Obasi Odefa ,2015-05-29,2019-05-29,6061,6060,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",State Legislator,Onicha East
-630,Odefa Obasi Odefa ,2015-05-29,2019-05-29,6062,6060,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Deputy Speaker ,
-306,MOHAMMED OGOSHI ONAWO,2003,2009,4911,3024,Peoples Democratic Party,"",Member,Nasarawa State House of Assembly,"",Speaker,Nasarawa
-347,OFORBUIKE GREGORY CHUKWUEGBO,2003,2007,5065,3047,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",Member,Enugu
-434,UMAR BUBA JIBRIL,2003,2005,5340,3085,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Speaker,
-434,UMAR BUBA JIBRIL,2003,2005,5339,3085,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Member,
-447,WADA GARKI USMAN,,,5371,3091,Peoples Democratic Party,"",Member,Jigawa State House of Assembly,"",Elected member ,Jigawa
-19,ABE MAGNUS NGEI,1999,2003,3656,3103,Peoples Democratic Party,"",Member,House of Assembly Rivers State,"",Member,Rivers
-19,ABE MAGNUS NGEI,1999,2003,3655,3103,Peoples Democratic Party,"",Member,House of Assembly Rivers State,"",Minority leader,Rivers
-609,Martins Azubuike,2015-05-29,2019-05-29,5998,5997,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",Speaker,Isiala Ngwa North
-609,Martins Azubuike,2015-05-29,2019-05-29,5999,5997,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",State Legislator,Isiala Ngwa North
-610,Cosmos Ndukwe,2015-05-29,2019-05-29,6001,6000,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",Deputy Speaker ,Bende North
-610,Cosmos Ndukwe,2015-05-29,2019-05-29,6002,6000,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",State Legislator,Bende North
-616,Harford Oseke,2015-05-29,2019-05-29,6019,6018,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",State Legislator,Awka South II
-616,Harford Oseke,2015-05-29,2019-05-29,6020,6018,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",Deputy Speaker ,
-620,Abraham Ingobere,2015-05-29,2019-05-29,6031,6030,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",State Legislator,Brass III
-620,Abraham Ingobere,2015-05-29,2019-05-29,6032,6030,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Deputy Speaker ,
-628,Friday Osanebi,2015-05-29,2019-05-29,6055,6054,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",State Legislator,Ndokwa East
-628,Friday Osanebi,2015-05-29,2019-05-29,6056,6054,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",Deputy Speaker ,
-631,Victor Edoror,2015-05-29,2019-05-29,6064,6063,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",State Legislator,Esan Central
-631,Victor Edoror,2015-05-29,2019-05-29,6065,6063,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",Speaker,
-639,Iheanacho Ihim,2015-05-29,2019-05-29,6088,6087,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",State Legislator,Okigwe
-639,Iheanacho Ihim,2015-05-29,2019-05-29,6089,6087,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",Speaker,
-648,Shehu Dalhatu Tafoki,2015-05-29,2019-05-29,6115,6114,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",State Legislator,
-648,Shehu Dalhatu Tafoki,2015-05-29,2019-05-29,6116,6114,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",Deputy Speaker ,
-654,Mudasiru Ajayi Obasa,2015-05-29,2019-05-29,6136,6135,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",State Legislator,Agege I
-654,Mudasiru Ajayi Obasa,2015-05-29,2019-05-29,6137,6135,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",Speaker,
-659,Hussaini Ibrahim,2015-05-29,2019-05-29,6151,6150,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",State Legislator,Agaie
-659,Hussaini Ibrahim,2015-05-29,2019-05-29,6152,6150,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",Deputy Speaker ,
-272,KUTA DAHIRU AWAISU,,1983,3835,3142,Peoples Democratic Party,"",Member,Niger State House of Assembly,"",Member,
-611,Kabiru Mijinyawa,2015-05-29,2019-05-29,6004,6003,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",State Legislator,Yola South
-611,Kabiru Mijinyawa,2015-05-29,2019-05-29,6005,6003,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",Speaker,
-621,Terkimbi Ikyange,2015-05-29,2019-05-29,6034,6033,All Progressives Congress (APC),"",Member,Benue State House of Assembly,"",State Legislator,Ushongo
-621,Terkimbi Ikyange,2015-05-29,2019-05-29,6035,6033,All Progressives Congress (APC),"",Member,Benue State House of Assembly,"",Speaker,
-629,Francis Ogbonnaya Nkifuru,2015-05-29,2019-05-29,6058,6057,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",State Legislator,Izzi West
-629,Francis Ogbonnaya Nkifuru,2015-05-29,2019-05-29,6059,6057,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Speaker,
-632,Bright Osayande,2015-05-29,2019-05-29,6067,6066,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",State Legislator,Ovia ‎North East II
-632,Bright Osayande,2015-05-29,2019-05-29,6068,6066,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",Deputy Speaker ,
-640,Ugonna Ozurigbo,2015-05-29,2019-05-29,6091,6090,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",State Legislator,Nwangele
-640,Ugonna Ozurigbo,2015-05-29,2019-05-29,6092,6090,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",Deputy Speaker ,
-649,Abdulmumini Kamba,2015-05-29,2019-05-29,6118,6117,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",State Legislator,Dandi
-649,Abdulmumini Kamba,2015-05-29,2019-05-29,6119,6117,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",Speaker,
-655,Wasiu Eshinlokun-Sanni,2015-05-29,2019-05-29,6139,6138,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",State Legislator,Lagos Island I
-655,Wasiu Eshinlokun-Sanni,2015-05-29,2019-05-29,6140,6138,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",Deputy Speaker ,
-660,Suraj Adekunbi,2015-05-29,2019-05-29,6154,6153,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",State Legislator,Egbado North  I
-660,Suraj Adekunbi,2015-05-29,2019-05-29,6155,6153,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",Speaker,
-665,Akintunde Adegboye,2015-05-29,2019-05-29,6169,6168,All Progressives Congress (APC),"",Member,Osun State House of Assembly,"",State Legislator,Osogbo
-665,Akintunde Adegboye,2015-05-29,2019-05-29,6170,6168,All Progressives Congress (APC),"",Member,Osun State House of Assembly,"",Speaker,
-669,Adamu Yusuf Gardi,2015-05-29,2019-05-29,6181,6180,Peoples Democratic Party,"",Member,Plateau State House of Assembly,"",State Legislator,Kantana
-669,Adamu Yusuf Gardi,2015-05-29,2019-05-29,6182,6180,Peoples Democratic Party,"",Member,Plateau State House of Assembly,"",Deputy Speaker ,
-677,Garba Ibrahim Kurmi,2015-05-29,2019-05-29,6205,6204,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",State Legislator,Fika 
-677,Garba Ibrahim Kurmi,2015-05-29,2019-05-29,6206,6204,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",Deputy Speaker ,
-673,Abubakar Magaji,2015-05-29,2019-05-29,6193,6192,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",State Legislator,Bodinga North
-673,Abubakar Magaji,2015-05-29,2019-05-29,6194,6192,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",Deputy Speaker ,
-657,Godiya Akwashiki,2015-05-29,2019-05-29,6145,6144,Peoples Democratic Party,"",Member,Nasarawa State House of Assembly,"",State Legislator,Eggon West
-662,Jumoke Akindele,2015-05-29,2019-05-29,6160,6159,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",State Legislator,Okitipupa 2
-662,Jumoke Akindele,2015-05-29,2019-05-29,6161,6159,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",Speaker,
+675,Mohammed Danladi Gwampo,2015-05-29,2019-05-29,6200,6198,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",Deputy Speaker,
+675,Mohammed Danladi Gwampo,2015-05-29,2019-05-29,6199,6198,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",State Legislator,Yorro
+671,Marshall Stanley Udom,2015-05-29,2019-05-29,6188,6186,Peoples Democratic Party,"",Member,Rivers State House Of Assembly,"",Deputy Speaker,
+671,Marshall Stanley Udom,2015-05-29,2019-05-29,6187,6186,Peoples Democratic Party,"",Member,Rivers State House Of Assembly,"",State Legislator,Abual/Odual
+667,Abdulwasi Musa,2015-05-29,2019-05-29,6176,6174,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",Deputy Speaker,
 667,Abdulwasi Musa,2015-05-29,2019-05-29,6175,6174,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",State Legislator,Saki West
-667,Abdulwasi Musa,2015-05-29,2019-05-29,6176,6174,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",Deputy Speaker ,
-623,Abdulkaareem Lawan,2015-05-29,2019-05-29,6040,6039,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",State Legislator,Guzamala
-623,Abdulkaareem Lawan,2015-05-29,2019-05-29,6041,6039,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",Speaker,
-634,Mayowa Adewumi,2015-05-29,2019-05-29,6073,6072,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",State Legislator,Ekiti West I
-634,Mayowa Adewumi,2015-05-29,2019-05-29,6074,6072,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",Deputy Speaker ,
-642,Ahmed Garba ,2015-05-29,2019-05-29,6097,6096,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",State Legislator,Hadejia
-642,Ahmed Garba ,2015-05-29,2019-05-29,6098,6096,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",Deputy Speaker ,
-612,Sunday Peter,2015-05-29,2019-05-29,6007,6006,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",State Legislator,Guyuk
-612,Sunday Peter,2015-05-29,2019-05-29,6008,6006,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",Deputy Speaker ,
-618,Abdulmuminu Bala Fanti,2015-05-29,2019-05-29,6025,6024,All Progressives Congress (APC),"",Member,Bauchi House of Assembly,"",State Legislator,Pali
-618,Abdulmuminu Bala Fanti,2015-05-29,2019-05-29,6026,6024,All Progressives Congress (APC),"",Member,Bauchi House of Assembly,"",Deputy Speaker ,
-622,James Okefe Ejembi,2015-05-29,2019-05-29,6037,6036,Peoples Democratic Party,"",Member,Benue State House of Assembly,"",State Legislator,Okpokwu
-622,James Okefe Ejembi,2015-05-29,2019-05-29,6038,6036,Peoples Democratic Party,"",Member,Benue State House of Assembly,"",Deputy Speaker ,
-633,Kolawole Oluwawole,2015-05-29,2019-05-29,6070,6069,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",State Legislator,Moba I
-633,Kolawole Oluwawole,2015-05-29,2019-05-29,6071,6069,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",Speaker,
-641,Idris Garba,2015-05-29,2019-05-29,6094,6093,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",State Legislator,Jahun
-641,Idris Garba,2015-05-29,2019-05-29,6095,6093,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",Speaker,
-645,Kabiru Alhassan Rurum,2015-05-29,2019-05-29,6106,6105,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",State Legislator,Rano
-645,Kabiru Alhassan Rurum,2015-05-29,2019-05-29,6107,6105,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",Speaker,
-650,Mohammed Buhari Aliero,2015-05-29,2019-05-29,6121,6120,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",State Legislator,Aliero
-650,Mohammed Buhari Aliero,2015-05-29,2019-05-29,6122,6120,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",Deputy Speaker ,
-656,Ibrahim Balarabe,2015-05-29,2019-05-29,6142,6141,All Progressives Congress (APC),"",Member,Nasarawa State House of Assembly,"",State Legislator,Umaisha/Ugya
-656,Ibrahim Balarabe,2015-05-29,2019-05-29,6143,6141,All Progressives Congress (APC),"",Member,Nasarawa State House of Assembly,"",Speaker,
-661,Olakunle Oluomo,2015-05-29,2019-05-29,6157,6156,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",State Legislator,Ifo I
-661,Olakunle Oluomo,2015-05-29,2019-05-29,6158,6156,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",Deputy Speaker ,
-666,Adesina Michael Adeyemo,2015-05-29,2019-05-29,6172,6171,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",State Legislator,Ibarapa East
-666,Adesina Michael Adeyemo,2015-05-29,2019-05-29,6173,6171,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",Speaker,
-670,Ikuinyi-Owaji Ibani,2015-05-29,2019-05-29,6184,6183,Peoples Democratic Party,"",Member,Rivers State House Of Assembly ,"",State Legislator,Andoni
-670,Ikuinyi-Owaji Ibani,2015-05-29,2019-05-29,6185,6183,Peoples Democratic Party,"",Member,Rivers State House Of Assembly ,"",Speaker,
+664,Najeem Salaam,2015-05-29,2019-05-29,6167,6165,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",Speaker,
+664,Najeem Salaam,2015-05-29,2019-05-29,6166,6165,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",State Legislator,Ejigbo
+658,Abdullahi Marafa,,,6149,6147,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",Speaker,
+658,Abdullahi Marafa,,,6148,6147,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",State Legislator,Chanchaga (State)
+653,Matthew Okelari,2015-05-29,2019-05-29,6134,6132,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",Deputy Speaker,
+653,Matthew Okelari,2015-05-29,2019-05-29,6133,6132,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",State Legislator,Lanwa/Ejidongari
+647,Aliyu Sabi’u Muduru Ibrahim,2015-05-29,2019-05-29,6113,6111,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",Speaker,
+647,Aliyu Sabi’u Muduru Ibrahim,2015-05-29,2019-05-29,6112,6111,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",State Legislator,Mani
+626,Joseph Bassey,2015-05-29,2019-05-29,6050,6048,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Deputy Speaker,
+626,Joseph Bassey,2015-05-29,2019-05-29,6049,6048,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",State Legislator,Calabar South II
+347,OFORBUIKE GREGORY CHUKWUEGBO,2003,2007,5065,3047,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",Member,Enugu
+306,MOHAMMED OGOSHI ONAWO,2003,2009,4911,3024,Peoples Democratic Party,"",Member,Nasarawa State House of Assembly,"",Speaker,Nasarawa
+434,UMAR BUBA JIBRIL,2003,2005,5339,3085,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Member,
+434,UMAR BUBA JIBRIL,2003,2005,5340,3085,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Speaker,
+662,Jumoke Akindele,2015-05-29,2019-05-29,6161,6159,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",Speaker,
+662,Jumoke Akindele,2015-05-29,2019-05-29,6160,6159,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",State Legislator,Okitipupa 2
+447,WADA GARKI USMAN,,,5371,3091,Peoples Democratic Party,"",Member,Jigawa State House of Assembly,"",Elected member,Jigawa
+628,Friday Osanebi,2015-05-29,2019-05-29,6056,6054,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",Deputy Speaker,
+628,Friday Osanebi,2015-05-29,2019-05-29,6055,6054,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",State Legislator,Ndokwa East
+620,Abraham Ingobere,2015-05-29,2019-05-29,6032,6030,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Deputy Speaker,
+620,Abraham Ingobere,2015-05-29,2019-05-29,6031,6030,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",State Legislator,Brass III
+616,Harford Oseke,2015-05-29,2019-05-29,6020,6018,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",Deputy Speaker,
+616,Harford Oseke,2015-05-29,2019-05-29,6019,6018,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",State Legislator,Awka South II
+610,Cosmos Ndukwe,2015-05-29,2019-05-29,6002,6000,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",State Legislator,Bende North
+610,Cosmos Ndukwe,2015-05-29,2019-05-29,6001,6000,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",Deputy Speaker,Bende North
+678,Sanusi Garba Rikiji,2015-05-29,2019-05-29,6209,6207,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",Speaker,
+678,Sanusi Garba Rikiji,2015-05-29,2019-05-29,6208,6207,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",State Legislator,Gusau 1
+674,Abel Peter Diah,2015-05-29,2019-05-29,6197,6195,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",Speaker,
+674,Abel Peter Diah,2015-05-29,2019-05-29,6196,6195,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",State Legislator,Mbamga
+272,KUTA DAHIRU AWAISU,,1983,3835,3142,Peoples Democratic Party,"",Member,Niger State House of Assembly,"",Member,
+639,Iheanacho Ihim,2015-05-29,2019-05-29,6089,6087,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",Speaker,
+639,Iheanacho Ihim,2015-05-29,2019-05-29,6088,6087,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",State Legislator,Okigwe
+648,Shehu Dalhatu Tafoki,2015-05-29,2019-05-29,6116,6114,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",Deputy Speaker,
+648,Shehu Dalhatu Tafoki,2015-05-29,2019-05-29,6115,6114,All Progressives Congress (APC),"",Member,Katsina State House of Assembly,"",State Legislator,
+665,Akintunde Adegboye,2015-05-29,2019-05-29,6170,6168,All Progressives Congress (APC),"",Member,Osun State House of Assembly,"",Speaker,
+665,Akintunde Adegboye,2015-05-29,2019-05-29,6169,6168,All Progressives Congress (APC),"",Member,Osun State House of Assembly,"",State Legislator,Osogbo
+660,Suraj Adekunbi,2015-05-29,2019-05-29,6155,6153,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",Speaker,
+660,Suraj Adekunbi,2015-05-29,2019-05-29,6154,6153,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",State Legislator,Egbado North I
+655,Wasiu Eshinlokun-Sanni,2015-05-29,2019-05-29,6140,6138,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",Deputy Speaker,
+655,Wasiu Eshinlokun-Sanni,2015-05-29,2019-05-29,6139,6138,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",State Legislator,Lagos Island I
+649,Abdulmumini Kamba,2015-05-29,2019-05-29,6119,6117,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",Speaker,
+649,Abdulmumini Kamba,2015-05-29,2019-05-29,6118,6117,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",State Legislator,Dandi
+640,Ugonna Ozurigbo,2015-05-29,2019-05-29,6092,6090,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",Deputy Speaker,
+640,Ugonna Ozurigbo,2015-05-29,2019-05-29,6091,6090,All Progressives Congress (APC),"",Member,Imo State House Of Assembly,"",State Legislator,Nwangele
+632,Bright Osayande,2015-05-29,2019-05-29,6068,6066,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",Deputy Speaker,
+632,Bright Osayande,2015-05-29,2019-05-29,6067,6066,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",State Legislator,Ovia ‎North East II
+629,Francis Ogbonnaya Nkifuru,2015-05-29,2019-05-29,6059,6057,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Speaker,
+629,Francis Ogbonnaya Nkifuru,2015-05-29,2019-05-29,6058,6057,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",State Legislator,Izzi West
+621,Terkimbi Ikyange,2015-05-29,2019-05-29,6035,6033,All Progressives Congress (APC),"",Member,Benue State House of Assembly,"",Speaker,
+621,Terkimbi Ikyange,2015-05-29,2019-05-29,6034,6033,All Progressives Congress (APC),"",Member,Benue State House of Assembly,"",State Legislator,Ushongo
+611,Kabiru Mijinyawa,2015-05-29,2019-05-29,6005,6003,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",Speaker,
+611,Kabiru Mijinyawa,2015-05-29,2019-05-29,6004,6003,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",State Legislator,Yola South
+673,Abubakar Magaji,2015-05-29,2019-05-29,6194,6192,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",Deputy Speaker,
+673,Abubakar Magaji,2015-05-29,2019-05-29,6193,6192,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",State Legislator,Bodinga North
+652,Aliyu Akuh,2015-05-29,2019-05-29,6128,6126,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Deputy Speaker,
+652,Aliyu Akuh,2015-05-29,2019-05-29,6127,6126,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",State Legislator,Omala
 369,PALLY ISUMAFE OBOKHUAIME IRIASE,1999,2003,5147,2762,Action Congress of Nigeria,"",Member,Edo State House Of Assembly,"",Member,Edo
-369,PALLY ISUMAFE OBOKHUAIME IRIASE,1999,2003,5148,2762,Action Congress of Nigeria,"",Member,Edo State House Of Assembly,"",Deputy Speaker ,Edo
+369,PALLY ISUMAFE OBOKHUAIME IRIASE,1999,2003,5148,2762,Action Congress of Nigeria,"",Member,Edo State House Of Assembly,"",Deputy Speaker,Edo
+663,Fatai Olotu,2015-05-29,2019-05-29,6164,6162,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",Deputy Speaker,
+663,Fatai Olotu,2015-05-29,2019-05-29,6163,6162,Peoples Democratic Party,"",Member,Ondo State House of Assembly,"",State Legislator,Akoko North-East
+657,Godiya Akwashiki,2015-05-29,2019-05-29,6145,6144,Peoples Democratic Party,"",Member,Nasarawa State House of Assembly,"",State Legislator,Eggon West
+614,Effiong Bassey,,,6014,6012,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker,
 614,Effiong Bassey,,,6013,6012,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",State Legislator,Oron/Udung Uko
-614,Effiong Bassey,,,6014,6012,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker ,
-624,Danlami Gamandi,2015-05-29,2019-05-29,6043,6042,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",State Legislator,Shani
-624,Danlami Gamandi,2015-05-29,2019-05-29,6044,6042,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",Deputy Speaker ,
+197,GOJE MOHAMMED DANJUMA,,1983,3833,3132,Peoples Democratic Party,"",Member,Bauchi House of Assembly,"",Member,Bauchi
 269,KINGSLEY SUNDAY EBENYI,1999,2004,4810,3015,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,Isi - Uzo Constituency,Honourable Member,Enugu
+378,RAFIU ADEBAYO IBRAHIM,,2014-01,5189,3058,Peoples Democratic Party,"",Member,Kwara State House of Assembly,"",Honourable Member,Kwara
 188,GARBA DATTI MUHAMMAD,,2013-07-30,4573,2854,Congress for Progressive Change,"",Member,Kaduna State House Of Assembly,"",Member,Kaduna
 188,GARBA DATTI MUHAMMAD,2013-07-31,,4573,5701,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",Member,Kaduna
-635,Edward Uchenna Ubosi,2015-05-29,2019-05-29,6076,6075,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",State Legislator,Enugu East I
-635,Edward Uchenna Ubosi,2015-05-29,2019-05-29,6077,6075,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",Speaker,
-643,Aminu Abdullahi Shagali,2015-05-29,2019-05-29,6100,6099,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",State Legislator,Sabon Gari (State)
-643,Aminu Abdullahi Shagali,2015-05-29,2019-05-29,6101,6099,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",Speaker,
 256,JOHN ENOH OWAN ENOH,1999,2003,4763,3008,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Member,
-197,GOJE MOHAMMED DANJUMA,,1983,3833,3132,Peoples Democratic Party,"",Member,Bauchi House of Assembly,"",Member,Bauchi
-378,RAFIU ADEBAYO IBRAHIM,,2014-01,5189,3058,Peoples Democratic Party,"",Member,Kwara State House of Assembly,"",Honourable Member,Kwara
-12,ABDULLAHI SALAME BALARABE,,2010,4052,2900,Peoples Democratic Party,"",Member,Sokoto State House of Assembly,"",Speaker,
-613,Aniekan Uko,,,6010,6009,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",State Legislator,Ibesikpo Asutan
-613,Aniekan Uko,,,6011,6009,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker ,
-671,Marshall Stanley Udom,2015-05-29,2019-05-29,6187,6186,Peoples Democratic Party,"",Member,Rivers State House Of Assembly ,"",State Legislator,Abual/Odual
-671,Marshall Stanley Udom,2015-05-29,2019-05-29,6188,6186,Peoples Democratic Party,"",Member,Rivers State House Of Assembly ,"",Deputy Speaker ,
-675,Mohammed Danladi Gwampo,2015-05-29,2019-05-29,6199,6198,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",State Legislator,Yorro
-675,Mohammed Danladi Gwampo,2015-05-29,2019-05-29,6200,6198,Peoples Democratic Party,"",Member,Taraba State House of Assembly,"",Deputy Speaker ,
+679,Muhammed Abubakar Gunu,2015-05-29,2019-05-29,6212,6210,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",Deputy Speaker,
 679,Muhammed Abubakar Gunu,2015-05-29,2019-05-29,6211,6210,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",State Legislator,Gummi 1
-679,Muhammed Abubakar Gunu,2015-05-29,2019-05-29,6212,6210,All Progressives Congress (APC),"",Member,Zamfara State House of Assembly,"",Deputy Speaker ,
+651,Momoh-Jimoh Lawal,2015-05-29,2019-05-29,6125,6123,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",Speaker,
+651,Momoh-Jimoh Lawal,2015-05-29,2019-05-29,6124,6123,Peoples Democratic Party,"",Member,Kogi State House of Assembly,"",State Legislator,Okene II
+646,Hamisu Ibrahim Chidari,2015-05-29,2019-05-29,6110,6108,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",Deputy Speaker,
+646,Hamisu Ibrahim Chidari,2015-05-29,2019-05-29,6109,6108,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",State Legislator,Makoda
+643,Aminu Abdullahi Shagali,2015-05-29,2019-05-29,6101,6099,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",Speaker,
+643,Aminu Abdullahi Shagali,2015-05-29,2019-05-29,6100,6099,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",State Legislator,Sabon Gari (State)
+635,Edward Uchenna Ubosi,2015-05-29,2019-05-29,6077,6075,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",Speaker,
+635,Edward Uchenna Ubosi,2015-05-29,2019-05-29,6076,6075,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",State Legislator,Enugu East I
+624,Danlami Gamandi,2015-05-29,2019-05-29,6044,6042,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",Deputy Speaker,
+624,Danlami Gamandi,2015-05-29,2019-05-29,6043,6042,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",State Legislator,Shani
+644,Gwarzo John Audu,2015-05-29,2019-05-29,6104,6102,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",Deputy Speaker,
+644,Gwarzo John Audu,2015-05-29,2019-05-29,6103,6102,All Progressives Congress (APC),"",Member,Kaduna State House Of Assembly,"",State Legislator,Kachia
+636,Donatus Uzogbado,2015-05-29,2019-05-29,6080,6078,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",Deputy Speaker,
+636,Donatus Uzogbado,2015-05-29,2019-05-29,6079,6078,Peoples Democratic Party,"",Member,Enugu State House Of Assembly,"",State Legislator,Oji River
+625,John Gaul-Lebo,2015-05-29,2019-05-29,6047,6045,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",Speaker,
+625,John Gaul-Lebo,2015-05-29,2019-05-29,6046,6045,Peoples Democratic Party,"",Member,Cross River State House of Assembly,"",State Legislator,Abi
+659,Hussaini Ibrahim,2015-05-29,2019-05-29,6152,6150,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",Deputy Speaker,
+659,Hussaini Ibrahim,2015-05-29,2019-05-29,6151,6150,All Progressives Congress (APC),"",Member,Niger State House of Assembly,"",State Legislator,Agaie
+654,Mudasiru Ajayi Obasa,2015-05-29,2019-05-29,6137,6135,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",Speaker,
+654,Mudasiru Ajayi Obasa,2015-05-29,2019-05-29,6136,6135,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",State Legislator,Agege I
+631,Victor Edoror,2015-05-29,2019-05-29,6065,6063,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",Speaker,
+631,Victor Edoror,2015-05-29,2019-05-29,6064,6063,All Progressives Congress (APC),"",Member,Edo State House Of Assembly,"",State Legislator,Esan Central
+609,Martins Azubuike,2015-05-29,2019-05-29,5999,5997,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",State Legislator,Isiala Ngwa North
+609,Martins Azubuike,2015-05-29,2019-05-29,5998,5997,Peoples Democratic Party,"",Member,Abia State House of Assembly,"",Speaker,Isiala Ngwa North
+638,Kawu Musa,2015-05-29,2019-05-29,6086,6084,Peoples Democratic Party,"",Member,Gombe State House of Assembly,"",Deputy Speaker,
+638,Kawu Musa,2015-05-29,2019-05-29,6085,6084,Peoples Democratic Party,"",Member,Gombe State House of Assembly,"",State Legislator,Nafada South
+676,Adamu Dala Dogo,2015-05-29,2019-05-29,6203,6201,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",Speaker,
+676,Adamu Dala Dogo,2015-05-29,2019-05-29,6202,6201,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",State Legislator,Karasuwa
+672,Salihu Maidaji,2015-05-29,2019-05-29,6191,6189,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",Speaker,
+672,Salihu Maidaji,2015-05-29,2019-05-29,6190,6189,All Progressives Congress (APC),"",Member,Sokoto State House of Assembly,"",State Legislator,Gada East
+668,Peter Ajang Azi,2015-05-29,2019-05-29,6179,6177,All Progressives Congress (APC),"",Member,Plateau State House of Assembly,"",Speaker,
+668,Peter Ajang Azi,2015-05-29,2019-05-29,6178,6177,All Progressives Congress (APC),"",Member,Plateau State House of Assembly,"",State Legislator,Jos West
+630,Odefa Obasi Odefa,2015-05-29,2019-05-29,6062,6060,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Deputy Speaker,
+630,Odefa Obasi Odefa,2015-05-29,2019-05-29,6061,6060,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",State Legislator,Onicha East
+627,Monday Igbuya,2015-05-29,2019-05-29,6053,6051,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",Speaker,
+627,Monday Igbuya,2015-05-29,2019-05-29,6052,6051,Peoples Democratic Party,"",Member,Delta State House Of Assembly,"",State Legislator,Sapele
+619,Kombowei Benson,2015-05-29,2019-05-29,6029,6027,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",Speaker,
+619,Kombowei Benson,2015-05-29,2019-05-29,6028,6027,Peoples Democratic Party,"",Member,Bayelsa State House of Assembly,"",State Legislator,Southern Ijaw IV
+615,Rita Mmaduagwu,2015-05-29,2019-05-29,6017,6015,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",Speaker,
+615,Rita Mmaduagwu,2015-05-29,2019-05-29,6016,6015,All Progressives Grand Alliance,"",Member,Anambra State House of Assembly,"",State Legislator,Nnewi South II
+642,Ahmed Garba,2015-05-29,2019-05-29,6098,6096,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",Deputy Speaker,
+642,Ahmed Garba,2015-05-29,2019-05-29,6097,6096,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",State Legislator,Hadejia
+634,Mayowa Adewumi,2015-05-29,2019-05-29,6074,6072,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",Deputy Speaker,
+634,Mayowa Adewumi,2015-05-29,2019-05-29,6073,6072,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",State Legislator,Ekiti West I
+623,Abdulkaareem Lawan,2015-05-29,2019-05-29,6041,6039,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",Speaker,
+623,Abdulkaareem Lawan,2015-05-29,2019-05-29,6040,6039,All Progressives Congress (APC),"",Member,Borno State House Of Assembly,"",State Legislator,Guzamala
+613,Aniekan Uko,,,6011,6009,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker,
+613,Aniekan Uko,,,6010,6009,Peoples Democratic Party,"",Member,Akwa Ibom State House of Assembly,"",State Legislator,Ibesikpo Asutan
+666,Adesina Michael Adeyemo,2015-05-29,2019-05-29,6173,6171,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",Speaker,
+666,Adesina Michael Adeyemo,2015-05-29,2019-05-29,6172,6171,All Progressives Congress (APC),"",Member,Oyo State House of Assembly,"",State Legislator,Ibarapa East
+661,Olakunle Oluomo,2015-05-29,2019-05-29,6158,6156,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",Deputy Speaker,
+661,Olakunle Oluomo,2015-05-29,2019-05-29,6157,6156,All Progressives Congress (APC),"",Member,Ogun State House of Assembly,"",State Legislator,Ifo I
+656,Ibrahim Balarabe,2015-05-29,2019-05-29,6143,6141,All Progressives Congress (APC),"",Member,Nasarawa State House of Assembly,"",Speaker,
+656,Ibrahim Balarabe,2015-05-29,2019-05-29,6142,6141,All Progressives Congress (APC),"",Member,Nasarawa State House of Assembly,"",State Legislator,Umaisha/Ugya
+650,Mohammed Buhari Aliero,2015-05-29,2019-05-29,6122,6120,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",Deputy Speaker,
+650,Mohammed Buhari Aliero,2015-05-29,2019-05-29,6121,6120,All Progressives Congress (APC),"",Member,Kebbi State House of Assembly,"",State Legislator,Aliero
+645,Kabiru Alhassan Rurum,2015-05-29,2019-05-29,6107,6105,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",Speaker,
+645,Kabiru Alhassan Rurum,2015-05-29,2019-05-29,6106,6105,All Progressives Congress (APC),"",Member,Kano State House of Assembly,"",State Legislator,Rano
+641,Idris Garba,2015-05-29,2019-05-29,6095,6093,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",Speaker,
+641,Idris Garba,2015-05-29,2019-05-29,6094,6093,All Progressives Congress (APC),"",Member,Jigawa State House of Assembly,"",State Legislator,Jahun
+633,Kolawole Oluwawole,2015-05-29,2019-05-29,6071,6069,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",Speaker,
+633,Kolawole Oluwawole,2015-05-29,2019-05-29,6070,6069,Peoples Democratic Party,"",Member,Ekiti State House of Assembly,"",State Legislator,Moba I
+622,James Okefe Ejembi,2015-05-29,2019-05-29,6038,6036,Peoples Democratic Party,"",Member,Benue State House of Assembly,"",Deputy Speaker,
+622,James Okefe Ejembi,2015-05-29,2019-05-29,6037,6036,Peoples Democratic Party,"",Member,Benue State House of Assembly,"",State Legislator,Okpokwu
+618,Abdulmuminu Bala Fanti,2015-05-29,2019-05-29,6026,6024,All Progressives Congress (APC),"",Member,Bauchi House of Assembly,"",Deputy Speaker,
+618,Abdulmuminu Bala Fanti,2015-05-29,2019-05-29,6025,6024,All Progressives Congress (APC),"",Member,Bauchi House of Assembly,"",State Legislator,Pali
+612,Sunday Peter,2015-05-29,2019-05-29,6008,6006,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",Deputy Speaker,
+612,Sunday Peter,2015-05-29,2019-05-29,6007,6006,All Progressives Congress (APC),"",Member,Adamawa State House of Assembly,"",State Legislator,Guyuk
+670,Ikuinyi-Owaji Ibani,2015-05-29,2019-05-29,6185,6183,Peoples Democratic Party,"",Member,Rivers State House Of Assembly,"",Speaker,
+670,Ikuinyi-Owaji Ibani,2015-05-29,2019-05-29,6184,6183,Peoples Democratic Party,"",Member,Rivers State House Of Assembly,"",State Legislator,Andoni
+677,Garba Ibrahim Kurmi,2015-05-29,2019-05-29,6206,6204,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",Deputy Speaker,
+677,Garba Ibrahim Kurmi,2015-05-29,2019-05-29,6205,6204,All Progressives Congress (APC),"",Member,Yobe State House of Assembly,"",State Legislator,Fika
+669,Adamu Yusuf Gardi,2015-05-29,2019-05-29,6182,6180,Peoples Democratic Party,"",Member,Plateau State House of Assembly,"",Deputy Speaker,
+669,Adamu Yusuf Gardi,2015-05-29,2019-05-29,6181,6180,Peoples Democratic Party,"",Member,Plateau State House of Assembly,"",State Legislator,Kantana
+393,SAMUEL BABATUNDE ADEJARE,,2013-07-30,5231,2768,Action Congress of Nigeria,"",Member,Lagos State House Of Assembly,"",Member,Lagos State
+393,SAMUEL BABATUNDE ADEJARE,2013-07-31,,5231,5624,All Progressives Congress (APC),"",Member,Lagos State House Of Assembly,"",Member,Lagos State
+69,ALI AHMAD,2015-05-29,2019-05-29,6131,6129,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",Speaker,
+69,ALI AHMAD,2015-05-29,2019-05-29,6130,6129,All Progressives Congress (APC),"",Member,Kwara State House of Assembly,"",State Legislator,Ilorin South
+242,ISA MOHAMMED ASHIRU,,,4714,3000,Peoples Democratic Party,"",Member,Kaduna State House Of Assembly,"",Member,Kaduna
+12,ABDULLAHI SALAME BALARABE,,2010,4052,2900,Peoples Democratic Party,"",Member,Sokoto State House of Assembly,"",Speaker,
+163,EMMANUEL ETIM EKPENYONG,,2013-07-30,4475,2734,Action Congress of Nigeria,"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker,Akwa Ibom
+163,EMMANUEL ETIM EKPENYONG,2013-07-31,,4475,5591,All Progressives Congress (APC),"",Member,Akwa Ibom State House of Assembly,"",Deputy Speaker,Akwa Ibom
+19,ABE MAGNUS NGEI,1999,2003,3655,3103,Peoples Democratic Party,"",Member,House of Assembly Rivers State,"",Minority leader,Rivers
+19,ABE MAGNUS NGEI,1999,2003,3656,3103,Peoples Democratic Party,"",Member,House of Assembly Rivers State,"",Member,Rivers
+355,OKWURU CHUKWUEMEKA TOBIAS,1999,2003,5103,3051,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",Pioneer Chief Whip,
+355,OKWURU CHUKWUEMEKA TOBIAS,2003,2007,5104,3051,Peoples Democratic Party,"",Member,Ebonyi State House Of Assembly,"",pioneer Leader,
