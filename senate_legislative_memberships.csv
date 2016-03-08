@@ -64,7 +64,6 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 147,DAHIRU UMARU,2003-05-29,2007,2003,3123,Peoples Democratic Party,973,Abuja,Senate,Member,Senator
 147,DAHIRU UMARU,2011-05-29,2015-05-29,2011,3123,Peoples Democratic Party,857,Sokoto South,Senate,Member,Senator
 213,HEINEKEN LOKPOBIRI,2011-05-29,2015-05-29,2011,3136,Peoples Democratic Party,874,BAYELSA WEST,Senate,Member,Senator
-601,Bala Na’Allah,2015,2015-05-29,2011,5975,All Progressives Congress (APC),,,Senate,Member,Deputy Majority Leader
 194,NGIGE CHRIS NWABUEZE,2011-05-29,2013-07-30,2011,2785,Action Congress of Nigeria,868,ANAMBRA CENTRAL,Senate,Member,Senator
 194,NGIGE CHRIS NWABUEZE,2013-07-31,2015-05-29,2011,5640,All Progressives Congress (APC),868,ANAMBRA CENTRAL,Senate,Member,Senator
 216,HUSSEIN MUDASIRU OYETUNDE,2011-05-29,2013-07-30,2011,2786,Action Congress of Nigeria,875,OSUN WEST,Senate,Member,Senator
@@ -100,7 +99,6 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 467,ZANNA AHMED KHALIFA,2011-05-29,2014-01-29,2011,3171,Peoples Democratic Party,925,BORNO CENTRAL,Senate,Member,Senator
 159,NDUME MOHAMMED ALI,2011-05-29,2014-01-29,2011,3125,Peoples Democratic Party,860,BORNO SOUTH,Senate,Member,Senator
 159,NDUME MOHAMMED ALI,2014-01-29,2015-05-29,2011,5833,All Progressives Congress (APC),860,BORNO SOUTH,Senate,Member,Senator
-159,NDUME MOHAMMED ALI,2015,2015-05-29,2011,5833,All Progressives Congress (APC),,,Senate,Member,Majority Leader
 351,SUNDAY OGBUOJI OJI,2011-05-29,2015-05-29,2011,3154,Peoples Democratic Party,920,Ebonyi SOUTH,Senate,Member,Senator
 195,GOBIR IBRAHIM ABDULLAHI,2011-05-29,2014-01-29,2011,3131,Peoples Democratic Party,869,SOKOTO EAST,Senate,Member,Senator
 195,GOBIR IBRAHIM ABDULLAHI,2014-01-29,2015-05-29,2011,5840,All Progressives Congress (APC),869,SOKOTO EAST,Senate,Member,Senator
@@ -126,11 +124,8 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 197,GOJE MOHAMMED DANJUMA,2011-05-29,2014-01-29,2011,3132,Peoples Democratic Party,870,Gombe CENTRAL,Senate,Member,Senator
 294,MARK DAVID A.B,1999-05-29,2003-05-29,1999,3151,Peoples Democratic Party,896,BENUE SOUTH,Senate,Member,Senator
 294,MARK DAVID A.B,2003-05-29,2007-05-29,2003,3151,Peoples Democratic Party,896,BENUE SOUTH,Senate,Member,Senator
-294,MARK DAVID A.B,2007,2007-05-29,2003,3151,Peoples Democratic Party,,,Senate,Member,Senate President
 294,MARK DAVID A.B,2007-05-29,2011-05-29,2007,3151,Peoples Democratic Party,896,BENUE SOUTH,Senate,Member,Senator
-294,MARK DAVID A.B,2007-05-29,2011-05-29,2007,3151,Peoples Democratic Party,,,Senate,Member,Senate President
 294,MARK DAVID A.B,2011-05-29,2015-05-29,2011,3151,Peoples Democratic Party,896,BENUE SOUTH,Senate,Member,Senator
-294,MARK DAVID A.B,2011-05-29,2015,2011,3151,Peoples Democratic Party,,,Senate,Member,Senate President
 562,Kabir Garba Marafa,2011-05-29,2015-05-29,2011,5876,All Progressives Congress (APC),893,Zamfara Central,Senate,Member,Senator
 41,ADEYEYE OLUSOLA,2011-05-29,2013-07-30,2011,2780,Action Congress of Nigeria,830,OSUN CENTRAL,Senate,Member,Senator
 41,ADEYEYE OLUSOLA,2013-07-31,2015-05-29,2011,5636,All Progressives Congress (APC),830,OSUN CENTRAL,Senate,Member,Senator
@@ -198,8 +193,6 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 46,AGBOOLA AYOOLA HOSEA,2011-05-29,2015-05-29,2011,3108,Peoples Democratic Party,833,OYO NORTH,Senate,Member,Senator
 279,LAWAN AHMAD IBRAHIM,2011-05-29,2013-07-30,2011,2829,All Nigeria Peoples Party,890,YOBE NORTH,Senate,Member,Senator
 279,LAWAN AHMAD IBRAHIM,2013-07-31,2015-05-29,2011,5684,All Progressives Congress (APC),890,YOBE NORTH,Senate,Member,Senator
-190,GAYA KABIRU IBRAHIM,2007,2007-05-29,2003,2826,All Nigeria Peoples Party,,,Senate,Member,Deputy Minority Whip
-190,GAYA KABIRU IBRAHIM,2007-05-29,2011,2007,2826,All Nigeria Peoples Party,,,Senate,Member,Deputy Minority Whip
 190,GAYA KABIRU IBRAHIM,2011-05-29,2013-07-30,2011,2826,All Nigeria Peoples Party,865,KANO SOUTH,Senate,Member,Senator
 190,GAYA KABIRU IBRAHIM,2013-07-31,2015-05-29,2011,5681,All Progressives Congress (APC),865,KANO SOUTH,Senate,Member,Senator
 324,MUSA IBRAHIM,2011-05-29,2013-07-30,2011,2879,Congress for Progressive Change,899,NIGER NORTH,Senate,Member,Senator

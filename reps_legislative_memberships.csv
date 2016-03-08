@@ -214,15 +214,7 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 177,FAROUK MOHAMMED LAWAN,2011-05-29,2015-05-29,2011,2974,Peoples Democratic Party,599,Shanono/Bagwai,House of Representatives,Member,Federal Representative
 202,HAKEEM ABIODUN MUNIRU,2011-05-29,2013-07-30,2011,2739,Action Congress of Nigeria,613,Oshodi/Isolo II,House of Representatives,Member,Federal Representative
 202,HAKEEM ABIODUN MUNIRU,2013-07-31,2015-05-29,2011,5595,All Progressives Congress (APC),613,Oshodi/Isolo II,House of Representatives,Member,Federal Representative
-193,GIBSON KAUDA NATHANIEL,1979-05-29,1983-05-29,1979,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
-193,GIBSON KAUDA NATHANIEL,1983-05-29,1992-05-29,1983,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
-193,GIBSON KAUDA NATHANIEL,1992-05-29,1998-05-29,1992,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
-193,GIBSON KAUDA NATHANIEL,1998-05-29,1999-05-29,1998,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
-193,GIBSON KAUDA NATHANIEL,1999-05-29,2003-05-29,1999,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
-193,GIBSON KAUDA NATHANIEL,2003-05-29,2007-05-29,2003,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
-193,GIBSON KAUDA NATHANIEL,2007-05-29,2011-05-29,2007,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
 193,GIBSON KAUDA NATHANIEL,2011-05-29,2015-05-29,2011,2980,Peoples Democratic Party,609,Guyuk/Shelleng,House of Representatives,Member,Federal Representative
-193,GIBSON KAUDA NATHANIEL,2011-05-29,2015-05-29,2011,2980,Peoples Democratic Party,,,House of Assembly,Member,Member
 696,CHRIS AGIBE NGORO,1979-05-29,1983-05-29,1979,6255,Peoples Democratic Party,568,Boki/Ikom,House of Representatives,Member,Federal Representative
 696,CHRIS AGIBE NGORO,1983-05-29,1992-05-29,1983,6255,Peoples Democratic Party,568,Boki/Ikom,House of Representatives,Member,Federal Representative
 696,CHRIS AGIBE NGORO,1992-05-29,1998-05-29,1992,6255,Peoples Democratic Party,568,Boki/Ikom,House of Representatives,Member,Federal Representative
@@ -779,18 +771,10 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 821,YUSUF AYO TAJUDEEN,2011-05-29,2015-05-29,2011,6565,Peoples Democratic Party,536,Ijumu/Kabba-Bunu,House of Representatives,Member,Federal Representative
 925,MURTALA ISAH,2011,2011-05-29,2007,6885,All Progressives Congress (APC),465,Faskari/Kankara/Sabuwa,House of Representatives,Member,Federal Representative
 925,MURTALA ISAH,2011-05-29,2015-05-29,2011,6885,All Progressives Congress (APC),465,Faskari/Kankara/Sabuwa,House of Representatives,Member,Federal Representative
-233,NINGI AHMED ABDUL,1979-05-29,1983-05-29,1979,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
-233,NINGI AHMED ABDUL,1983-05-29,1992-05-29,1983,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
-233,NINGI AHMED ABDUL,1992-05-29,1998-05-29,1992,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
-233,NINGI AHMED ABDUL,1998-05-29,1999-05-29,1998,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
 233,NINGI AHMED ABDUL,1999,1999-05-29,1998,3138,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Federal Representative
 233,NINGI AHMED ABDUL,1999-05-29,2003-05-29,1999,3138,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Federal Representative
-233,NINGI AHMED ABDUL,1999-05-29,2003-05-29,1999,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
 233,NINGI AHMED ABDUL,2003-05-29,2007-05-29,2003,3138,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Federal Representative
-233,NINGI AHMED ABDUL,2003-05-29,2007-05-29,2003,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
 233,NINGI AHMED ABDUL,2007-05-29,2011,2007,3138,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Federal Representative
-233,NINGI AHMED ABDUL,2007-05-29,2011-05-29,2007,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
-233,NINGI AHMED ABDUL,2011-05-29,2015-05-29,2011,3138,Peoples Democratic Party,,,House of Representatives,Member,House Leader
 336,NATHANIEL IGE AGUNBIADE,2011-05-29,2013-07-30,2011,2753,Action Congress of Nigeria,718,Obokun/Oriade,House of Representatives,Member,Federal Representative
 336,NATHANIEL IGE AGUNBIADE,2013-07-31,2015-05-29,2011,5609,All Progressives Congress (APC),718,Obokun/Oriade,House of Representatives,Member,Federal Representative
 310,MOHAMMED UMARU BAGO,2011-05-29,2013-07-30,2011,2866,Congress for Progressive Change,693,Chanchaga,House of Representatives,Member,Federal Representative
@@ -2066,8 +2050,6 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 33,ADEKUNLE ADEYEMI,2011-05-29,2013-07-30,2011,2719,Action Congress of Nigeria,492,Ifo/Ewekoro,House of Representatives,Member,Federal Representative
 33,ADEKUNLE ADEYEMI,2013-07-31,2015-05-29,2011,5576,All Progressives Congress (APC),492,Ifo/Ewekoro,House of Representatives,Member,Federal Representative
 171,ETOK ALOYSIUS AKPAN,1992,1992,1983,3126,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Federal Representative
-171,ETOK ALOYSIUS AKPAN,1992,1992-05-29,1983,3126,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Minority Whip
-171,ETOK ALOYSIUS AKPAN,1992-05-29,1993,1992,3126,Peoples Democratic Party,973,Abuja,House of Representatives,Member,Minority Whip
 253,JIM AIKU ADUN,1979-05-29,1983-05-29,1979,2743,Action Congress of Nigeria,973,Abuja,House of Representatives,Member,Federal Representative
 253,JIM AIKU ADUN,1983-05-29,1992-05-29,1983,2743,Action Congress of Nigeria,973,Abuja,House of Representatives,Member,Federal Representative
 253,JIM AIKU ADUN,1992-05-29,1998-05-29,1992,2743,Action Congress of Nigeria,973,Abuja,House of Representatives,Member,Federal Representative
@@ -2217,8 +2199,6 @@ id,name,start_date,end_date,term,party_id,party,area_id,area,organisation_name,p
 156,DAVID DAVEMATICS OMBUGADU EMMANUEL,2013-07-31,2015-05-29,2011,5699,All Progressives Congress (APC),580,Akwanga/Nassarawa Eggon/Wamba,House of Representatives,Member,Federal Representative
 364,OMOSULE ENIOTIOLORUNDA,2011-05-29,2015-05-29,2011,2894,Labour Party,741,Owo/Ose,House of Representatives,Member,Federal Representative
 169,ENEKOROGHA PENAWEI FRANCIS,2011-05-29,2015-05-29,2011,2970,Peoples Democratic Party,592,Burutu,House of Representatives,Member,Federal Representative
-256,JOHN ENOH OWAN ENOH,2003,2003-05-29,1999,3008,Peoples Democratic Party,,,House of Representatives,Member,Member
-256,JOHN ENOH OWAN ENOH,2003-05-29,2007,2003,3008,Peoples Democratic Party,,,House of Representatives,Member,Member
 256,JOHN ENOH OWAN ENOH,2011-05-29,2015-05-29,2011,3008,Peoples Democratic Party,657,Obubra/Etung,House of Representatives,Member,Federal Representative
 32,ADAMU OCHEPO ENTONU,2011-05-29,2015-05-29,2011,2906,Peoples Democratic Party,491,Apa/Agatu,House of Representatives,Member,Federal Representative
 441,USMAN NENADI ESTHER,1998,1998,1992,3163,Peoples Democratic Party,978,Kachia - Kagarko Fed. Constituency,House of Representatives,Member,Federal Representative
