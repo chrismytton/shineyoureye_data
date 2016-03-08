@@ -113,8 +113,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 28,ABUBAKAR MISAU AHMED,Committee Member,National Planning and Economic Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05
 28,ABUBAKAR MISAU AHMED,Committee Member,Public Procurement Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 28,ABUBAKAR MISAU AHMED,Committee Member,Urban Development & Regional Planning Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05
-29,ADAMU ABDULAHI,Chairman,Solid Minerals Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-29,ADAMU ABDULAHI,Committee Member,Industry Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+29,ADAMU ABDULLAHI,Chairman,Solid Minerals Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+29,ADAMU ABDULLAHI,Committee Member,Industry Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 30,ADAMU ABUNABO HASSAN,Committee Member,Army Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 30,ADAMU ABUNABO HASSAN,Committee Member,Culture & Tourism Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05
 30,ADAMU ABUNABO HASSAN,Committee Member,"Labour, Employment and Productivity Committee (Reps)",Legislative Committee - Federal Reps,,"",2015-05-29
@@ -390,6 +390,7 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 102,AYO TAJUDEEN YUSUF,Committee Member,House Services Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 102,AYO TAJUDEEN YUSUF,Committee Member,Milliennium Development Goals Committee,Legislative Committee - Federal Reps,,2015-05,""
 102,AYO TAJUDEEN YUSUF,Committee Member,Navy Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+103,AZODO OKWUNNA EUCHARIA,Chairman,Drugs & Narcotics Committee (Reps),Legislative Committee - Federal Reps,,2015-06,2019-06
 103,AZODO OKWUNNA EUCHARIA,Committee Member,Appropriations Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 103,AZODO OKWUNNA EUCHARIA,Committee Member,Banking & Currency Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 103,AZODO OKWUNNA EUCHARIA,Committee Member,Civil Societies and Development Partners Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
@@ -665,12 +666,12 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 163,EMMANUEL ETIM EKPENYONG,Committee Member,Legislative Budget and Research Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 163,EMMANUEL ETIM EKPENYONG,Committee Member,Police Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 163,EMMANUEL ETIM EKPENYONG,Committee Member,Special Duties Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-164,EMMANUEL ISSAC UKOETE,Committee Member,Capital Market & Institutions Committee (Reps),Legislative Committee - Federal Reps,,2015-05-29,2015-05-29
-164,EMMANUEL ISSAC UKOETE,Committee Member,Foreign Affairs Committee (Reps),Legislative Committee - Federal Reps,,2015-05-29,2015-05-29
-164,EMMANUEL ISSAC UKOETE,Committee Member,Health Institutions Committee (Reps),Legislative Committee - Federal Reps,,2015-05-29,2015-05-29
-164,EMMANUEL ISSAC UKOETE,Committee Member,Public Petitions Committee (Reps),Legislative Committee - Federal Reps,,2015-05-29,2015-05-29
-164,EMMANUEL ISSAC UKOETE,Committee Member,Public Procurement Committee (Reps),Legislative Committee - Federal Reps,,2015-05-29,2015-05-29
-164,EMMANUEL ISSAC UKOETE,Committee Member,Youth and Social Development Committee (Reps),Legislative Committee - Federal Reps,,2015-05-29,2015-05-29
+164,EMMANUEL ISSAC UKOETE,Committee Member,Capital Market & Institutions Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+164,EMMANUEL ISSAC UKOETE,Committee Member,Foreign Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+164,EMMANUEL ISSAC UKOETE,Committee Member,Health Institutions Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+164,EMMANUEL ISSAC UKOETE,Committee Member,Public Petitions Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+164,EMMANUEL ISSAC UKOETE,Committee Member,Public Procurement Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+164,EMMANUEL ISSAC UKOETE,Committee Member,Youth and Social Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 164,EMMANUEL ISSAC UKOETE,Vice-Chairman,Sustainable Development Goals Committee (Reps),Legislative Committee - Federal Reps,,2015-10,2019-05-29
 165,EMMANUEL JIME,Chairman,Federal Capital Territory Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05
 165,EMMANUEL JIME,Committee Member,Customs and Excise Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
@@ -1107,9 +1108,9 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 268,KIGBU JOSEPH HARUNA,Committee Member,Navy Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 268,KIGBU JOSEPH HARUNA,Committee Member,Niger Delta Development Commission Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 268,KIGBU JOSEPH HARUNA,Committee Member,Public Procurement Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-269,KINGSLEY SUNDAY EBENYI,Chairman,Co-operation & Integration In Africa (Reps),Legislative Committee - Federal Reps,,"",2019-05
-269,KINGSLEY SUNDAY EBENYI,Committee Member,Civil Societies and Development Partners Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-269,KINGSLEY SUNDAY EBENYI,Committee Member,Foreign Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+269,KINGSLEY SUNDAY EBANYI,Chairman,Co-operation & Integration In Africa (Reps),Legislative Committee - Federal Reps,,"",2019-05
+269,KINGSLEY SUNDAY EBANYI,Committee Member,Civil Societies and Development Partners Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+269,KINGSLEY SUNDAY EBANYI,Committee Member,Foreign Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 270,KINGSLEY OGUNDU CHINDA,Chairman,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,2015-06,2019-06
 270,KINGSLEY OGUNDU CHINDA,Committee Member,Capital Market & Institutions Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 270,KINGSLEY OGUNDU CHINDA,Committee Member,Health Institutions Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
@@ -1137,7 +1138,7 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 278,LAWAL YAHAYA GUMAU,Committee Member,Climate Change Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 278,LAWAL YAHAYA GUMAU,Committee Member,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 278,LAWAL YAHAYA GUMAU,Committee Member,Steel Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-279,LAWAN AHMED IBRAHIM,Chairman,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+279,LAWAN AHMAD IBRAHIM,Chairman,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 280,LAWAN MAINA MA'AJI,Committee Member,Finance Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 281,LAWAN SHEHU,Committee Member,Air Force Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 281,LAWAN SHEHU,Committee Member,Climate Change Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
@@ -1252,6 +1253,7 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 310,MOHAMMED UMARU BAGO,Committee Member,Media and Public Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 310,MOHAMMED UMARU BAGO,Committee Member,National Planning and Economic Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05
 310,MOHAMMED UMARU BAGO,Vice-Chairman,"Marine Safety, Education & Administration Committee (Reps)",Legislative Committee - Federal Reps,,2015-06,2019-05
+311,MOHAMMED ZAKARI,Chairman,Basic Education and Services,Legislative Committee - Federal Reps,,2015,2019-06
 311,MOHAMMED ZAKARI,Chairman,Media and Public Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 311,MOHAMMED ZAKARI,Committee Member,Aviation Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 311,MOHAMMED ZAKARI,Committee Member,Media and Public Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
@@ -1402,7 +1404,7 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 339,NKOYO ESU TOYO,Committee Member,Milliennium Development Goals Committee,Legislative Committee - Federal Reps,,2015-05,""
 339,NKOYO ESU TOYO,Committee Member,National Planning and Economic Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05
 339,NKOYO ESU TOYO,Committee Member,Rules & Business Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-340,NNENNA IJEOMA ELENDU-UKEJE,Chairman,Foreign Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05-29
+340,NNENNA IJEOMA ELENDU-UKEJE,Chairman,Foreign Affairs Committee (Reps),Legislative Committee - Federal Reps,,2015-06,2019-05-29
 340,NNENNA IJEOMA ELENDU-UKEJE,Committee Member,Civil Societies and Development Partners Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 340,NNENNA IJEOMA ELENDU-UKEJE,Committee Member,Health Institutions Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 340,NNENNA IJEOMA ELENDU-UKEJE,Committee Member,"Marine Safety, Education & Administration Committee (Reps)",Legislative Committee - Federal Reps,,"",2015-05-29
@@ -1557,11 +1559,11 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 374,PETER OGE ALI,Committee Member,Public Procurement Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 374,PETER OGE ALI,Committee Member,Rural Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 374,PETER OGE ALI,Vice-Chairman,Governmental Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-375,PETER OHIOZOJE AKPATASON,Chairman,Civil Societies and Development Partners Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
-375,PETER OHIOZOJE AKPATASON,Committee Member,Petroleum Resources (Down Stream) Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-375,PETER OHIOZOJE AKPATASON,Committee Member,Public Service Matter Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-375,PETER OHIOZOJE AKPATASON,Committee Member,Rural Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-375,PETER OHIOZOJE AKPATASON,Committee Member,Water Resources Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+375,PETER OHIOZOJEH AKPATASON,Chairman,Civil Societies and Development Partners Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
+375,PETER OHIOZOJEH AKPATASON,Committee Member,Petroleum Resources (Down Stream) Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+375,PETER OHIOZOJEH AKPATASON,Committee Member,Public Service Matter Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+375,PETER OHIOZOJEH AKPATASON,Committee Member,Rural Development Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+375,PETER OHIOZOJEH AKPATASON,Committee Member,Water Resources Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 376,PIUS EWHERIDO AKPOR,Vice-Chairman,"Marine Safety, Education & Administration Committee (Reps)",Legislative Committee - Federal Reps,,"",2015-05-29
 377,RAFEEQUAT ARINOLA ONABAMIRO,Committee Member,Agricultural Production and Services Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 377,RAFEEQUAT ARINOLA ONABAMIRO,Committee Member,Air Force Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
@@ -1764,7 +1766,7 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 423,TUKUR AMIRUDDIN,Vice-Chairman,Anti-Corruption Committee Reps,Legislative Committee - Federal Reps,,2015-06,2019-05
 424,TUKUR BELLO MOHAMMED,Vice-Chairman,Media and Public Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 425,TUTARE ABUBAKAR UMAR,Vice-Chairman,Police Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
-426,UBAH ANDY EMMANUEL NNAMDI,Committee Member,Finance Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
+426,UBA ANDY EMMANUEL NNAMDI,Committee Member,Finance Committee (Reps),Legislative Committee - Federal Reps,,"",2015-05-29
 427,UCHE LILIAN EKWUNIFE,Committee Member,Defence Committee (Reps),Legislative Committee - Federal Reps,,2011-05-29,2015-05-29
 427,UCHE LILIAN EKWUNIFE,Committee Member,Electoral Matters & Political Party Matters Committee (Reps),Legislative Committee - Federal Reps,,2011-05-29,2015-05-29
 427,UCHE LILIAN EKWUNIFE,Committee Member,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,2011-05-29,2015-05-29
@@ -1921,16 +1923,16 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 695,MICHAEL IROM ETABA,Vice-Chairman,Pension Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 697,OCHIGLEGOR IDAGBO,Vice-Chairman,Legislative Budget and Research Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 698,JARIGBE AGOM JARIGBE,Vice-Chairman,Tertiary Education & Services Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
+699,DARLINTON NWOKOCHA,Vice-Chairman,Federal Character Committee (Reps),Legislative Committee - Federal Reps,,2015-06,2019-06
 701,SAMUEL IFEANYI ONUIGBO,Chairman,Climate Change Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
-704,SOLOMON ADAELU EZINWA O.,Vice-Chairman,"Marine Safety, Education & Administration Committee (Reps)",Legislative Committee - Federal Reps,,2019-05,
+704,SOLOMON ADAELU EZINWA O.,Vice-Chairman,"Marine Safety, Education & Administration Committee (Reps)",Legislative Committee - Federal Reps,,"",2019-05
 706,LAWAL ABUBAKAR GARBA,Chairman,Constituency Outreach Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
-711,KWAMOTI BITRUS LAORIv,Chairman,FCT Judiciary Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
-714,ABDULRAZAK SAÁD NAMDAS,Chairman,Media and Public Affairs Committee (Reps),Legislative Committee - Federal Reps,Mayo Belwa/Ganye/Jada /Toungo,"",2019-05
+711,KWAMOTI BITRUS LAORI,Chairman,FCT Judiciary Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
+714,ABDULRAZAK SAÁD NAMDAS,Chairman,Media and Public Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 717,IBORO ASUQUO EKANEM,Vice-Chairman,Youth and Social Development Committee (Reps),Legislative Committee - Federal Reps,,2015-05,2019-05
 720,ONYEAMAECHI JOAN MRAKPOR,Vice-Chairman,Science & Technology Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 723,OWOIDIGHE IME EKPOATAI,Vice-Chairman,Women Affairs & Social Development Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 724,AHWINAHWI SOLOMON,Vice-Chairman,Defence Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
-726,EUCHARIA AZODO OKWUNNA,Chairman,Drugs & Narcotics Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 727,IFEANYI CHRIS EMEKA AZUBAGO,Vice-Chairman,Appropriations Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 728,ANAYO EDWIN,Vice-Chairman,Rural Development Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 729,ANOHU CHUKWUEMEKA REGINALD,Vice-Chairman,Basic Education and Services,Legislative Committee - Federal Reps,,"",2019-05
@@ -1940,14 +1942,14 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 739,SHEHU ALIYU MUSA,Vice-Chairman,Diaspora Matters Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 740,RT HALIRU DAUDA JIKA,Chairman,Police Affairs Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 742,MOHAMMED GARBA GOLOLO,Chairman,Power Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
-744,IBRAHIM MOHAMMED BABA,Vice-Chairman,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,"",
+744,IBRAHIM MOHAMMED BABA,Vice-Chairman,Public Accounts Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 750,OMOSEDE IGBINEDION GABRIELLA,Vice-Chairman,House Services Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 751,OGUN SARGIUS OSEASOCHIE,Vice-Chairman,Federal Capital Territory Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 753,Omoregie Ogbeide-Ihama,Chairman,Culture & Tourism Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 754,PATRICK AISOWIEREN,Vice-Chairman,Interior Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 756,SEGUN ADEKOLA ALEXANDER,Chairman,Youth and Social Development Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 762,CHUKWUEMEKA UJAM,Vice-Chairman,Telecommunications Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
-764,HASSAN SALEH,Vice-Chairman,Local Content Committee (Reps),Legislative Committee - Federal Reps,,2019-05,
+764,HASSAN SALEH,Vice-Chairman,Local Content Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 767,STELLA UCHENA OBIAGELI NGWU,Chairman,Women Affairs & Social Development Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 771,ASABE VILITA BASHIR,Vice-Chairman,Women in parliament Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 775,JIBRIN SATUMARI,Chairman,Emergency & Disaster Preparedness Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
@@ -1960,7 +1962,6 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 790,SANI UMAR BALA,Vice-Chairman,Public Service Matter Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 794,AHMED GARBA BICHI,Vice-Chairman,Information Technology Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05
 796,CHIKE JOHN OKAFOR,Chairman,Healthcare Services Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
-797,EZENWA ONYEWUCHI,Chairman,"Labour, Employment and Productivity Committee (Reps)",Legislative Committee - Federal Reps,,"",2019-06
 798,AHMED DAYYABU SAFANA,Vice-Chairman,"Aids, Loans and Debt Management Committee (Reps)",Legislative Committee - Federal Reps,,"",2019-05
 799,GOODLUCK OPIA NANAH,Vice-Chairman,Financial Crimes Committee (Reps),Legislative Committee - Federal Reps,,"",2019-06
 801,MUNTARI DANDUTSE,Vice-Chairman,FCT Judiciary Committee (Reps),Legislative Committee - Federal Reps,,"",2019-05

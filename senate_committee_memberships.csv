@@ -8,7 +8,7 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 24,ABIOLA ADEBUKOLA AJAJA,Committee Member,Environment Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 26,ABUBAKAR ESHIOKPEK MOMOH,Committee Member,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 27,ABUBAKAR MAHMUD WAMBAI,Committee Member,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
-29,ADAMU ABDULAHI,Chairman,Agriculture Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+29,ADAMU ABDULLAHI,Chairman,Agriculture Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 30,ADAMU ABUNABO HASSAN,Committee Member,Environment Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 31,ADAMU GURAI,Committee Member,Housing Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 34,ADENIYI ANTHONY ADEMUYIWA,Committee Member,Independent National Electoral Commission Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
@@ -149,8 +149,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 274,LAFIAGI MOHAMMED SHAABA,Chairman,National Security and Intelligence Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 274,LAFIAGI MOHAMMED SHAABA,Vice-Chairman,National Security and Intelligence Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 275,LANLEHIN OLUFEMI AKINOLA,Vice-Chairman,National Planning & Economic Affairs Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
-279,LAWAN AHMED IBRAHIM,Chairman,Defence Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-279,LAWAN AHMED IBRAHIM,Committee Member,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
+279,LAWAN AHMAD IBRAHIM,Chairman,Defence Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+279,LAWAN AHMAD IBRAHIM,Committee Member,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 283,JOSHUA LIDANi MOLTOBOK,Chairman,Diaspora & Civil Societies Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 285,MACCIDO AHMAD MUHAMMAD,Committee Member,Local and Foreign Debts Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 287,MAGORO MOHAMMED,Chairman,National Security and Intelligence Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
@@ -207,16 +207,16 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 372,PETER EDEH OYEMAECHI,Vice-Chairman,Solid Minerals Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 373,PETER GUMTHA BIYE,Committee Member,Environment Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 374,PETER OGE ALI,Committee Member,Industry Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
-375,PETER OHIOZOJE AKPATASON,Committee Member,Industry Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
-375,PETER OHIOZOJE AKPATASON,Committee Member,Solid Minerals Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
+375,PETER OHIOZOJEH AKPATASON,Committee Member,Industry Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
+375,PETER OHIOZOJEH AKPATASON,Committee Member,Solid Minerals Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 376,PIUS EWHERIDO AKPOR,Committee Member,Trade and Investment Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 378,RAFIU ADEBAYO IBRAHIM,Chairman,"Banking, Insurance and Other Financial Institutions Committee (Senate)",Legislative Committee - Senate,,2015-06,2019-06
 383,ROBINSON GBADEBO AJIBOYE,Committee Member,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 383,ROBINSON GBADEBO AJIBOYE,Committee Member,Solid Minerals Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 384,ROSE OKOJI OKO,Committee Member,Industry Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 384,ROSE OKOJI OKO,Vice-Chairman,Diaspora & Civil Societies Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-384,ROSE OKOJI OKO,Vice-Chairman,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 384,ROSE OKOJI OKO,Vice-Chairman,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+384,ROSE OKOJI OKO,Vice-Chairman,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 385,SABO MOHAMMED NAKUDU,Vice-Chairman,Trade and Investment Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 386,SADIQ ASEMA MOHAMMED,Committee Member,Communications Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 395,SANI AUWALU,Committee Member,Solid Minerals Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
@@ -240,8 +240,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 424,TUKUR BELLO MOHAMMED,Member,Federal Character and Intergovernmental Affairs Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 424,TUKUR BELLO MOHAMMED,Member,Gas Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
 424,TUKUR BELLO MOHAMMED,Member,Trade and Investment Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
-426,UBAH ANDY EMMANUEL NNAMDI,Chairman,Independent National Electoral Commission Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
-426,UBAH ANDY EMMANUEL NNAMDI,Chairman,Public Accounts Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+426,UBA ANDY EMMANUEL NNAMDI,Chairman,Independent National Electoral Commission Committee (Senate),Legislative Committee - Senate,,"",2015-05-29
+426,UBA ANDY EMMANUEL NNAMDI,Chairman,Public Accounts Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 427,UCHE LILIAN EKWUNIFE,Chairman,Downstream Petroleum Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 427,UCHE LILIAN EKWUNIFE,Chairman,Downstream Petroleum Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 427,UCHE LILIAN EKWUNIFE,Chairman,Environment Committee (Senate),Legislative Committee - Senate,,2011-05-29,2015-05-29
@@ -276,8 +276,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 528,Aliyu Magatakarda Wamakko,Chairman,Education (Basic & Secondary) Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 535,Mao Ohuabunwa,Chairman,Primary Healthcare & Communicable Diseases Commitee (Senate),Legislative Committee - Senate,,2019-06,2019-06
 536,BINTA MASI GARBA,Chairman,Tertiary Institutions & TETFUND Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-538,Ahmadu Abubakar,Vice-Chairman,Culture & Tourism Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-538,Ahmadu Abubakar,Vice-Chairman,Gas Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+538,Ahmadu Moallahyidi Abubakar,Vice-Chairman,Culture & Tourism Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+538,Ahmadu Moallahyidi Abubakar,Vice-Chairman,Gas Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 539,Bassey Akpan,Chairman,Gas Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 540,Nelson Effiong,Vice-Chairman,Primary Healthcare & Communicable Diseases Commitee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 541,Stella Oduah,Vice-Chairman,Police Affairs Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
@@ -285,8 +285,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 543,Suleiman Nazif,Chairman,"Employment, Labour and Productivity Committee (Senate)",Legislative Committee - Senate,,2015-06,2019-06
 543,Suleiman Nazif,Vice-Chairman,Establishment and Public Service Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 544,Isah Misau,Chairman,Navy Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-545,Malam Wakili,Chairman,Poverty Alleviation & Social Welfare Commitee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-545,Malam Wakili,Vice-Chairman,Airforce Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+545,Ali Malam Wakili,Chairman,Poverty Alleviation & Social Welfare Commitee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+545,Ali Malam Wakili,Vice-Chairman,Airforce Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 546,Foster Ogola,Chairman,ICT & Cyber Crime Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 546,Foster Ogola,Vice-Chairman,Capital Market Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 547,Ben Murray Bruce,Chairman,Privatization Commitee (Senate),Legislative Committee - Senate,,2015-06,2019-06
@@ -317,8 +317,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 573,Buruji Kashamu,Vice-Chairman,States and Local Government Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 574,Osinakachukwu Ideozu,Vice-Chairman,Navy Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 575,Olaka Nwogu,Chairman,Environment Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-576,Utazi Chukwuka,Chairman,Anti-Corruption & Financial Crimes Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-576,Utazi Chukwuka,Vice-Chairman,Poverty Alleviation & Social Welfare Commitee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+576,Utazi Chukwuka Godfery,Chairman,Anti-Corruption & Financial Crimes Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+576,Utazi Chukwuka Godfery,Vice-Chairman,Poverty Alleviation & Social Welfare Commitee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 577,Achonu Nneji,Vice-Chairman,"Banking, Insurance and Other Financial Institutions Committee (Senate)",Legislative Committee - Senate,,2015-06,2019-06
 577,Achonu Nneji,Vice-Chairman,Ecology & Climate Change Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 578,Samuel Anyanwu,Chairman,"Customs, Excise & Tariff Committee (Senate)",Legislative Committee - Senate,,2015-06,2019-06
@@ -329,10 +329,10 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 582,Donald Alasoadura,Chairman,Upstream Petroleum Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 583,Yele Omogunwa,Vice-Chairman,National Planning & Economic Affairs Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 584,Isiaka Adeleke,Chairman,Capital Market Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-585,Fatai Buhari,Chairman,ICT & Cyber Crime Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-585,Fatai Buhari,Vice-Chairman,Industry Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+585,Abdulfatai Buhari,Chairman,ICT & Cyber Crime Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+585,Abdulfatai Buhari,Vice-Chairman,Industry Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 586,Monsurat Sunmonu,Chairman,Foreign Affairs Committee (Senate),Legislative Committee - Senate,,2015-05,2019-06
-587,Soji Akanbi,Vice-Chairman,Solid Minerals Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+587,Rilwan Adesoji Akanbi,Vice-Chairman,Solid Minerals Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 588,Philip Gyunka,Chairman,Drugs & Narcotics Committee (Senate),Legislative Committee - Senate,,2015-05,2015-06
 588,Philip Gyunka,Vice-Chairman,Local and Foreign Debts Committee (Senate),Legislative Committee - Senate,,2015-05,2015-06
 589,Salihu Egye,Chairman,Federal Character and Intergovernmental Affairs Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
@@ -353,8 +353,8 @@ person_id,person_name,role,organisation_name,organisation_kind,area,start_date,e
 603,Tijjani Kaura,Vice-Chairman,Tertiary Institutions & TETFUND Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 604,Abubakar Danladi,Chairman,Cooperation and Integration in Africa and NEPAD Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 604,Abubakar Danladi,Vice-Chairman,National Identity and National Population Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-605,Marafa Abba,Vice-Chairman,Science & Technology Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
+605,Marafa Bashir Abba,Vice-Chairman,Science & Technology Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 606,Mohammed Hasan,Vice-Chairman,Federal Capital Territory Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 607,Bayero Nafada,Chairman,Inter-Parliamentary Affairs Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
 607,Bayero Nafada,Vice-Chairman,Interior Affairs Committee (Senate),Legislative Committee - Senate,,2015-06,2019-06
-693,Baba Kaka Graba,Vice-Chairman,Cooperation and Integration in Africa and NEPAD Committee (Senate),Legislative Committee - Senate,,"",2019-06
+693,Baba Kaka Garba,Vice-Chairman,Cooperation and Integration in Africa and NEPAD Committee (Senate),Legislative Committee - Senate,,"",2019-06

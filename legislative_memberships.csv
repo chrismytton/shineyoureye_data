@@ -1,226 +1,227 @@
 person_id,person_name,start_date,end_date,parliament_id,party_id,party,party_subtitle,party_role,organisation_name,organisation_subtitle,organisation_role,area
-7,ABDUL - KABIRU ABAYOMI AYEOLA,,2013-07-30,4022,2712,Action Congress of Nigeria,"",Member,N.U.T IJEBBU - LEKKI L.G.,"",Secretary,
-7,ABDUL - KABIRU ABAYOMI AYEOLA,,2013-07-30,4021,2712,Action Congress of Nigeria,"",Member,LEKKI L.C.D.A,"",Chairman,
-7,ABDUL - KABIRU ABAYOMI AYEOLA,2013-07-31,,4022,5731,All Progressives Congress (APC),"",Member,N.U.T IJEBBU - LEKKI L.G.,"",Secretary,
-7,ABDUL - KABIRU ABAYOMI AYEOLA,2013-07-31,,4021,5731,All Progressives Congress (APC),"",Member,LEKKI L.C.D.A,"",Chairman,
-33,ADEKUNLE ADEYEMI,1999,2003,4151,2719,Action Congress of Nigeria,"",Member,"Ogun State, Nigeria",Special Adviser To The Governor On Legal Matters,Special Adviser,Ogun
+25,ABIOSE IFEOLUWA AROWOSOGE,,2013-07-30,4114,2717,Action Congress of Nigeria,"",Member,EKITI S/W LOCAL GOVT.,"",Chairman,Ekiti
+25,ABIOSE IFEOLUWA AROWOSOGE,,2013-07-30,4115,2717,Action Congress of Nigeria,"",Member,EKITI STATE AGRIC INPUTS SUPPLY AGENCY,"",Chairman,Ekiti
+25,ABIOSE IFEOLUWA AROWOSOGE,2013-07-31,,4114,5574,All Progressives Congress (APC),"",Member,EKITI S/W LOCAL GOVT.,"",Chairman,Ekiti
+25,ABIOSE IFEOLUWA AROWOSOGE,2013-07-31,,4115,5574,All Progressives Congress (APC),"",Member,EKITI STATE AGRIC INPUTS SUPPLY AGENCY,"",Chairman,Ekiti
 62,AKINTOYE ALBERT,2003,2010,4213,2914,Peoples Democratic Party,"",Member,"Irele, Local Government","",Chairman,Ondo
-97,AWULU EZEKIEL ADAJI,,,4292,2933,Peoples Democratic Party,"",Member,OHIMINI L.G.C,"",Chairman,
-170,ESSIEN EKPEYONG AYI,1995,2002,4508,2971,Peoples Democratic Party,"",Member,Calabar South Local Government Area,"",Chairman,Cross River
-146,CYRIL EGWUATU,,,4429,2835,All Progressives Grand Alliance,"",Member,Old Onitsha L.G.A,"",Councillor,Anambra
 134,CHIZOR LAMBERT OBIDIGWE,,,4400,2951,Peoples Democratic Party,"",Member,Ayamelum L. G,Chairmanship Candidate ,"",Anambra
 134,CHIZOR LAMBERT OBIDIGWE,,,4399,2951,Peoples Democratic Party,"",Member,Ayamelum L. G,P.A To Executive Chairman ,"",Anambra
+97,AWULU EZEKIEL ADAJI,,,4292,2933,Peoples Democratic Party,"",Member,OHIMINI L.G.C,"",Chairman,
+146,CYRIL EGWUATU,,,4429,2835,All Progressives Grand Alliance,"",Member,Old Onitsha L.G.A,"",Councillor,Anambra
 141,CHUDI PATRICK UWAZURIKE,,,4413,2955,Peoples Democratic Party,"",Member,"South East Renaissance Forum, New York","","Faculty Senate Executive Committee Secretary & Sgt at Arms, CUNY-CC Chairman",USA
 141,CHUDI PATRICK UWAZURIKE,,,4414,2955,Peoples Democratic Party,"",Member,University of Nigeria Student Parliament,"",Member,
 161,EMEYESE SUNDAY AKPODIOGAGA,1990,1991,4461,2964,Peoples Democratic Party,"",Member,"B.B.E Idigbe & Co, Warri",Private Legal Pract. ,"",Delta
 161,EMEYESE SUNDAY AKPODIOGAGA,1991,1993,4462,2964,Peoples Democratic Party,"",Member,Steelways Nigeria Ltd,Officer/Admin Manager,"",
 161,EMEYESE SUNDAY AKPODIOGAGA,1993,1999,4463,2964,Peoples Democratic Party,"",Member,A.S Emeyese & Co,"",Head of Chambers,
 161,EMEYESE SUNDAY AKPODIOGAGA,1993,1999,4464,2964,Peoples Democratic Party,"",Member,A.S Emeyese & Co,"",Principal,
-315,MUAZU B/TUDU LAWAL,,2013-07-30,4944,2816,All Nigeria Peoples Party,"",Member,GUMMI LOCAL GOVT COUNCIL,"",Chairman,
-315,MUAZU B/TUDU LAWAL,2013-07-31,,4944,5671,All Progressives Congress (APC),"",Member,GUMMI LOCAL GOVT COUNCIL,"",Chairman,
 119,BEN NNEBEDUMCHUKWU NWANKWO,1991,1992,4350,2941,Peoples Democratic Party,"",Member,"Anambra State, Nigeria",PA To Gov Anambra ,"",Anambra
 119,BEN NNEBEDUMCHUKWU NWANKWO,1999,2000,4349,2941,Peoples Democratic Party,"",Member,"Anambra State, Nigeria",SA To Gov,"",Anambra
 119,BEN NNEBEDUMCHUKWU NWANKWO,2001,2003,4348,2941,Peoples Democratic Party,"",Member,"Anambra State, Nigeria",Commissioner For Works Anambra State,Commissioner,Anambra
 119,BEN NNEBEDUMCHUKWU NWANKWO,2008,2011,4351,2941,Peoples Democratic Party,"",Member,Leading Edge,"",Lead Consultant,
 182,FRANCIS BUSAM ADA,1996,1997,4552,2977,Peoples Democratic Party,"",Member,OBANIKU L.G.A CRS,"",Chairman,
-281,LAWAN SHEHU,,2013-07-30,4830,2811,All Nigeria Peoples Party,"",Member,Bichi Ward,"",Councillor,Kano
-281,LAWAN SHEHU,,2013-07-30,4831,2811,All Nigeria Peoples Party,"",Member,ANPP,"",Chairman,
 281,LAWAN SHEHU,,2013-07-30,4833,2811,All Nigeria Peoples Party,"",Member,Bichi LGA,"",Chairman,Kano
-281,LAWAN SHEHU,2013-07-31,,4830,5666,All Progressives Congress (APC),"",Member,Bichi Ward,"",Councillor,Kano
-281,LAWAN SHEHU,2013-07-31,,4831,5666,All Progressives Congress (APC),"",Member,ANPP,"",Chairman,
+281,LAWAN SHEHU,,2013-07-30,4831,2811,All Nigeria Peoples Party,"",Member,ANPP,"",Chairman,
+281,LAWAN SHEHU,,2013-07-30,4830,2811,All Nigeria Peoples Party,"",Member,Bichi Ward,"",Councillor,Kano
 281,LAWAN SHEHU,2013-07-31,,4833,5666,All Progressives Congress (APC),"",Member,Bichi LGA,"",Chairman,Kano
+281,LAWAN SHEHU,2013-07-31,,4831,5666,All Progressives Congress (APC),"",Member,ANPP,"",Chairman,
+281,LAWAN SHEHU,2013-07-31,,4830,5666,All Progressives Congress (APC),"",Member,Bichi Ward,"",Councillor,Kano
+203,HALIMA HASSAN TUKUR,,,4596,2983,Peoples Democratic Party,"",Member,"Women Empowerment and Poverty Alleviation, (WEPAK)","",Executive Director,
+227,IBRAHIM NUHU KAYARDA LAWAL,2004,2007,4666,2993,Peoples Democratic Party,"",Member,Lere L.G.C,"",Elected Chairman,
+227,IBRAHIM NUHU KAYARDA LAWAL,2008,2011,4667,2993,Peoples Democratic Party,"",Member,Lere L.G.C,"",Elected Chairman,
 264,KENNETH EDET ACHIBONG,,,4796,3014,Peoples Democratic Party,"",Member,Itu LGA,"",Executive Chairman,Akwa Ibom
-358,OLAYEMI SIKIRU BUSARI,,2007,5119,2709,ACCORD,"",Member,"Egbeda, LG","",Councilor Chairman,
-180,FOINGHA JEPHTHA,,2009,4544,2975,Peoples Democratic Party,"",Member,Senior Secondary Schools Board,"",Chairman,
+212,HAZEEZ BABAJIDE AKINLOYE,2003,2011,4627,2742,Action Congress of Nigeria,"",Member,"Lagos State, Nigeria","",Honourable Member,Lagos State
+220,IBRAHIM BABANGIDA,1990,1991,4645,2856,Congress for Progressive Change,"",Member,African International Bank,"","",
+220,IBRAHIM BABANGIDA,1991,2008,4644,2856,Congress for Progressive Change,"",Member,Federal Inland Revenue Service,"","",
 209,HASSAN ABDULMUMINI MUHAMMAD,,,3803,3135,Peoples Democratic Party,"",Member,Miga local Govt.,"",Chairman,Jigawa
 206,HARUNA FATAHI MUSA,,2013-07-30,4604,2804,All Nigeria Peoples Party,"",Member,"ANPP, Kano","",State Chairman,
 206,HARUNA FATAHI MUSA,2013-07-31,,4604,5659,All Progressives Congress (APC),"",Member,"ANPP, Kano","",State Chairman,
-203,HALIMA HASSAN TUKUR,,,4596,2983,Peoples Democratic Party,"",Member,"Women Empowerment and Poverty Alleviation, (WEPAK)","",Executive Director,
-212,HAZEEZ BABAJIDE AKINLOYE,2003,2011,4627,2742,Action Congress of Nigeria,"",Member,"Lagos State, Nigeria","",Honourable Member,Lagos State
 237,IRONA GERALD ALPHONSUS,1986,1986,4702,2998,Peoples Democratic Party,"",Member,Oguta LGA,"",Councillor,Imo
 237,IRONA GERALD ALPHONSUS,2004,2007,4704,2998,Peoples Democratic Party,"",Member,Oguta LGA,"",Executive Chairman,Imo
-220,IBRAHIM BABANGIDA,1990,1991,4645,2856,Congress for Progressive Change,"",Member,African International Bank,"","",
-220,IBRAHIM BABANGIDA,1991,2008,4644,2856,Congress for Progressive Change,"",Member,Federal Inland Revenue Service,"","",
-364,OMOSULE ENIOTIOLORUNDA,,,5136,2894,Labour Party,"",Member,PDP Ose Local Government Council,"",Secretary,
-227,IBRAHIM NUHU KAYARDA LAWAL,2004,2007,4666,2993,Peoples Democratic Party,"",Member,Lere L.G.C,"",Elected Chairman,
-227,IBRAHIM NUHU KAYARDA LAWAL,2008,2011,4667,2993,Peoples Democratic Party,"",Member,Lere L.G.C,"",Elected Chairman,
-270,KINGSLEY OGUNDU CHINDA,,,4816,3016,Peoples Democratic Party,"",Member,Obio LGA,"",Legal Adviser,Rivers
-270,KINGSLEY OGUNDU CHINDA,,,4816,4815,PDP,"",Legal Adviser,Obio LGA,"",Legal Adviser,Rivers
-259,KAKA KYARI GUJBAWU,2003,2007,4778,3010,Peoples Democratic Party,"",Member,"Yobe State, Nigeria",SA (Agric) To Gov,"",Yobe
-249,JAGABA ADAMS JAGABA,1996,1997,4739,3005,Peoples Democratic Party,"",Member,Kagarko LGC,"",Vice-Chairman,Kaduna
-249,JAGABA ADAMS JAGABA,1996,1997,4739,4741,PDP,"",State Secretary,Kagarko LGC,"",Vice-Chairman,Kaduna
-288,MAHMUD LAWAN MAINA MAINA,,2013-07-30,4850,2812,All Nigeria Peoples Party,"",Member,Mafa LG. Borno State,"",Executive Chairman,Borno
-288,MAHMUD LAWAN MAINA MAINA,2013-07-31,,4850,5667,All Progressives Congress (APC),"",Member,Mafa LG. Borno State,"",Executive Chairman,Borno
+315,MUAZU B/TUDU LAWAL,,2013-07-30,4944,2816,All Nigeria Peoples Party,"",Member,GUMMI LOCAL GOVT COUNCIL,"",Chairman,
+315,MUAZU B/TUDU LAWAL,2013-07-31,,4944,5671,All Progressives Congress (APC),"",Member,GUMMI LOCAL GOVT COUNCIL,"",Chairman,
 260,KALGO SANI UMAR MOHAMMED,,,4783,3011,Peoples Democratic Party,"",Member,Sokoto Urban Dent Authority,"",General Manager,Sokoto
+270,KINGSLEY OGUNDU CHINDA,,,4816,4815,PDP,"",Legal Adviser,Obio LGA,"",Legal Adviser,Rivers
+270,KINGSLEY OGUNDU CHINDA,,,4816,3016,Peoples Democratic Party,"",Member,Obio LGA,"",Legal Adviser,Rivers
 309,MOHAMMED TUKUR ADAMU,,,4922,3025,Peoples Democratic Party,"",Member,LOCAL GOVT,"",Chairman,
-348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5070,2882,Democratic Peoples Party,"",Member,Okpe Council,"",Executive Chairman,Delta
-348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5071,2882,Democratic Peoples Party,"",Member,Udu Council,"",Executive Chairman,Delta
-348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5072,2882,Democratic Peoples Party,"",Member,PDP Delta,"",State Deputy Chairman,Delta
-348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5073,2882,Democratic Peoples Party,"",Member,N.B.R.R.I,"",Governing Board Chairman,
-348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5074,2882,Democratic Peoples Party,"",Member,Delta State Waste Management Board,"",Chairman,Delta
-318,MUHTARI MUHAMMAD CHIROMAWA,,2014,4958,3029,Peoples Democratic Party,"",Member,Kura Local Government Council,"",Chairman,
-318,MUHTARI MUHAMMAD CHIROMAWA,2014,,4958,6863,All Progressives Congress (APC),"",Member,Kura Local Government Council,"",Chairman,
 11,ABDULLAHI RICCO MOHAMMED,2002,2010,4040,2899,Peoples Democratic Party,"",Member,MUNYA L.G.A,"",Chairman,
+349,OGBONNA NWUKE,,,5083,3048,Peoples Democratic Party,"",Member,The Port Harcourt Telegraph,"",Publisher,Rivers
 349,OGBONNA NWUKE,,,5081,3048,Peoples Democratic Party,"",Member,Ministry of Information,"",Commissioner,Rivers
 349,OGBONNA NWUKE,,,5082,3048,Peoples Democratic Party,"",Member,Ministry of Commerce & Industry,"",Commissioner,Rivers
-349,OGBONNA NWUKE,,,5083,3048,Peoples Democratic Party,"",Member,The Port Harcourt Telegraph,"",Publisher,Rivers
 349,OGBONNA NWUKE,,,5084,3048,Peoples Democratic Party,"",Member,"RSBC, Port Harcourt",Current Affairs,Senior Editor,Rivers
 330,NABUNKARI MOHAMMED SA'ADU,,2010,5001,3038,Peoples Democratic Party,"",Member,BINJI LOCAL GOVT,"",Deputy Chairman,
 383,ROBINSON GBADEBO AJIBOYE,,2013-07-30,5204,2766,Action Congress of Nigeria,"",Member,MOBA LOCAL GOVT,"",Chairman,Ekiti
 383,ROBINSON GBADEBO AJIBOYE,2013-07-31,,5204,5622,All Progressives Congress (APC),"",Member,MOBA LOCAL GOVT,"",Chairman,Ekiti
+375,PETER OHIOZOJEH AKPATASON,1999,2010,5175,2763,Action Congress of Nigeria,"",Member,Shell,"","",
+375,PETER OHIOZOJEH AKPATASON,2001,2009,5176,2763,Action Congress of Nigeria,"",Member,NUPENG,"",President,
+375,PETER OHIOZOJEH AKPATASON,2001,2011,5177,2763,Action Congress of Nigeria,"",Member,NLC,"",National Trustee,
 374,PETER OGE ALI,,,5169,3057,Peoples Democratic Party,"",Member,OHAUKWU L.G.A,"",Chairman,Ebonyi
-375,PETER OHIOZOJE AKPATASON,1999,2010,5175,2763,Action Congress of Nigeria,"",Member,Shell,"","",
-375,PETER OHIOZOJE AKPATASON,2001,2011,5177,2763,Action Congress of Nigeria,"",Member,NLC,"",National Trustee,
-375,PETER OHIOZOJE AKPATASON,2001,2009,5176,2763,Action Congress of Nigeria,"",Member,NUPENG,"",President,
-402,SHUAIBU GWANDU GOBIR,,,5260,3070,Peoples Democratic Party,"",Member,Local Government Council,"",Chairman,
-411,SUARAU OLUWATOYIN ISIAKA,,2013-07-30,5290,2771,Action Congress of Nigeria,"",Member,OJO LOCAL GOVT COUNCIL LAGOS,"",Chairman,Lagos State
-411,SUARAU OLUWATOYIN ISIAKA,2013-07-31,,5290,5627,All Progressives Congress (APC),"",Member,OJO LOCAL GOVT COUNCIL LAGOS,"",Chairman,Lagos State
-394,SAMUEL OLUSEGUN WILLIAMS,,2013-07-30,5237,2769,Action Congress of Nigeria,"",Member,UTC,"",Field Manager,
 394,SAMUEL OLUSEGUN WILLIAMS,,2013-07-30,5238,2769,Action Congress of Nigeria,"",Member,TSC Bauchi,"",E.O VI,Bauchi
-394,SAMUEL OLUSEGUN WILLIAMS,2013-07-31,,5237,5625,All Progressives Congress (APC),"",Member,UTC,"",Field Manager,
+394,SAMUEL OLUSEGUN WILLIAMS,,2013-07-30,5237,2769,Action Congress of Nigeria,"",Member,UTC,"",Field Manager,
 394,SAMUEL OLUSEGUN WILLIAMS,2013-07-31,,5238,5625,All Progressives Congress (APC),"",Member,TSC Bauchi,"",E.O VI,Bauchi
-443,UZO CHARLES AZUBUIKE,,,5356,3089,Peoples Democratic Party,"",Member,"Umunna Ward, Isiala Ngwa North","",Councillor,Abia
-443,UZO CHARLES AZUBUIKE,,,5357,3089,Peoples Democratic Party,"",Member,Aba North Local Government,"",Secretary,Abia
-443,UZO CHARLES AZUBUIKE,,,5358,3089,Peoples Democratic Party,"",Member,Abia Housing Corporation,"",Director,Abia
-440,USMAN BELLO KUM,,,5351,3088,Peoples Democratic Party,"",Member,AKKO L.G.A,"",Executive Chairman,Gombe
-452,WARMAN WERI OGORIBA,,,5373,3092,Peoples Democratic Party,"",Member,"WARD 1, ODI, OLD YENAGOA LOCAL GOVERNMENT COUNCIL","",Councillor,
+394,SAMUEL OLUSEGUN WILLIAMS,2013-07-31,,5237,5625,All Progressives Congress (APC),"",Member,UTC,"",Field Manager,
 421,TOBY OKECHUKWU TOBY,,,5315,3079,Peoples Democratic Party,"",Member,National Lottery Trust Fund,"",Chairman Of Board Of Trustees,
+440,USMAN BELLO KUM,,,5351,3088,Peoples Democratic Party,"",Member,AKKO L.G.A,"",Executive Chairman,Gombe
+443,UZO CHARLES AZUBUIKE,,,5357,3089,Peoples Democratic Party,"",Member,Aba North Local Government,"",Secretary,Abia
+443,UZO CHARLES AZUBUIKE,,,5356,3089,Peoples Democratic Party,"",Member,"Umunna Ward, Isiala Ngwa North","",Councillor,Abia
+443,UZO CHARLES AZUBUIKE,,,5358,3089,Peoples Democratic Party,"",Member,Abia Housing Corporation,"",Director,Abia
+452,WARMAN WERI OGORIBA,,,5373,3092,Peoples Democratic Party,"",Member,"WARD 1, ODI, OLD YENAGOA LOCAL GOVERNMENT COUNCIL","",Councillor,
 16,ABDULRAHAMAN BADAMASUIY,,,4070,2903,Peoples Democratic Party,"",Member,ADAVI LOCAL GOVT.,"",Chairman,
 464,YUSUF SWA MANU,,,5407,3097,Peoples Democratic Party,"",Member,BALANGA L.G.A,"",Executive Chairman,Gombe
 561,Ahmed Sani Yerima,1999-05-29,2007-05-29,5874,5872,All Progressives Congress (APC),"",Member,"Zamfara State, Nigeria","",Executive Governor,Zamfara
-34,ADENIYI ANTHONY ADEMUYIWA,,2013-07-30,3663,2777,Action Congress of Nigeria,"",Member,National Constitutional,"",Delegate,
-34,ADENIYI ANTHONY ADEMUYIWA,,2013-07-30,3664,2777,Action Congress of Nigeria,"",Member,NBA,"",Member national executive,
-34,ADENIYI ANTHONY ADEMUYIWA,1990,1992,3665,2777,Action Congress of Nigeria,"",Member,NBA,Akure Branch,Chairman,Ondo
-34,ADENIYI ANTHONY ADEMUYIWA,2000,2007,3666,2777,Action Congress of Nigeria,"",Member,Omega Bank PLC,"",Chairman,
-34,ADENIYI ANTHONY ADEMUYIWA,2013-07-31,,3663,5633,All Progressives Congress (APC),"",Member,National Constitutional,"",Delegate,
-34,ADENIYI ANTHONY ADEMUYIWA,2013-07-31,,3664,5633,All Progressives Congress (APC),"",Member,NBA,"",Member national executive,
+80,AMINU RIBADU HAMMAN-TUKUR,,,4265,2925,Peoples Democratic Party,"",Member,L.G Council,"",Chairman,
 30,ADAMU ABUNABO HASSAN,1989,1993,4135,2905,Peoples Democratic Party,"",Member,KIRIKASAMMA LOCAL GOVT.,"",Chairman,Jigawa
-552,Samuel Egwu,1999,2007,5921,5850,Peoples Democratic Party,"",Member,"Ebonyi State, Nigeria","",Executive Governor,
+94,ASITA HONOURABLE,1999,2005,4281,2932,Peoples Democratic Party,"",Member,PDP Awelga,"",Chairman,
 26,ABUBAKAR ESHIOKPEK MOMOH,,2013-07-30,4122,2718,Action Congress of Nigeria,"",Member,"Edo State, Nigeria","",Elected member,
 26,ABUBAKAR ESHIOKPEK MOMOH,2013-07-31,,4122,5575,All Progressives Congress (APC),"",Member,"Edo State, Nigeria","",Elected member,
 40,ADEYEMI SMART,,,3676,3105,Peoples Democratic Party,"",Member,Nigerian Union of Journalists,"",National President,Lagos
-80,AMINU RIBADU HAMMAN-TUKUR,,,4265,2925,Peoples Democratic Party,"",Member,L.G Council,"",Chairman,
-94,ASITA HONOURABLE,1999,2005,4281,2932,Peoples Democratic Party,"",Member,PDP Awelga,"",Chairman,
-111,BARINADA MPIGI,,,4331,2937,Peoples Democratic Party,"",Member,"Rivers State, Nigeria","",Honourable Commissioner,Rivers
 84,ENANG ITA SOLOMON,,1987,3714,3113,Peoples Democratic Party,"",Member,Itu LGA,"",Councillor,Akwa Ibom
-133,CHINENYE FERDINARD IKE,,,4395,2950,Peoples Democratic Party,"",Member,PDP Abia State,"",Vice-Chairman,Abia
+111,BARINADA MPIGI,,,4331,2937,Peoples Democratic Party,"",Member,"Rivers State, Nigeria","",Honourable Commissioner,Rivers
 454,EWUGA SOLOMON,,2009,3810,2880,Congress for Progressive Change,"",Member,"Nasarawa State, Nigeria","",Deputy Governor,Nasarawa
-151,DANIEL EFFIONG ASUQUO,1999,2000,4441,2960,Peoples Democratic Party,"",Member,AKAMKPA L.G.,"",Council Chairman,
-468,ZAPHANIAH JISALO BITRUS,2004,2010,5425,3100,Peoples Democratic Party,"",Member,ABUJA MUNICIPAL AREA COUNCIL,"",Chairman,Abuja
 240,ISA LAWAN,,2013-07-30,4712,2807,All Nigeria Peoples Party,"",Member,Gutamala Local Govt.,"",Executive Chairman,Borno
 240,ISA LAWAN,2013-07-31,,4712,5662,All Progressives Congress (APC),"",Member,Gutamala Local Govt.,"",Executive Chairman,Borno
-191,NDOMA-EGBA VICTOR,,,3802,3129,Peoples Democratic Party,"",Member,"Nigerian Bar Association, Calabar Branch","",Chairman,Cross Rivers
+682,Mohammed Abubakar,2015-05-29,2019-05-29,6218,6217,All Progressives Congress (APC),"",Member,"Bauchi State, Nigeria","",Executive Governor,Bauchi
+684,Dave Umahi,2015-05-29,2019-05-29,6224,6223,Peoples Democratic Party,"",Member,"Ebonyi State, Nigeria","",Executive Governor,Ebonyi
 191,NDOMA-EGBA VICTOR,,,3856,3129,Peoples Democratic Party,"",Member,Calabar Chamber of Commerce,"",President,Cross Rivers
+191,NDOMA-EGBA VICTOR,,,3802,3129,Peoples Democratic Party,"",Member,"Nigerian Bar Association, Calabar Branch","",Chairman,Cross Rivers
 231,IFEDAYO SUNDAY ABEGUNDE,,2013-07-30,4686,2710,Action Congress of Nigeria,"",Member,Ondo State Afforestation Board,"",Chairman,
 231,IFEDAYO SUNDAY ABEGUNDE,2013-07-31,,4686,5729,All Progressives Congress (APC),"",Member,Ondo State Afforestation Board,"",Chairman,
-682,Mohammed Abubakar,2015-05-29,2019-05-29,6218,6217,All Progressives Congress (APC),"",Member,"Bauchi State, Nigeria","",Executive Governor,Bauchi
-239,ISAH DOBI EGAH,,,4717,3002,Peoples Democratic Party,"",Member,GWAGWALADA L.G.A,"",Chairman,Abuja
-448,NWAGU IGWE PAULINUS,,,3806,3166,Peoples Democratic Party,"",Member,Ezza LGA,"",Chairman,Ebonyi
-448,NWAGU IGWE PAULINUS,,,3808,3166,Peoples Democratic Party,"",Member,Oriuzor Ward,"",Councillor,Ebonyi
-684,Dave Umahi,2015-05-29,2019-05-29,6224,6223,Peoples Democratic Party,"",Member,"Ebonyi State, Nigeria","",Executive Governor,Ebonyi
 297,MAURICE PRONEN,1999,2002,4875,3021,Peoples Democratic Party,"",Member,Gokana LGA,"",Elected Vice Chairman,Rivers
 297,MAURICE PRONEN,2003,2006,4876,3021,Peoples Democratic Party,"",Member,Gokana LGA,"",Chief Of Staff,Rivers
 297,MAURICE PRONEN,2008,2011,4877,3021,Peoples Democratic Party,"",Member,Gokana LGA,"",PDP Chairman,Rivers
-470,MUTU NICHOLAS EBOMO,,,5465,5462,Peoples Democratic Party,"",Member,Bomadi Local Government,"",Elected Chairman,
+448,NWAGU IGWE PAULINUS,,,3806,3166,Peoples Democratic Party,"",Member,Ezza LGA,"",Chairman,Ebonyi
+448,NWAGU IGWE PAULINUS,,,3808,3166,Peoples Democratic Party,"",Member,Oriuzor Ward,"",Councillor,Ebonyi
 423,TUKUR AMIRUDDIN,2007,2011,5327,2874,Congress for Progressive Change,"",Member,National Health Insurance Scheme,"","",
 405,SIMON DAVOU MWADKWON,2004,2007,5268,3071,Peoples Democratic Party,"",Member,Berom Youth Movement,"",National President,
 405,SIMON DAVOU MWADKWON,2009,2011,5267,3071,Peoples Democratic Party,"",Member,Riyom LGC,"",Executive Chairman,
 359,SOLOMON GANIYU OLANREWAJU,,2013-07-30,3805,2791,Action Congress of Nigeria,"",Member,Mushin Local Government,"",Chairman,Lagos
 359,SOLOMON GANIYU OLANREWAJU,2013-07-31,,3805,5646,All Progressives Congress (APC),"",Member,Mushin Local Government,"",Chairman,Lagos
 460,YAU SAHABI ALHAJI,,,3807,3170,Peoples Democratic Party,"",Member,Kaura- Namoda Local Government,"",Council Chairman,Zamfara
-458,YAKUBU UMARU BARDE,,,5392,3095,Peoples Democratic Party,"",Member,Chikum Local Government,"",Chairman,Kaduna
-186,GANNY OLUWADARE DAUDA,,,4565,2892,Labour Party,"",Member,Akoko North Local Government Ikare,"",Councillor,
-186,GANNY OLUWADARE DAUDA,,,4565,4567,Labour Party,"",National Vice Chairman (South - West),Akoko North Local Government Ikare,"",Councillor,
 186,GANNY OLUWADARE DAUDA,,,4566,2892,Labour Party,"",Member,"Akoko North West Local Government, Okeagbe","",Executive Chairman,
 186,GANNY OLUWADARE DAUDA,,,4566,4567,Labour Party,"",National Vice Chairman (South - West),"Akoko North West Local Government, Okeagbe","",Executive Chairman,
+186,GANNY OLUWADARE DAUDA,,,4565,2892,Labour Party,"",Member,Akoko North Local Government Ikare,"",Councillor,
+186,GANNY OLUWADARE DAUDA,,,4565,4567,Labour Party,"",National Vice Chairman (South - West),Akoko North Local Government Ikare,"",Councillor,
 531,Ahmadu Fintiri,2014-07-15,2014-10-08,5785,5784,Peoples Democratic Party,"",Member,"Adamawa State, Nigeria","",Ag. Governor,Adamawa
 291,MALLE IBRAHIM AMINU,,2013-07-30,4863,2863,Congress for Progressive Change,"",Member,Jalingo I Constituency. Taraba State,"",Member Elect,Taraba
 291,MALLE IBRAHIM AMINU,,2013-07-30,4864,2863,Congress for Progressive Change,"",Member,Jalingo Local Govt. Council,"",Chairman,
 291,MALLE IBRAHIM AMINU,2013-07-31,,4863,5710,All Progressives Congress (APC),"",Member,Jalingo I Constituency. Taraba State,"",Member Elect,Taraba
 291,MALLE IBRAHIM AMINU,2013-07-31,,4864,5710,All Progressives Congress (APC),"",Member,Jalingo Local Govt. Council,"",Chairman,
-685,Abubakar Badaru,2015-05-29,2019-05-29,6227,6226,All Progressives Congress (APC),"",Member,"Jigawa State, Nigeria","",Executive Governor,Jigawa
-497,Babatunde Fashola,2007-05-29,2015-05-29,5538,5539,All Progressives Congress (APC),"",Member,"Lagos State, Nigeria","",Executive Governor,Lagos
-369,PALLY ISUMAFE OBOKHUAIME IRIASE,2004,2007,5149,2762,Action Congress of Nigeria,"",Member,Owan East Local Government,ALGON Chairman,Chairman,Edo
-515,Martin Elechi,2007-05-29,2015-05-29,5747,5748,Peoples Democratic Party,"",Member,"Ebonyi State, Nigeria","",Executive Governor,Ebonyi
-486,Kayode Fayemi,2010-10-15,2013-07-30,5516,5517,Action Congress of Nigeria,"",Member,"Ekiti State, Nigeria","",Executive Governor,Ekiti
-486,Kayode Fayemi,2013-07-31,2014-10-15,5516,5569,All Progressives Congress (APC),"",Member,"Ekiti State, Nigeria","",Executive Governor,Ekiti
-353,OJAKOVO OBORO OMAVOWAN EVELYN,,,5097,3050,Peoples Democratic Party,"",Member,Uvwie Local Govt. Delta State,"",Executive Chairman,Delta
-424,TUKUR BELLO MOHAMMED,1999,2007,3809,3157,Peoples Democratic Party,"",Member,"Adamawa State, Nigeria","",Deputy Governor,Adamawa
-338,NKIRUKA ONYEJEOCHA,,2011-05-29,5036,3043,Peoples Democratic Party,"",Member,Ummunneochi L.G.A.,"",Chairman,Abia
-493,Ibrahim Shehu Shema,2007-05-29,2015-05-29,5530,5531,Peoples Democratic Party,"",Member,"Katsina State, Nigeria","",Executive Governor,Katsina
+534,Bala James Ngilari,2007-05-29,2014-10-08,5794,5793,Peoples Democratic Party,"",Member,"Adamawa State, Nigeria","",Deputy Governor,
 491,Mukhtar Ramalan Yero,2012-12-16,2015-05-29,5526,5527,Peoples Democratic Party,"",Member,"Kaduna State, Nigeria","",Executive Governor,Kaduna
 415,SYLVESTER O OGBAGA,1999,2002,5299,3077,Peoples Democratic Party,"",Member,ABAKALIKI LOCAL GOVERNMENT AREA,"",Executive Chairman,Ebonyi
-252,Jibrilla Bindow,2015-05-29,2019-05-29,5839,5838,All Progressives Congress (APC),"",Member,"Adamawa State, Nigeria","",Executive Governor,Adamawa
-431,Ugwuanyi Ifeanyi,2015-05-29,2019-05-29,6225,3082,Peoples Democratic Party,"",Member,"Enugu State, Nigeria","",Executive Governor,Enugu
-197,GOJE MOHAMMED DANJUMA,,1998,3814,3132,Peoples Democratic Party,"",Member,Gombe Central,"",Elected Senator,Gombe
-687,Nasir El-Rufai,2015-05-29,2019-05-29,6231,6230,All Progressives Congress (APC),"",Member,"Kaduna State, Nigeria","",Executive Governor,Kaduna
-362,OLUSEGUN DOKUN ODEBUNMI,,,5128,3052,Peoples Democratic Party,"",Member,Surulere Local Government,"",Chairman,
-681,Emmanuel Udom,2015-05-29,2019-05-29,6216,6215,Peoples Democratic Party,"",Member,"Akwa Ibom State, Nigeria","",Executive Governor,Akwa Ibom
-273,EKWEREMADU IKE,1997,1998,3804,3143,Peoples Democratic Party,"",Member,Aninri LGA,"",Chairman,Enugu
+493,Ibrahim Shehu Shema,2007-05-29,2015-05-29,5530,5531,Peoples Democratic Party,"",Member,"Katsina State, Nigeria","",Executive Governor,Katsina
+175,JAMES ABIODUN FALEKE,,2013-07-30,4523,2736,Action Congress of Nigeria,"",Member,OJODU LOCAL COUNCIL DEV.AREA OF IKEJA L.G.A,"",Chairman,Lagos State
+175,JAMES ABIODUN FALEKE,2013-07-31,,4523,5593,All Progressives Congress (APC),"",Member,OJODU LOCAL COUNCIL DEV.AREA OF IKEJA L.G.A,"",Chairman,Lagos State
+685,Abubakar Badaru,2015-05-29,2019-05-29,6227,6226,All Progressives Congress (APC),"",Member,"Jigawa State, Nigeria","",Executive Governor,Jigawa
+369,PALLY ISUMAFE OBOKHUAIME IRIASE,2004,2007,5149,2762,Action Congress of Nigeria,"",Member,Owan East Local Government,ALGON Chairman,Chairman,Edo
+552,Samuel Egwu,1999,2007,5921,5850,Peoples Democratic Party,"",Member,"Ebonyi State, Nigeria","",Executive Governor,
+424,TUKUR BELLO MOHAMMED,1999,2007,3809,3157,Peoples Democratic Party,"",Member,"Adamawa State, Nigeria","",Deputy Governor,Adamawa
+338,NKIRUKA ONYEJEOCHA,,2011-05-29,5036,3043,Peoples Democratic Party,"",Member,Ummunneochi L.G.A.,"",Chairman,Abia
+75,ALIYU SANI MADAKI,,2014,4248,2922,Peoples Democratic Party,"",Member,SUG Kano State Polytechnic,"",President,Kano
+75,ALIYU SANI MADAKI,,2014,4249,2922,Peoples Democratic Party,"",Member,SUG Federal Polytechnic Mubi,"",Secretary,Borno
+75,ALIYU SANI MADAKI,2014,,4248,6859,All Progressives Congress (APC),"",Member,SUG Kano State Polytechnic,"",President,Kano
+75,ALIYU SANI MADAKI,2014,,4249,6859,All Progressives Congress (APC),"",Member,SUG Federal Polytechnic Mubi,"",Secretary,Borno
 691,Nyesom Wike,2015-05-29,2019-05-29,6241,6240,Peoples Democratic Party,"",Member,"Rivers State, Nigeria","",Executive Governor,Rivers
+507,Danbaba Suntai,2011,2015-05-29,5559,5560,Peoples Democratic Party,"",Member,"Taraba State, Nigeria","",Executive Governor,Taraba
+252,Jibrilla Bindow,2015-05-29,2019-05-29,5839,5838,All Progressives Congress (APC),"",Member,"Adamawa State, Nigeria","",Executive Governor,Adamawa
+362,OLUSEGUN DOKUN ODEBUNMI,,,5128,3052,Peoples Democratic Party,"",Member,Surulere Local Government,"",Chairman,
+566,Biodun Christine Olujimi,,2006,5890,5888,Peoples Democratic Party,"",Member,"Ekiti State, Nigeria","",Deputy Governor,Ekiti
+197,GOJE MOHAMMED DANJUMA,,1998,3814,3132,Peoples Democratic Party,"",Member,Gombe Central,"",Elected Senator,Gombe
 572,Akinwunmi Ambode,2015-05-29,2019-05-29,5909,5908,All Progressives Congress (APC),"",Member,"Lagos State, Nigeria","",Executive Governor,Lagos
+939,Yahaya Bello,2016-01-27,2020-01-27,7073,7072,All Progressives Congress (APC),"",Member,"Kogi State, Nigeria","",Executive Governor,Kogi
 689,Abubakar Sani Bello,2015-05-29,2019-05-29,6237,6236,All Progressives Congress (APC),"",Member,"Niger State, Nigeria","",Executive Governor,Niger
 686,Umar Ganduje,2015-05-29,2019-05-29,6229,6228,All Progressives Congress (APC),"",Member,"Kano State, Nigeria","",Executive Governor,Kano
 680,Okezie Ikpeazu,2015-05-29,2019-05-29,6214,6213,Peoples Democratic Party,"",Member,"Abia State, Nigeria","",Executive Governor,Abia
 683,Samuel Ortom,2015-05-29,2019-05-29,6220,6219,All Progressives Congress (APC),"",Member,"Benue State, Nigeria","",Executive Governor,Benue
+690,Simon Lalong,2015-05-29,2019-05-29,6239,6238,All Progressives Congress (APC),"",Member,"Plateau State, Nigeria","",Executive Governor,Plateau
 215,HENRY ALADEINYEFA DANIEL-OFONGO,,1997,4632,2987,Peoples Democratic Party,"",Member,Southern Ijaw LGA,"",Councillor,Bayelsa
 215,HENRY ALADEINYEFA DANIEL-OFONGO,2001,2002,4635,2987,Peoples Democratic Party,"",Member,PDP Bayelsa State,"",Administrative Secretary,
 215,HENRY ALADEINYEFA DANIEL-OFONGO,2002,2003,4633,2987,Peoples Democratic Party,"",Member,Southern Ijaw LGA,"",Chairman,
 215,HENRY ALADEINYEFA DANIEL-OFONGO,2003,2005,4636,2987,Peoples Democratic Party,"",Member,PDP Bayelsa State,"",Youth Leader,
 215,HENRY ALADEINYEFA DANIEL-OFONGO,2007,2010,4634,2987,Peoples Democratic Party,"",Member,Bayelsa State Government,"",Special Representative,
-90,Arthur Okowa Ifeanyi,2015-05-29,2019-05-29,6222,3116,Peoples Democratic Party,"",Member,"Delta State, Nigeria","",Executive Governor,Delta
-690,Simon Lalong,2015-05-29,2019-05-29,6239,6238,All Progressives Congress (APC),"",Member,"Plateau State, Nigeria","",Executive Governor,Plateau
-525,Olusegun Mimiko,,2014,5772,5773,Labour Party,"",Member,"Ondo State, Nigeria","",Executive Governor,Ondo
-525,Olusegun Mimiko,2014,2016-05-29,5772,5910,Peoples Democratic Party,"",Member,"Ondo State, Nigeria","",Executive Governor,Ondo
+681,Emmanuel Udom,2015-05-29,2019-05-29,6216,6215,Peoples Democratic Party,"",Member,"Akwa Ibom State, Nigeria","",Executive Governor,Akwa Ibom
+688,Aminu Bello Masari,2015-05-29,2019-05-29,6233,6232,All Progressives Congress (APC),"",Member,"Katsina State, Nigeria","",Executive Governor,Katsina
 481,Kashim Shettima,2011-05-29,2013-07-30,5506,5507,All Nigeria Peoples Party,"",Member,"Borno State, Nigeria","",Executive Governor,Borno
 481,Kashim Shettima,2013-07-31,2019-05-29,5506,5566,All Progressives Congress (APC),"",Member,"Borno State, Nigeria","",Executive Governor,Borno
-528,Aliyu Magatakarda Wamakko,2013,2015-05-29,5778,5979,All Progressives Congress (APC),"",Member,"Sokoto State, Nigeria","",Executive Governor,Sokoto
-688,Aminu Bello Masari,2015-05-29,2019-05-29,6233,6232,All Progressives Congress (APC),"",Member,"Katsina State, Nigeria","",Executive Governor,Katsina
+98,Benedict Ayade,2015-05-29,2019-05-29,6221,3117,Peoples Democratic Party,"",Member,"Cross River State, Nigeria","",Executive Governor,Cross River
+431,Ugwuanyi Ifeanyi,2015-05-29,2019-05-29,6225,3082,Peoples Democratic Party,"",Member,"Enugu State, Nigeria","",Executive Governor,Enugu
 532,Willie Maduabuchukwu Obiano,2014-03-17,2018-03-17,5786,6245,All Progressives Grand Alliance,"",Member,"Anambra State, Nigeria","",Executive Governor,Anambra
 168,EMMANUEL MEMGA UDENDE,,,4502,2969,Peoples Democratic Party,"",Member,Ukum LG Benue State,"",Chairman,
 168,EMMANUEL MEMGA UDENDE,,,4501,2969,Peoples Democratic Party,"",Member,Ukum LG Benue State,"",Deputy Chairman,Benue
-56,NNAJI GILBERT EMEKA,1997,2002,3695,3109,Peoples Democratic Party,"",Member,Enugu East L.G.A,"",Chairman,Enugu
-692,Darius Ishaku,2015-05-29,2019-05-29,6243,6242,Peoples Democratic Party,"",Member,"Taraba State, Nigeria","",Executive Governor,Taraba
+474,Theodore Ahamefule Orji,2007-05-29,2015-05-29,5491,5492,Peoples Democratic Party,"",Member,"Abia State, Nigeria","",Executive Governor,Abia
 518,Mohammed Rabiu Musa Kwankwaso,,2015-05-29,5756,5757,All Progressives Congress (APC),"",Member,"Kano State, Nigeria","",Executive Governor,Kano
 518,Mohammed Rabiu Musa Kwankwaso,1999-05-29,2003-05-29,5907,5757,All Progressives Congress (APC),"",Member,"Kano State, Nigeria","",Executive Governor,Kano
-566,Biodun Christine Olujimi,,2006,5890,5888,Peoples Democratic Party,"",Member,"Ekiti State, Nigeria","",Deputy Governor,Ekiti
-175,JAMES ABIODUN FALEKE,,2013-07-30,4523,2736,Action Congress of Nigeria,"",Member,OJODU LOCAL COUNCIL DEV.AREA OF IKEJA L.G.A,"",Chairman,Lagos State
-175,JAMES ABIODUN FALEKE,2013-07-31,,4523,5593,All Progressives Congress (APC),"",Member,OJODU LOCAL COUNCIL DEV.AREA OF IKEJA L.G.A,"",Chairman,Lagos State
+151,DANIEL EFFIONG ASUQUO,1999,2000,4441,2960,Peoples Democratic Party,"",Member,AKAMKPA L.G.,"",Council Chairman,
+288,MAHMUD LAWAN MAINA MAINA,,2013-07-30,4850,2812,All Nigeria Peoples Party,"",Member,Mafa LG. Borno State,"",Executive Chairman,Borno
+288,MAHMUD LAWAN MAINA MAINA,2013-07-31,,4850,5667,All Progressives Congress (APC),"",Member,Mafa LG. Borno State,"",Executive Chairman,Borno
 509,Abdul-Aziz Yari Abubakar,2011-05-29,2013-07-30,5563,5564,All Nigeria Peoples Party,"",Member,"Zamfara State, Nigeria","",Executive Governor,Zamfara
 509,Abdul-Aziz Yari Abubakar,2013-07-31,2019-05-29,5563,5567,All Progressives Congress (APC),"",Member,"Zamfara State, Nigeria","",Executive Governor,Zamfara
+34,ADENIYI ANTHONY ADEMUYIWA,,2013-07-30,3664,2777,Action Congress of Nigeria,"",Member,NBA,"",Member national executive,
+34,ADENIYI ANTHONY ADEMUYIWA,,2013-07-30,3663,2777,Action Congress of Nigeria,"",Member,National Constitutional,"",Delegate,
+34,ADENIYI ANTHONY ADEMUYIWA,1990,1992,3665,2777,Action Congress of Nigeria,"",Member,NBA,Akure Branch,Chairman,Ondo
+34,ADENIYI ANTHONY ADEMUYIWA,2000,2007,3666,2777,Action Congress of Nigeria,"",Member,Omega Bank PLC,"",Chairman,
+34,ADENIYI ANTHONY ADEMUYIWA,2013-07-31,,3664,5633,All Progressives Congress (APC),"",Member,NBA,"",Member national executive,
+34,ADENIYI ANTHONY ADEMUYIWA,2013-07-31,,3663,5633,All Progressives Congress (APC),"",Member,National Constitutional,"",Delegate,
+33,ADEKUNLE ADEYEMI,1999,2003,4151,2719,Action Congress of Nigeria,"",Member,"Ogun State, Nigeria",Special Adviser To The Governor On Legal Matters,Special Adviser,Ogun
 519,Abdulfatah Ahmed,2013,2019-05-29,5760,6244,All Progressives Congress (APC),"",Member,"Kwara State, Nigeria","",Executive Governor,Kwara
+348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5071,2882,Democratic Peoples Party,"",Member,Udu Council,"",Executive Chairman,Delta
+348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5070,2882,Democratic Peoples Party,"",Member,Okpe Council,"",Executive Chairman,Delta
+348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5073,2882,Democratic Peoples Party,"",Member,N.B.R.R.I,"",Governing Board Chairman,
+348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5072,2882,Democratic Peoples Party,"",Member,PDP Delta,"",State Deputy Chairman,Delta
+348,OGBABURHON OKPOVIEKPURAI AUSTI,,,5074,2882,Democratic Peoples Party,"",Member,Delta State Waste Management Board,"",Chairman,Delta
 476,Godswill Obot Akpabio,2007-05-29,2015-05-29,5495,5496,Peoples Democratic Party,"",Member,"Akwa Ibom State, Nigeria","",Executive Governor,Akwa Ibom
-25,ABIOSE IFEOLUWA AROWOSOGE,,2013-07-30,4114,2717,Action Congress of Nigeria,"",Member,EKITI S/W LOCAL GOVT.,"",Chairman,Ekiti
-25,ABIOSE IFEOLUWA AROWOSOGE,,2013-07-30,4115,2717,Action Congress of Nigeria,"",Member,EKITI STATE AGRIC INPUTS SUPPLY AGENCY,"",Chairman,Ekiti
-25,ABIOSE IFEOLUWA AROWOSOGE,2013-07-31,,4114,5574,All Progressives Congress (APC),"",Member,EKITI S/W LOCAL GOVT.,"",Chairman,Ekiti
-25,ABIOSE IFEOLUWA AROWOSOGE,2013-07-31,,4115,5574,All Progressives Congress (APC),"",Member,EKITI STATE AGRIC INPUTS SUPPLY AGENCY,"",Chairman,Ekiti
+259,KAKA KYARI GUJBAWU,2003,2007,4778,3010,Peoples Democratic Party,"",Member,"Yobe State, Nigeria",SA (Agric) To Gov,"",Yobe
 498,Umaru Tanko Al-Makura,2011-05-29,2013-07-30,5540,5541,Congress for Progressive Change,"",Member,"Nasarawa State, Nigeria","",Executive Governor,Nasarawa
 498,Umaru Tanko Al-Makura,2013-07-31,2019-05-29,5540,5568,All Progressives Congress (APC),"",Member,"Nasarawa State, Nigeria","",Executive Governor,Nasarawa
+7,ABDUL - KABIRU ABAYOMI AYEOLA,,2013-07-30,4022,2712,Action Congress of Nigeria,"",Member,N.U.T IJEBBU - LEKKI L.G.,"",Secretary,
+7,ABDUL - KABIRU ABAYOMI AYEOLA,,2013-07-30,4021,2712,Action Congress of Nigeria,"",Member,LEKKI L.C.D.A,"",Chairman,
+7,ABDUL - KABIRU ABAYOMI AYEOLA,2013-07-31,,4022,5731,All Progressives Congress (APC),"",Member,N.U.T IJEBBU - LEKKI L.G.,"",Secretary,
+7,ABDUL - KABIRU ABAYOMI AYEOLA,2013-07-31,,4021,5731,All Progressives Congress (APC),"",Member,LEKKI L.C.D.A,"",Chairman,
+170,ESSIEN EKPEYONG AYI,1995,2002,4508,2971,Peoples Democratic Party,"",Member,Calabar South Local Government Area,"",Chairman,Cross River
 12,ABDULLAHI SALAME BALARABE,,2014,4053,2900,Peoples Democratic Party,"",Member,Gwadabawa L.G,Supervisor Edu. & Social Dev. ,Councillor,
 12,ABDULLAHI SALAME BALARABE,2008-04-11,2008-05-28,4051,2900,Peoples Democratic Party,"",Member,"Sokoto State, Nigeria","",Ag. Governor,
 12,ABDULLAHI SALAME BALARABE,2014,,4053,6600,All Progressives Congress (APC),"",Member,Gwadabawa L.G,Supervisor Edu. & Social Dev. ,Councillor,
-98,Benedict Ayade,2015-05-29,2019-05-29,6221,3117,Peoples Democratic Party,"",Member,"Cross River State, Nigeria","",Executive Governor,Cross River
+458,YAKUBU UMARU BARDE,,,5392,3095,Peoples Democratic Party,"",Member,Chikum Local Government,"",Chairman,Kaduna
+468,ZAPHANIAH JISALO BITRUS,2004,2010,5425,3100,Peoples Democratic Party,"",Member,ABUJA MUNICIPAL AREA COUNCIL,"",Chairman,Abuja
+358,OLAYEMI SIKIRU BUSARI,,2007,5119,2709,ACCORD,"",Member,"Egbeda, LG","",Councilor Chairman,
 487,Sullivan Chime,2007-05-29,2015-05-29,5518,5519,Peoples Democratic Party,"",Member,"Enugu State, Nigeria","",Executive Governor,Enugu
+318,MUHTARI MUHAMMAD CHIROMAWA,,2014,4958,3029,Peoples Democratic Party,"",Member,Kura Local Government Council,"",Chairman,
+318,MUHTARI MUHAMMAD CHIROMAWA,2014,,4958,6863,All Progressives Congress (APC),"",Member,Kura Local Government Council,"",Chairman,
 494,Usman Saidu Nasamu Dakingari,2012-04-02,2015-05-29,5532,5533,Peoples Democratic Party,"",Member,"Kebbi State, Nigeria","",Executive Governor,Kebbi
 488,Ibrahim Hassan Dankwambo,2011-05-29,2019-05-29,5520,5521,Peoples Democratic Party,"",Member,"Gombe State, Nigeria","",Executive Governor,Gombe
-181,FORT IFEANYI DIKE,,,4546,2976,Peoples Democratic Party,"",Member,DPN,"",National Vice Chairman (South East),
 181,FORT IFEANYI DIKE,,,4547,2976,Peoples Democratic Party,"",Member,Ihiala Local Govt. Council,"",Elected Council Chairman,
+181,FORT IFEANYI DIKE,,,4546,2976,Peoples Democratic Party,"",Member,DPN,"",National Vice Chairman (South East),
+470,MUTU NICHOLAS EBOMO,,,5465,5462,Peoples Democratic Party,"",Member,Bomadi Local Government,"",Elected Chairman,
+239,ISAH DOBI EGAH,,,4717,3002,Peoples Democratic Party,"",Member,GWAGWALADA L.G.A,"",Chairman,Abuja
+515,Martin Elechi,2007-05-29,2015-05-29,5747,5748,Peoples Democratic Party,"",Member,"Ebonyi State, Nigeria","",Executive Governor,Ebonyi
+687,Nasir El-Rufai,2015-05-29,2019-05-29,6231,6230,All Progressives Congress (APC),"",Member,"Kaduna State, Nigeria","",Executive Governor,Kaduna
+56,NNAJI GILBERT EMEKA,1997,2002,3695,3109,Peoples Democratic Party,"",Member,Enugu East L.G.A,"",Chairman,Enugu
+364,OMOSULE ENIOTIOLORUNDA,,,5136,2894,Labour Party,"",Member,PDP Ose Local Government Council,"",Secretary,
+353,OJAKOVO OBORO OMAVOWAN EVELYN,,,5097,3050,Peoples Democratic Party,"",Member,Uvwie Local Govt. Delta State,"",Executive Chairman,Delta
+497,Babatunde Fashola,2007-05-29,2015-05-29,5538,5539,All Progressives Congress (APC),"",Member,"Lagos State, Nigeria","",Executive Governor,Lagos
+486,Kayode Fayemi,2010-10-15,2013-07-30,5516,5517,Action Congress of Nigeria,"",Member,"Ekiti State, Nigeria","",Executive Governor,Ekiti
+486,Kayode Fayemi,2013-07-31,2014-10-15,5516,5569,All Progressives Congress (APC),"",Member,"Ekiti State, Nigeria","",Executive Governor,Ekiti
 508,Ibrahim Geidam,2009-01-27,2013-07-30,5561,5562,All Nigeria Peoples Party,"",Member,"Yobe State, Nigeria","",Executive Governor,Yobe
 508,Ibrahim Geidam,2013-07-31,2019-05-29,5561,5570,All Progressives Congress (APC),"",Member,"Yobe State, Nigeria","",Executive Governor,Yobe
-192,GEMADE BARNABAS ANDYAR IYORHER,,2013,3813,3130,Peoples Democratic Party,"",Member,National Constitutional Conference,"",Elected member,
-192,GEMADE BARNABAS ANDYAR IYORHER,,2005,3832,3130,Peoples Democratic Party,"",Member,National Political Reform Conference,"",Member,
+402,SHUAIBU GWANDU GOBIR,,,5260,3070,Peoples Democratic Party,"",Member,Local Government Council,"",Chairman,
+90,Arthur Okowa Ifeanyi,2015-05-29,2019-05-29,6222,3116,Peoples Democratic Party,"",Member,"Delta State, Nigeria","",Executive Governor,Delta
+273,EKWEREMADU IKE,1997,1998,3804,3143,Peoples Democratic Party,"",Member,Aninri LGA,"",Chairman,Enugu
+133,CHINENYE FERDINARD IKE,,,4395,2950,Peoples Democratic Party,"",Member,PDP Abia State,"",Vice-Chairman,Abia
+692,Darius Ishaku,2015-05-29,2019-05-29,6243,6242,Peoples Democratic Party,"",Member,"Taraba State, Nigeria","",Executive Governor,Taraba
+411,SUARAU OLUWATOYIN ISIAKA,,2013-07-30,5290,2771,Action Congress of Nigeria,"",Member,OJO LOCAL GOVT COUNCIL LAGOS,"",Chairman,Lagos State
+411,SUARAU OLUWATOYIN ISIAKA,2013-07-31,,5290,5627,All Progressives Congress (APC),"",Member,OJO LOCAL GOVT COUNCIL LAGOS,"",Chairman,Lagos State
 192,GEMADE BARNABAS ANDYAR IYORHER,,2013,3842,3130,Peoples Democratic Party,"",Member,Congress for National Consensus,"",National Chairman,
+192,GEMADE BARNABAS ANDYAR IYORHER,,2005,3832,3130,Peoples Democratic Party,"",Member,National Political Reform Conference,"",Member,
+192,GEMADE BARNABAS ANDYAR IYORHER,,2013,3813,3130,Peoples Democratic Party,"",Member,National Constitutional Conference,"",Elected member,
 192,GEMADE BARNABAS ANDYAR IYORHER,1997,1998,3860,3130,Peoples Democratic Party,"",Member,Congress for National Consensus,"",National Treasurer,
 192,GEMADE BARNABAS ANDYAR IYORHER,1999,2000,3832,3890,Peoples Democratic Party,"",National Chairman,National Political Reform Conference,"",Member,
-192,GEMADE BARNABAS ANDYAR IYORHER,1999,2000,3842,3890,Peoples Democratic Party,"",National Chairman,Congress for National Consensus,"",National Chairman,
 192,GEMADE BARNABAS ANDYAR IYORHER,1999,2000,3813,3890,Peoples Democratic Party,"",National Chairman,National Constitutional Conference,"",Elected member,
-75,ALIYU SANI MADAKI,,2014,4248,2922,Peoples Democratic Party,"",Member,SUG Kano State Polytechnic,"",President,Kano
-75,ALIYU SANI MADAKI,,2014,4249,2922,Peoples Democratic Party,"",Member,SUG Federal Polytechnic Mubi,"",Secretary,Borno
-75,ALIYU SANI MADAKI,2014,,4248,6859,All Progressives Congress (APC),"",Member,SUG Kano State Polytechnic,"",President,Kano
-75,ALIYU SANI MADAKI,2014,,4249,6859,All Progressives Congress (APC),"",Member,SUG Federal Polytechnic Mubi,"",Secretary,Borno
-534,Bala James Ngilari,2007-05-29,2014-10-08,5794,5793,Peoples Democratic Party,"",Member,"Adamawa State, Nigeria","",Deputy Governor,
-474,Theodore Ahamefule Orji,2007-05-29,2015-05-29,5491,5492,Peoples Democratic Party,"",Member,"Abia State, Nigeria","",Executive Governor,Abia
+192,GEMADE BARNABAS ANDYAR IYORHER,1999,2000,3842,3890,Peoples Democratic Party,"",National Chairman,Congress for National Consensus,"",National Chairman,
+249,JAGABA ADAMS JAGABA,1996,1997,4739,3005,Peoples Democratic Party,"",Member,Kagarko LGC,"",Vice-Chairman,Kaduna
+249,JAGABA ADAMS JAGABA,1996,1997,4739,4741,PDP,"",State Secretary,Kagarko LGC,"",Vice-Chairman,Kaduna
+180,FOINGHA JEPHTHA,,2009,4544,2975,Peoples Democratic Party,"",Member,Senior Secondary Schools Board,"",Chairman,
+525,Olusegun Mimiko,,2014,5772,5773,Labour Party,"",Member,"Ondo State, Nigeria","",Executive Governor,Ondo
+525,Olusegun Mimiko,2014,2016-05-29,5772,5910,Peoples Democratic Party,"",Member,"Ondo State, Nigeria","",Executive Governor,Ondo
 485,Adams Oshiomhole,2008-11-12,2013-07-30,5514,5515,Action Congress of Nigeria,"",Member,"Edo State, Nigeria","",Executive Governor,Edo
 485,Adams Oshiomhole,2013-07-31,2016-11-12,5514,5571,All Progressives Congress (APC),"",Member,"Edo State, Nigeria","",Executive Governor,Edo
-507,Danbaba Suntai,2011,2015-05-29,5559,5560,Peoples Democratic Party,"",Member,"Taraba State, Nigeria","",Executive Governor,Taraba
 355,OKWURU CHUKWUEMEKA TOBIAS,1996,1997,5102,3051,Peoples Democratic Party,"",Member,Amudo / Okoffia ward,"",Councillor,Ebonyi
+528,Aliyu Magatakarda Wamakko,2013,2015-05-29,5778,5979,All Progressives Congress (APC),"",Member,"Sokoto State, Nigeria","",Executive Governor,Sokoto
