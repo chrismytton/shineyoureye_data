@@ -1,68 +1,68 @@
-person_id,person_name,organisation_name,area,start_date,end_date
-155,DARIYE JOSHUA CHIBI,,Plateau,1999,2007
-479,Henry Seriake Dickson,,Bayelsa,2012-02-14,
-481,Kashim Shettima,"Borno State, Nigeria",Borno,2011-05-29,2019-05-29
-476,Godswill Obot Akpabio,"Akwa Ibom State, Nigeria",Akwa Ibom,2007-05-29,2015-05-29
-475,Murtala Nyako,,Adamawa,2008-04-29,2014-07-15
-497,Babatunde Fashola,"Lagos State, Nigeria",Lagos,2007-05-29,2015-05-29
-508,Ibrahim Geidam,"Yobe State, Nigeria",Yobe,2009-01-27,2019-05-29
-510,Bala Abdulkadir Muhammed,"Federal Capital Territory, Nigeria",Federal Capital Territory,2010-04-06,2015-05-29
-480,Gabriel Suswam,,Benue,2007-05-29,2015-05-29
-511,Isa Yuguda,,Bauchi,"",2015-05-29
-477,Peter Obi,,Anambra,2007-06-14,2014-03-17
-487,Sullivan Chime,"Enugu State, Nigeria",Enugu,2007-05-29,2015-05-29
-486,Kayode Fayemi,"Ekiti State, Nigeria",Ekiti,2010-10-15,2014-10-15
-521,Mu'azu Babangida Aliyu,"Niger State, Nigeria",Niger,"",2015-05-29
-485,Adams Oshiomhole,"Edo State, Nigeria",Edo,2008-11-12,2016-11-12
-488,Ibrahim Hassan Dankwambo,"Gombe State, Nigeria",Gombe,2011-05-29,2019-05-29
-518,Mohammed Rabiu Musa Kwankwaso,"Kano State, Nigeria",Kano,"",2015-05-29
-514,Emmanuel Uduaghan,"Delta State, Nigeria",Delta,"",2015-05-29
-515,Martin Elechi,"Ebonyi State, Nigeria",Ebonyi,2007-05-29,2015-05-29
-493,Ibrahim Shehu Shema,"Katsina State, Nigeria",Katsina,2007-05-29,2015-05-29
-517,Sule Lamido,"Jigawa State, Nigeria",Jigawa,"",2015-05-29
-520,Idris Wada,"Kogi State, Nigeria",Kogi,"",2016-01-27
-491,Mukhtar Ramalan Yero,"Kaduna State, Nigeria",Kaduna,2012-12-16,2015-05-29
-527,Rotimi Amaechi,"Rivers State, Nigeria",Rivers,2007,2015-05-29
-532,Willie Maduabuchukwu Obiano,"Anambra State, Nigeria",Anambra,2014-03-17,2018-03-17
-494,Usman Saidu Nasamu Dakingari,"Kebbi State, Nigeria",Kebbi,2012-04-02,2015-05-29
-498,Umaru Tanko Al-Makura,"Nasarawa State, Nigeria",Nasarawa,2011-05-29,2019-05-29
-522,Abiola Ajimobi,"Oyo State, Nigeria",Oyo,2011-05-29,2019-05-29
-525,Olusegun Mimiko,"Ondo State, Nigeria",Ondo,"",2016-05-29
-482,Liyel Imoke,,Cross River,2007-05-29,2015-05-29
-524,Rauf Aregbesola,"Osun State, Nigeria",Osun,"",2018-11-25
-534,Bala James Ngilari,"Adamawa State, Nigeria",,2014-10-08,2015-05-29
-507,Danbaba Suntai,"Taraba State, Nigeria",Taraba,2011,2015-05-29
-526,Jonathan David Jang,"Plateau State, Nigeria",Plateau,"",2015-05-29
-528,Aliyu Magatakarda Wamakko,"Sokoto State, Nigeria",Sokoto,"",2015-05-29
-509,Abdul-Aziz Yari Abubakar,"Zamfara State, Nigeria",Zamfara,2011-05-29,2019-05-29
-523,Ibikunle Amosun,"Ogun State, Nigeria",Ogun,2011-05-29,2019-05-29
-252,Jibrilla Bindow,"Adamawa State, Nigeria",Adamawa,2015-05-29,2019-05-29
-561,Ahmed Sani Yerima,"Zamfara State, Nigeria",Zamfara,1999-05-29,2007-05-29
-571,Peter Ayodele Fayose,,Ekiti,2014-10-16,2018-10-16
-571,Peter Ayodele Fayose,,Ekiti,2003-05-29,2006-10-16
-572,Akinwunmi Ambode,"Lagos State, Nigeria",Lagos,2015-05-29,2019-05-29
-518,Mohammed Rabiu Musa Kwankwaso,"Kano State, Nigeria",Kano,1999-05-29,2003-05-29
-453,Waziri Aminu Tambuwal,"Sokoto State, Nigeria",Sokoto,2015-05-29,2019-05-29
-516,Owelle Rochas Okorocha,"Imo State, Nigeria",Imo,2011-05-29,2019-05-29
-552,Samuel Egwu,"Ebonyi State, Nigeria",,1999,2007
-519,Abdulfatah Ahmed,"Kwara State, Nigeria",Kwara,2011-05-29,2019-05-29
-680,Okezie Ikpeazu,"Abia State, Nigeria",Abia,2015-05-29,2019-05-29
-686,Umar Ganduje,"Kano State, Nigeria",Kano,2015-05-29,2019-05-29
-689,Abubakar Sani Bello,"Niger State, Nigeria",Niger,2015-05-29,2019-05-29
-690,Simon Lalong,"Plateau State, Nigeria",Plateau,2015-05-29,2019-05-29
-683,Samuel Ortom,"Benue State, Nigeria",Benue,2015-05-29,2019-05-29
-431,Ugwuanyi Ifeanyi,"Enugu State, Nigeria",Enugu,2015-05-29,2019-05-29
-687,Nasir El-Rufai,"Kaduna State, Nigeria",Kaduna,2015-05-29,2019-05-29
-688,Aminu Bello Masari,"Katsina State, Nigeria",Katsina,2015-05-29,2019-05-29
-685,Abubakar Badaru,"Jigawa State, Nigeria",Jigawa,2015-05-29,2019-05-29
-684,Dave Umahi,"Ebonyi State, Nigeria",Ebonyi,2015-05-29,2019-05-29
-98,Benedict Ayade,"Cross River State, Nigeria",Cross River,2015-05-29,2019-05-29
-90,Arthur Okowa Ifeanyi,"Delta State, Nigeria",Delta,2015-05-29,2019-05-29
-108,Bagudu Abubakar Atiku,"Kebbi State, Nigeria",Kebbi,2015-05-29,2019-05-29
-691,Nyesom Wike,"Rivers State, Nigeria",Rivers,2015-05-29,2019-05-29
-681,Emmanuel Udom,"Akwa Ibom State, Nigeria",Akwa Ibom,2015-05-29,2019-05-29
-682,Mohammed Abubakar,"Bauchi State, Nigeria",Bauchi,2015-05-29,2019-05-29
-692,Darius Ishaku,"Taraba State, Nigeria",Taraba,2015-05-29,2019-05-29
-474,Theodore Ahamefule Orji,"Abia State, Nigeria",Abia,2007-05-29,2015-05-29
-584,Isiaka Adeleke,,Osun,1992,1993
-939,Yahaya Bello,"Kogi State, Nigeria",Kogi,2016-01-27,2020-01-27
+person_id,person_name,area,image,start_date,end_date
+534,Bala James Ngilari,,http://www.shineyoureye.org/media_root/images/Bala-Ngilari.jpg,2014-10-08,2015-05-29
+90,Arthur Okowa Ifeanyi,Delta,http://www.shineyoureye.org/media_root/images/Delta_-_Ifeanyi_Okowa.jpg,2015-05-29,2019-05-29
+108,Bagudu Abubakar Atiku,Kebbi,http://www.shineyoureye.org/media_root/images/Kebbi_-_Atiku_Bagudu.jpg,2015-05-29,2019-05-29
+155,DARIYE JOSHUA CHIBI,Plateau,http://www.shineyoureye.org/media_root/images/dariye-joshua-chibi,1999,2007
+252,Jibrilla Bindow,Adamawa,http://www.shineyoureye.org/media_root/images/jibrilla-bindawa,2015-05-29,2019-05-29
+453,Waziri Aminu Tambuwal,Sokoto,http://www.shineyoureye.org/media_root/images/waziri-aminu-tambuwal,2015-05-29,2019-05-29
+431,Ugwuanyi Ifeanyi,Enugu,http://www.shineyoureye.org/media_root/images/Enugu_-_Ifeanyi_Ugwuanyi.jpg,2015-05-29,2019-05-29
+491,Mukhtar Ramalan Yero,Kaduna,http://www.shineyoureye.org/media_root/images/yero-potrait-official.jpg,2012-12-16,2015-05-29
+474,Theodore Ahamefule Orji,Abia,http://www.shineyoureye.org/media_root/images/theodore-orji.jpg,2007-05-29,2015-05-29
+476,Godswill Obot Akpabio,Akwa Ibom,http://www.shineyoureye.org/media_root/images/Gov-godswill-akpabio.jpg,2007-05-29,2015-05-29
+532,Willie Maduabuchukwu Obiano,Anambra,http://www.shineyoureye.org/media_root/images/obiano-2.jpg,2014-03-17,2018-03-17
+511,Isa Yuguda,Bauchi,http://www.shineyoureye.org/media_root/images/Yuguda_Isa_1.jpg,"",2015-05-29
+479,Henry Seriake Dickson,Bayelsa,http://www.shineyoureye.org/media_root/images/dickson_1.jpg,2012-02-14,
+480,Gabriel Suswam,Benue,http://www.shineyoureye.org/media_root/images/Gabriel-Suswam1.jpg,2007-05-29,2015-05-29
+481,Kashim Shettima,Borno,http://www.shineyoureye.org/media_root/images/shettima.jpg,2011-05-29,2019-05-29
+482,Liyel Imoke,Cross River,http://www.shineyoureye.org/media_root/images/liyel_Imoke.jpg,2007-05-29,2015-05-29
+514,Emmanuel Uduaghan,Delta,http://www.shineyoureye.org/media_root/images/uduaghan.jpg,"",2015-05-29
+515,Martin Elechi,Ebonyi,http://www.shineyoureye.org/media_root/images/Gov-Elechi-of-Ebonyi.jpg,2007-05-29,2015-05-29
+485,Adams Oshiomhole,Edo,http://www.shineyoureye.org/media_root/images/adams-oshiomole.jpg,2008-11-12,2016-11-12
+486,Kayode Fayemi,Ekiti,http://www.shineyoureye.org/media_root/images/Kayode-Fayemi.jpg,2010-10-15,2014-10-15
+487,Sullivan Chime,Enugu,http://www.shineyoureye.org/media_root/images/Gov.-Sullivan-Chime1.jpg,2007-05-29,2015-05-29
+510,Bala Abdulkadir Muhammed,Federal Capital Territory,http://www.shineyoureye.org/media_root/images/Senator-Bala-Abdulkadir-Mohammed--Minister-of-the-Federal-Capital-Territory--FCT-.jpg,2010-04-06,2015-05-29
+488,Ibrahim Hassan Dankwambo,Gombe,http://www.shineyoureye.org/media_root/images/wpid-13603037670713.jpg,2011-05-29,2019-05-29
+516,Owelle Rochas Okorocha,Imo,http://www.shineyoureye.org/media_root/images/owelle-Rochas-Okorocha.jpg,2011-05-29,2019-05-29
+517,Sule Lamido,Jigawa,http://www.shineyoureye.org/media_root/images/LAMIDO-chosen.jpg,"",2015-05-29
+518,Mohammed Rabiu Musa Kwankwaso,Kano,http://www.shineyoureye.org/media_root/images/kwankwaso.jpg,1999-05-29,2003-05-29
+518,Mohammed Rabiu Musa Kwankwaso,Kano,http://www.shineyoureye.org/media_root/images/kwankwaso.jpg,"",2015-05-29
+493,Ibrahim Shehu Shema,Katsina,http://www.shineyoureye.org/media_root/images/IbrahimShehuShema.png,2007-05-29,2015-05-29
+494,Usman Saidu Nasamu Dakingari,Kebbi,http://www.shineyoureye.org/media_root/images/dakingari.jpg,2012-04-02,2015-05-29
+520,Idris Wada,Kogi,http://www.shineyoureye.org/media_root/images/Idris-Wada-kogi.png,"",2016-01-27
+519,Abdulfatah Ahmed,Kwara,http://www.shineyoureye.org/media_root/images/Governor-Abdulfatah-Ahmed-1.jpg,2011-05-29,2019-05-29
+497,Babatunde Fashola,Lagos,http://www.shineyoureye.org/media_root/images/babatunde_raji_fashola.jpg,2007-05-29,2015-05-29
+498,Umaru Tanko Al-Makura,Nasarawa,http://www.shineyoureye.org/media_root/images/tanko-al-Makura.jpg,2011-05-29,2019-05-29
+521,Mu'azu Babangida Aliyu,Niger,http://www.shineyoureye.org/media_root/images/muazu-babangida-aliyu-1.jpg,"",2015-05-29
+523,Ibikunle Amosun,Ogun,http://www.shineyoureye.org/media_root/images/ibikunle-amosun.jpg,2011-05-29,2019-05-29
+525,Olusegun Mimiko,Ondo,http://www.shineyoureye.org/media_root/images/mimiko.jpg,"",2016-05-29
+522,Abiola Ajimobi,Oyo,http://www.shineyoureye.org/media_root/images/Abiola_ajimobi.jpg,2011-05-29,2019-05-29
+526,Jonathan David Jang,Plateau,http://www.shineyoureye.org/media_root/images/GOV_Jonah-Jang.jpg,"",2015-05-29
+527,Rotimi Amaechi,Rivers,http://www.shineyoureye.org/media_root/images/2-Duncan-OnoBello-602.jpg,2007,2015-05-29
+507,Danbaba Suntai,Taraba,http://www.shineyoureye.org/media_root/images/Gov-Danbaba-suntai.jpg,2011,2015-05-29
+508,Ibrahim Geidam,Yobe,http://www.shineyoureye.org/media_root/images/Gov.-Ibrahim-Geidam.jpg,2009-01-27,2019-05-29
+509,Abdul-Aziz Yari Abubakar,Zamfara,http://www.shineyoureye.org/media_root/images/abdulaziz_yari_abubakar.jpg,2011-05-29,2019-05-29
+528,Aliyu Magatakarda Wamakko,Sokoto,http://www.shineyoureye.org/media_root/images/wammako1.jpg,"",2015-05-29
+561,Ahmed Sani Yerima,Zamfara,http://www.shineyoureye.org/media_root/images/APC_-_Sani_Yerima.jpg,1999-05-29,2007-05-29
+571,Peter Ayodele Fayose,Ekiti,http://www.shineyoureye.org/media_root/images/Ekiti_-_Fayose_2.jpg,2003-05-29,2006-10-16
+571,Peter Ayodele Fayose,Ekiti,http://www.shineyoureye.org/media_root/images/Ekiti_-_Fayose_2.jpg,2014-10-16,2018-10-16
+572,Akinwunmi Ambode,Lagos,http://www.shineyoureye.org/media_root/images/Ambode-Official.jpg,2015-05-29,2019-05-29
+552,Samuel Egwu,,http://www.shineyoureye.org/media_root/images/PDP_-_Samuel_Egwu.jpg,1999,2007
+584,Isiaka Adeleke,Osun,http://www.shineyoureye.org/media_root/images/APC_-_Isiaka_Adeleke.png,1992,1993
+683,Samuel Ortom,Benue,http://www.shineyoureye.org/media_root/images/Benue_-_Samuel_Ortom.jpg,2015-05-29,2019-05-29
+98,Benedict Ayade,Cross River,http://www.shineyoureye.org/media_root/images/Cross_River_-_Ben_Ayade.jpg,2015-05-29,2019-05-29
+684,Dave Umahi,Ebonyi,http://www.shineyoureye.org/media_root/images/Ebonyi_-_Dave_Umahi.jpg,2015-05-29,2019-05-29
+685,Abubakar Badaru,Jigawa,http://www.shineyoureye.org/media_root/images/Jigawa_-_Abubakar_Badaru.jpg,2015-05-29,2019-05-29
+686,Umar Ganduje,Kano,http://www.shineyoureye.org/media_root/images/Kano_-_Umar_Ganduje.jpeg,2015-05-29,2019-05-29
+687,Nasir El-Rufai,Kaduna,http://www.shineyoureye.org/media_root/images/Kaduna_-_Nasir_El-Rufai.jpg,2015-05-29,2019-05-29
+688,Aminu Bello Masari,Katsina,http://www.shineyoureye.org/media_root/images/Katsina_-_Aminu_Bello_Masari.jpg,2015-05-29,2019-05-29
+689,Abubakar Sani Bello,Niger,http://www.shineyoureye.org/media_root/images/Niger_-_Abubakar_Sani_Bello.jpg,2015-05-29,2019-05-29
+690,Simon Lalong,Plateau,http://www.shineyoureye.org/media_root/images/Plateau_-_Simon_Lalong.jpg,2015-05-29,2019-05-29
+680,Okezie Ikpeazu,Abia,http://www.shineyoureye.org/media_root/images/Abia_-_Okezie_Ikpeazu.jpg,2015-05-29,2019-05-29
+524,Rauf Aregbesola,Osun,http://www.shineyoureye.org/media_root/images/Osun_-_Aregbesola.jpg,"",2018-11-25
+691,Nyesom Wike,Rivers,http://www.shineyoureye.org/media_root/images/Rivers_-_Nyesom_Wike.jpg,2015-05-29,2019-05-29
+692,Darius Ishaku,Taraba,http://www.shineyoureye.org/media_root/images/Taraba_-_Darius_Ishaku.jpg,2015-05-29,2019-05-29
+681,Emmanuel Udom,Akwa Ibom,http://www.shineyoureye.org/media_root/images/Akwa_Ibom_-_Emmanuel_Udom.jpg,2015-05-29,2019-05-29
+682,Mohammed Abubakar,Bauchi,http://www.shineyoureye.org/media_root/images/Bauchi_-_Mohammed_Abubakar.jpg,2015-05-29,2019-05-29
+939,Yahaya Bello,Kogi,http://www.shineyoureye.org/media_root/images/Kogi_-_Yahaya_Bello_1.jpg,2016-01-27,2020-01-27
+475,Murtala Nyako,Adamawa,,2008-04-29,2014-07-15
+477,Peter Obi,Anambra,,2007-06-14,2014-03-17
