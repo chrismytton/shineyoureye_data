@@ -1,5 +1,5 @@
 person_id,person_name,area,image,start_date,end_date
-534,Bala James Ngilari,,http://www.shineyoureye.org/media_root/images/Bala-Ngilari.jpg,2014-10-08,2015-05-29
+534,Bala James Ngilari,Adamawa,http://www.shineyoureye.org/media_root/images/Bala-Ngilari.jpg,2014-10-08,2015-05-29
 90,Arthur Okowa Ifeanyi,Delta,http://www.shineyoureye.org/media_root/images/Delta_-_Ifeanyi_Okowa.jpg,2015-05-29,2019-05-29
 108,Bagudu Abubakar Atiku,Kebbi,http://www.shineyoureye.org/media_root/images/Kebbi_-_Atiku_Bagudu.jpg,2015-05-29,2019-05-29
 155,DARIYE JOSHUA CHIBI,Plateau,http://www.shineyoureye.org/media_root/images/dariye-joshua-chibi,1999,2007
@@ -46,7 +46,7 @@ person_id,person_name,area,image,start_date,end_date
 571,Peter Ayodele Fayose,Ekiti,http://www.shineyoureye.org/media_root/images/Ekiti_-_Fayose_2.jpg,2003-05-29,2006-10-16
 571,Peter Ayodele Fayose,Ekiti,http://www.shineyoureye.org/media_root/images/Ekiti_-_Fayose_2.jpg,2014-10-16,2018-10-16
 572,Akinwunmi Ambode,Lagos,http://www.shineyoureye.org/media_root/images/Ambode-Official.jpg,2015-05-29,2019-05-29
-552,Samuel Egwu,,http://www.shineyoureye.org/media_root/images/PDP_-_Samuel_Egwu.jpg,1999,2007
+552,Samuel Egwu,Ebonyi,http://www.shineyoureye.org/media_root/images/PDP_-_Samuel_Egwu.jpg,1999,2007
 584,Isiaka Adeleke,Osun,http://www.shineyoureye.org/media_root/images/APC_-_Isiaka_Adeleke.png,1992,1993
 683,Samuel Ortom,Benue,http://www.shineyoureye.org/media_root/images/Benue_-_Samuel_Ortom.jpg,2015-05-29,2019-05-29
 98,Benedict Ayade,Cross River,http://www.shineyoureye.org/media_root/images/Cross_River_-_Ben_Ayade.jpg,2015-05-29,2019-05-29
