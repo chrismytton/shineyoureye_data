@@ -1,4 +1,4 @@
-person_id,slug,person_name,area,image,start_date,end_date
+person_id,slug,name,area,image,start_date,end_date
 534,bala-james-ngilari,Bala James Ngilari,Adamawa,http://www.shineyoureye.org/media_root/images/Bala-Ngilari.jpg,2014-10-08,2015-05-29
 90,arthur-okowa-ifeanyi,Arthur Okowa Ifeanyi,Delta,http://www.shineyoureye.org/media_root/images/Delta_-_Ifeanyi_Okowa.jpg,2015-05-29,2019-05-29
 108,bagudu-abubakar-atiku,Bagudu Abubakar Atiku,Kebbi,http://www.shineyoureye.org/media_root/images/Kebbi_-_Atiku_Bagudu.jpg,2015-05-29,2019-05-29
