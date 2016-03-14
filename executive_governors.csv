@@ -1,0 +1,68 @@
+person_id,person_name,organisation_name,area,start_date,end_date
+155,DARIYE JOSHUA CHIBI,,Plateau,1999,2007
+479,Henry Seriake Dickson,,Bayelsa,2012-02-14,
+481,Kashim Shettima,"Borno State, Nigeria",Borno,2011-05-29,2019-05-29
+476,Godswill Obot Akpabio,"Akwa Ibom State, Nigeria",Akwa Ibom,2007-05-29,2015-05-29
+475,Murtala Nyako,,Adamawa,2008-04-29,2014-07-15
+497,Babatunde Fashola,"Lagos State, Nigeria",Lagos,2007-05-29,2015-05-29
+508,Ibrahim Geidam,"Yobe State, Nigeria",Yobe,2009-01-27,2019-05-29
+510,Bala Abdulkadir Muhammed,"Federal Capital Territory, Nigeria",Federal Capital Territory,2010-04-06,2015-05-29
+480,Gabriel Suswam,,Benue,2007-05-29,2015-05-29
+511,Isa Yuguda,,Bauchi,"",2015-05-29
+477,Peter Obi,,Anambra,2007-06-14,2014-03-17
+487,Sullivan Chime,"Enugu State, Nigeria",Enugu,2007-05-29,2015-05-29
+486,Kayode Fayemi,"Ekiti State, Nigeria",Ekiti,2010-10-15,2014-10-15
+521,Mu'azu Babangida Aliyu,"Niger State, Nigeria",Niger,"",2015-05-29
+485,Adams Oshiomhole,"Edo State, Nigeria",Edo,2008-11-12,2016-11-12
+488,Ibrahim Hassan Dankwambo,"Gombe State, Nigeria",Gombe,2011-05-29,2019-05-29
+518,Mohammed Rabiu Musa Kwankwaso,"Kano State, Nigeria",Kano,"",2015-05-29
+514,Emmanuel Uduaghan,"Delta State, Nigeria",Delta,"",2015-05-29
+515,Martin Elechi,"Ebonyi State, Nigeria",Ebonyi,2007-05-29,2015-05-29
+493,Ibrahim Shehu Shema,"Katsina State, Nigeria",Katsina,2007-05-29,2015-05-29
+517,Sule Lamido,"Jigawa State, Nigeria",Jigawa,"",2015-05-29
+520,Idris Wada,"Kogi State, Nigeria",Kogi,"",2016-01-27
+491,Mukhtar Ramalan Yero,"Kaduna State, Nigeria",Kaduna,2012-12-16,2015-05-29
+527,Rotimi Amaechi,"Rivers State, Nigeria",Rivers,2007,2015-05-29
+532,Willie Maduabuchukwu Obiano,"Anambra State, Nigeria",Anambra,2014-03-17,2018-03-17
+494,Usman Saidu Nasamu Dakingari,"Kebbi State, Nigeria",Kebbi,2012-04-02,2015-05-29
+498,Umaru Tanko Al-Makura,"Nasarawa State, Nigeria",Nasarawa,2011-05-29,2019-05-29
+522,Abiola Ajimobi,"Oyo State, Nigeria",Oyo,2011-05-29,2019-05-29
+525,Olusegun Mimiko,"Ondo State, Nigeria",Ondo,"",2016-05-29
+482,Liyel Imoke,,Cross River,2007-05-29,2015-05-29
+524,Rauf Aregbesola,"Osun State, Nigeria",Osun,"",2018-11-25
+534,Bala James Ngilari,"Adamawa State, Nigeria",,2014-10-08,2015-05-29
+507,Danbaba Suntai,"Taraba State, Nigeria",Taraba,2011,2015-05-29
+526,Jonathan David Jang,"Plateau State, Nigeria",Plateau,"",2015-05-29
+528,Aliyu Magatakarda Wamakko,"Sokoto State, Nigeria",Sokoto,"",2015-05-29
+509,Abdul-Aziz Yari Abubakar,"Zamfara State, Nigeria",Zamfara,2011-05-29,2019-05-29
+523,Ibikunle Amosun,"Ogun State, Nigeria",Ogun,2011-05-29,2019-05-29
+252,Jibrilla Bindow,"Adamawa State, Nigeria",Adamawa,2015-05-29,2019-05-29
+561,Ahmed Sani Yerima,"Zamfara State, Nigeria",Zamfara,1999-05-29,2007-05-29
+571,Peter Ayodele Fayose,,Ekiti,2014-10-16,2018-10-16
+571,Peter Ayodele Fayose,,Ekiti,2003-05-29,2006-10-16
+572,Akinwunmi Ambode,"Lagos State, Nigeria",Lagos,2015-05-29,2019-05-29
+518,Mohammed Rabiu Musa Kwankwaso,"Kano State, Nigeria",Kano,1999-05-29,2003-05-29
+453,Waziri Aminu Tambuwal,"Sokoto State, Nigeria",Sokoto,2015-05-29,2019-05-29
+516,Owelle Rochas Okorocha,"Imo State, Nigeria",Imo,2011-05-29,2019-05-29
+552,Samuel Egwu,"Ebonyi State, Nigeria",,1999,2007
+519,Abdulfatah Ahmed,"Kwara State, Nigeria",Kwara,2011-05-29,2019-05-29
+680,Okezie Ikpeazu,"Abia State, Nigeria",Abia,2015-05-29,2019-05-29
+686,Umar Ganduje,"Kano State, Nigeria",Kano,2015-05-29,2019-05-29
+689,Abubakar Sani Bello,"Niger State, Nigeria",Niger,2015-05-29,2019-05-29
+690,Simon Lalong,"Plateau State, Nigeria",Plateau,2015-05-29,2019-05-29
+683,Samuel Ortom,"Benue State, Nigeria",Benue,2015-05-29,2019-05-29
+431,Ugwuanyi Ifeanyi,"Enugu State, Nigeria",Enugu,2015-05-29,2019-05-29
+687,Nasir El-Rufai,"Kaduna State, Nigeria",Kaduna,2015-05-29,2019-05-29
+688,Aminu Bello Masari,"Katsina State, Nigeria",Katsina,2015-05-29,2019-05-29
+685,Abubakar Badaru,"Jigawa State, Nigeria",Jigawa,2015-05-29,2019-05-29
+684,Dave Umahi,"Ebonyi State, Nigeria",Ebonyi,2015-05-29,2019-05-29
+98,Benedict Ayade,"Cross River State, Nigeria",Cross River,2015-05-29,2019-05-29
+90,Arthur Okowa Ifeanyi,"Delta State, Nigeria",Delta,2015-05-29,2019-05-29
+108,Bagudu Abubakar Atiku,"Kebbi State, Nigeria",Kebbi,2015-05-29,2019-05-29
+691,Nyesom Wike,"Rivers State, Nigeria",Rivers,2015-05-29,2019-05-29
+681,Emmanuel Udom,"Akwa Ibom State, Nigeria",Akwa Ibom,2015-05-29,2019-05-29
+682,Mohammed Abubakar,"Bauchi State, Nigeria",Bauchi,2015-05-29,2019-05-29
+692,Darius Ishaku,"Taraba State, Nigeria",Taraba,2015-05-29,2019-05-29
+474,Theodore Ahamefule Orji,"Abia State, Nigeria",Abia,2007-05-29,2015-05-29
+584,Isiaka Adeleke,,Osun,1992,1993
+939,Yahaya Bello,"Kogi State, Nigeria",Kogi,2016-01-27,2020-01-27
